@@ -1,0 +1,289 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Balkh Legends
+info,team,Paktia Panthers
+info,gender,male
+info,season,2018/19
+info,date,2018/10/13
+info,event,Afghanistan Premier League
+info,match_number,12
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Balkh Legends
+info,toss_decision,bat
+info,player_of_match,RN ten Doeschate
+info,umpire,Ahmed Shah Pakteen
+info,umpire,Bismillah Shinwari
+info,reserve_umpire,Muhammad Sabir
+info,tv_umpire,Ahmed Shah Durrani
+info,match_referee,DT Jukes
+info,winner,Balkh Legends
+info,winner_runs,89
+info,player,Balkh Legends,CH Gayle
+info,player,Balkh Legends,C Munro
+info,player,Balkh Legends,Darwish Rasooli
+info,player,Balkh Legends,RN ten Doeschate
+info,player,Balkh Legends,RS Bopara
+info,player,Balkh Legends,Mohammad Nabi
+info,player,Balkh Legends,Gulbadin Naib
+info,player,Balkh Legends,Ikram Alikhil
+info,player,Balkh Legends,Mirwais Ashraf
+info,player,Balkh Legends,Aftab Alam
+info,player,Balkh Legends,Qais Ahmad
+info,player,Paktia Panthers,Mohammad Shahzad
+info,player,Paktia Panthers,Rahmanullah Gurbaz
+info,player,Paktia Panthers,CS Delport
+info,player,Paktia Panthers,Sharafuddin Ashraf
+info,player,Paktia Panthers,Sikandar Raza
+info,player,Paktia Panthers,CS MacLeod
+info,player,Paktia Panthers,Samiullah Shenwari
+info,player,Paktia Panthers,Mohammad Sardar
+info,player,Paktia Panthers,Azmatullah Omarzai
+info,player,Paktia Panthers,I Udana
+info,player,Paktia Panthers,Yamin Ahmadzai
+info,registry,people,Aftab Alam,2a3a3786
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,C Munro,af2c687b
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,CS MacLeod,9c376401
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,Darwish Rasooli,3b2114a5
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,Ikram Alikhil,f67c958d
+info,registry,people,Mirwais Ashraf,bdd985f2
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mohammad Sardar,dc6ed43e
+info,registry,people,Mohammad Shahzad,d6dcb0c9
+info,registry,people,Muhammad Sabir,83fd5a46
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RN ten Doeschate,4ec07775
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Samiullah Shenwari,61646132
+info,registry,people,Sharafuddin Ashraf,7e678d00
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Yamin Ahmadzai,6e4588bc
+ball,1,0.1,Balkh Legends,CH Gayle,C Munro,I Udana,0,0,,,,,,"",""
+ball,1,0.2,Balkh Legends,CH Gayle,C Munro,I Udana,0,0,,,,,,"",""
+ball,1,0.3,Balkh Legends,CH Gayle,C Munro,I Udana,1,0,,,,,,"",""
+ball,1,0.4,Balkh Legends,C Munro,CH Gayle,I Udana,0,0,,,,,,"",""
+ball,1,0.5,Balkh Legends,C Munro,CH Gayle,I Udana,4,0,,,,,,"",""
+ball,1,0.6,Balkh Legends,C Munro,CH Gayle,I Udana,6,0,,,,,,"",""
+ball,1,1.1,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,1.2,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,1.3,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,1.4,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,1.5,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,1.6,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,2.1,Balkh Legends,C Munro,CH Gayle,I Udana,0,0,,,,,,"",""
+ball,1,2.2,Balkh Legends,C Munro,CH Gayle,I Udana,0,0,,,,,,"",""
+ball,1,2.3,Balkh Legends,C Munro,CH Gayle,I Udana,0,0,,,,,,"",""
+ball,1,2.4,Balkh Legends,C Munro,CH Gayle,I Udana,0,0,,,,,,"",""
+ball,1,2.5,Balkh Legends,C Munro,CH Gayle,I Udana,1,0,,,,,,"",""
+ball,1,2.6,Balkh Legends,CH Gayle,C Munro,I Udana,0,0,,,,,,"",""
+ball,1,3.1,Balkh Legends,C Munro,CH Gayle,Azmatullah Omarzai,0,0,,,,,,"",""
+ball,1,3.2,Balkh Legends,C Munro,CH Gayle,Azmatullah Omarzai,0,0,,,,,,"",""
+ball,1,3.3,Balkh Legends,C Munro,CH Gayle,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,1,3.4,Balkh Legends,C Munro,CH Gayle,Azmatullah Omarzai,0,0,,,,,,"",""
+ball,1,3.5,Balkh Legends,C Munro,CH Gayle,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,3.6,Balkh Legends,CH Gayle,C Munro,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,4.1,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,4,0,,,,,,"",""
+ball,1,4.2,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,4,0,,,,,,"",""
+ball,1,4.3,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,2,0,,,,,,"",""
+ball,1,4.4,Balkh Legends,CH Gayle,C Munro,Yamin Ahmadzai,0,0,,,,,,caught,CH Gayle
+ball,1,4.5,Balkh Legends,Darwish Rasooli,C Munro,Yamin Ahmadzai,4,0,,,,,,"",""
+ball,1,4.6,Balkh Legends,Darwish Rasooli,C Munro,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,5.1,Balkh Legends,C Munro,Darwish Rasooli,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,1,5.2,Balkh Legends,C Munro,Darwish Rasooli,Azmatullah Omarzai,0,0,,,,,,"",""
+ball,1,5.3,Balkh Legends,C Munro,Darwish Rasooli,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,1,5.4,Balkh Legends,C Munro,Darwish Rasooli,Azmatullah Omarzai,0,2,2,,,,,"",""
+ball,1,5.5,Balkh Legends,Darwish Rasooli,C Munro,Azmatullah Omarzai,2,0,,,,,,"",""
+ball,1,5.6,Balkh Legends,Darwish Rasooli,C Munro,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,1,5.7,Balkh Legends,Darwish Rasooli,C Munro,Azmatullah Omarzai,0,0,,,,,,"",""
+ball,1,6.1,Balkh Legends,C Munro,Darwish Rasooli,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.2,Balkh Legends,Darwish Rasooli,C Munro,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.3,Balkh Legends,C Munro,Darwish Rasooli,Sikandar Raza,0,0,,,,,,caught and bowled,C Munro
+ball,1,6.4,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.5,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sikandar Raza,0,0,,,,,,"",""
+ball,1,6.6,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sikandar Raza,1,0,,,,,,"",""
+ball,1,7.1,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,7.2,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,7.3,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,7.4,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,1,7.5,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sharafuddin Ashraf,4,0,,,,,,"",""
+ball,1,7.6,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,8.1,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,8.2,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,8.3,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Samiullah Shenwari,0,0,,,,,,"",""
+ball,1,8.4,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,8.5,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,8.6,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,9.1,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sikandar Raza,0,0,,,,,,"",""
+ball,1,9.2,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sikandar Raza,2,0,,,,,,"",""
+ball,1,9.3,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.4,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sikandar Raza,1,0,,,,,,"",""
+ball,1,9.5,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sikandar Raza,0,0,,,,,,"",""
+ball,1,9.6,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sikandar Raza,4,0,,,,,,"",""
+ball,1,10.1,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,10.2,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,10.3,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,10.4,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sharafuddin Ashraf,6,0,,,,,,"",""
+ball,1,10.5,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,10.6,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,11.1,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Samiullah Shenwari,6,1,,1,,,,"",""
+ball,1,11.2,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,11.3,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,11.4,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,11.5,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Samiullah Shenwari,4,0,,,,,,"",""
+ball,1,11.6,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,11.7,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Samiullah Shenwari,1,0,,,,,,"",""
+ball,1,12.1,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,6,0,,,,,,"",""
+ball,1,12.2,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,4,0,,,,,,"",""
+ball,1,12.3,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,12.4,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,12.5,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,12.6,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Sharafuddin Ashraf,0,2,2,,,,,"",""
+ball,1,12.7,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,0,1,1,,,,,"",""
+ball,1,12.8,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,13.1,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,13.2,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,13.3,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,13.4,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,13.5,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Azmatullah Omarzai,0,0,,,,,,caught,Darwish Rasooli
+ball,1,13.6,Balkh Legends,RS Bopara,RN ten Doeschate,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,14.1,Balkh Legends,RS Bopara,RN ten Doeschate,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,1,14.2,Balkh Legends,RS Bopara,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,14.3,Balkh Legends,RN ten Doeschate,RS Bopara,Sharafuddin Ashraf,2,0,,,,,,"",""
+ball,1,14.4,Balkh Legends,RN ten Doeschate,RS Bopara,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,1,14.5,Balkh Legends,RN ten Doeschate,RS Bopara,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,14.6,Balkh Legends,RS Bopara,RN ten Doeschate,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,15.1,Balkh Legends,RS Bopara,RN ten Doeschate,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,15.2,Balkh Legends,RN ten Doeschate,RS Bopara,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,15.3,Balkh Legends,RS Bopara,RN ten Doeschate,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,1,15.4,Balkh Legends,RS Bopara,RN ten Doeschate,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,15.5,Balkh Legends,RN ten Doeschate,RS Bopara,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,1,15.6,Balkh Legends,RN ten Doeschate,RS Bopara,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,16.1,Balkh Legends,RN ten Doeschate,RS Bopara,I Udana,1,0,,,,,,"",""
+ball,1,16.2,Balkh Legends,RS Bopara,RN ten Doeschate,I Udana,1,0,,,,,,"",""
+ball,1,16.3,Balkh Legends,RN ten Doeschate,RS Bopara,I Udana,1,0,,,,,,"",""
+ball,1,16.4,Balkh Legends,RS Bopara,RN ten Doeschate,I Udana,1,0,,,,,,"",""
+ball,1,16.5,Balkh Legends,RN ten Doeschate,RS Bopara,I Udana,1,0,,,,,,"",""
+ball,1,16.6,Balkh Legends,RS Bopara,RN ten Doeschate,I Udana,2,0,,,,,,"",""
+ball,1,17.1,Balkh Legends,RN ten Doeschate,RS Bopara,Yamin Ahmadzai,6,0,,,,,,"",""
+ball,1,17.2,Balkh Legends,RN ten Doeschate,RS Bopara,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,17.3,Balkh Legends,RS Bopara,RN ten Doeschate,Yamin Ahmadzai,6,0,,,,,,"",""
+ball,1,17.4,Balkh Legends,RS Bopara,RN ten Doeschate,Yamin Ahmadzai,6,0,,,,,,"",""
+ball,1,17.5,Balkh Legends,RS Bopara,RN ten Doeschate,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,17.6,Balkh Legends,RN ten Doeschate,RS Bopara,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,18.1,Balkh Legends,RS Bopara,RN ten Doeschate,I Udana,0,0,,,,,,"",""
+ball,1,18.2,Balkh Legends,RS Bopara,RN ten Doeschate,I Udana,0,0,,,,,,"",""
+ball,1,18.3,Balkh Legends,RS Bopara,RN ten Doeschate,I Udana,0,0,,,,,,lbw,RS Bopara
+ball,1,18.4,Balkh Legends,Mohammad Nabi,RN ten Doeschate,I Udana,1,0,,,,,,"",""
+ball,1,18.5,Balkh Legends,RN ten Doeschate,Mohammad Nabi,I Udana,6,0,,,,,,"",""
+ball,1,18.6,Balkh Legends,RN ten Doeschate,Mohammad Nabi,I Udana,1,0,,,,,,"",""
+ball,1,19.1,Balkh Legends,RN ten Doeschate,Mohammad Nabi,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,19.2,Balkh Legends,Mohammad Nabi,RN ten Doeschate,Yamin Ahmadzai,6,0,,,,,,"",""
+ball,1,19.3,Balkh Legends,Mohammad Nabi,RN ten Doeschate,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,19.4,Balkh Legends,RN ten Doeschate,Mohammad Nabi,Yamin Ahmadzai,6,0,,,,,,"",""
+ball,1,19.5,Balkh Legends,RN ten Doeschate,Mohammad Nabi,Yamin Ahmadzai,6,0,,,,,,"",""
+ball,1,19.6,Balkh Legends,RN ten Doeschate,Mohammad Nabi,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,2,0.1,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,0.2,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,0.3,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,0.4,Paktia Panthers,Rahmanullah Gurbaz,Mohammad Shahzad,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,0.5,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,0.6,Paktia Panthers,Rahmanullah Gurbaz,Mohammad Shahzad,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,1.1,Paktia Panthers,Rahmanullah Gurbaz,Mohammad Shahzad,Aftab Alam,1,0,,,,,,"",""
+ball,2,1.2,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Aftab Alam,0,0,,,,,,"",""
+ball,2,1.3,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Aftab Alam,1,0,,,,,,"",""
+ball,2,1.4,Paktia Panthers,Rahmanullah Gurbaz,Mohammad Shahzad,Aftab Alam,0,0,,,,,,"",""
+ball,2,1.5,Paktia Panthers,Rahmanullah Gurbaz,Mohammad Shahzad,Aftab Alam,0,0,,,,,,"",""
+ball,2,1.6,Paktia Panthers,Rahmanullah Gurbaz,Mohammad Shahzad,Aftab Alam,0,0,,,,,,"",""
+ball,2,2.1,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,2.2,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,2.3,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,2.4,Paktia Panthers,Rahmanullah Gurbaz,Mohammad Shahzad,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,2.5,Paktia Panthers,Rahmanullah Gurbaz,Mohammad Shahzad,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,2.6,Paktia Panthers,Rahmanullah Gurbaz,Mohammad Shahzad,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,3.1,Paktia Panthers,Mohammad Shahzad,Rahmanullah Gurbaz,Aftab Alam,0,0,,,,,,caught,Mohammad Shahzad
+ball,2,3.2,Paktia Panthers,Rahmanullah Gurbaz,CS Delport,Aftab Alam,0,0,,,,,,"",""
+ball,2,3.3,Paktia Panthers,Rahmanullah Gurbaz,CS Delport,Aftab Alam,1,0,,,,,,"",""
+ball,2,3.4,Paktia Panthers,CS Delport,Rahmanullah Gurbaz,Aftab Alam,1,0,,,,,,"",""
+ball,2,3.5,Paktia Panthers,Rahmanullah Gurbaz,CS Delport,Aftab Alam,0,0,,,,,,"",""
+ball,2,3.6,Paktia Panthers,Rahmanullah Gurbaz,CS Delport,Aftab Alam,1,0,,,,,,"",""
+ball,2,4.1,Paktia Panthers,Rahmanullah Gurbaz,CS Delport,Mirwais Ashraf,1,0,,,,,,"",""
+ball,2,4.2,Paktia Panthers,CS Delport,Rahmanullah Gurbaz,Mirwais Ashraf,6,0,,,,,,"",""
+ball,2,4.3,Paktia Panthers,CS Delport,Rahmanullah Gurbaz,Mirwais Ashraf,0,0,,,,,,caught,CS Delport
+ball,2,4.4,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Mirwais Ashraf,4,0,,,,,,"",""
+ball,2,4.5,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Mirwais Ashraf,0,0,,,,,,"",""
+ball,2,4.6,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Mirwais Ashraf,1,0,,,,,,"",""
+ball,2,5.1,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,5.2,Paktia Panthers,Rahmanullah Gurbaz,Sharafuddin Ashraf,Gulbadin Naib,6,0,,,,,,"",""
+ball,2,5.3,Paktia Panthers,Rahmanullah Gurbaz,Sharafuddin Ashraf,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,5.4,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,5.5,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,5.6,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Gulbadin Naib,2,0,,,,,,"",""
+ball,2,6.1,Paktia Panthers,Rahmanullah Gurbaz,Sharafuddin Ashraf,Mirwais Ashraf,1,0,,,,,,"",""
+ball,2,6.2,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Mirwais Ashraf,1,0,,,,,,"",""
+ball,2,6.3,Paktia Panthers,Rahmanullah Gurbaz,Sharafuddin Ashraf,Mirwais Ashraf,6,0,,,,,,"",""
+ball,2,6.4,Paktia Panthers,Rahmanullah Gurbaz,Sharafuddin Ashraf,Mirwais Ashraf,1,0,,,,,,"",""
+ball,2,6.5,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Mirwais Ashraf,1,0,,,,,,"",""
+ball,2,6.6,Paktia Panthers,Rahmanullah Gurbaz,Sharafuddin Ashraf,Mirwais Ashraf,0,0,,,,,,"",""
+ball,2,7.1,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Gulbadin Naib,0,1,1,,,,,"",""
+ball,2,7.2,Paktia Panthers,Sharafuddin Ashraf,Rahmanullah Gurbaz,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,7.3,Paktia Panthers,Rahmanullah Gurbaz,Sharafuddin Ashraf,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,7.4,Paktia Panthers,Rahmanullah Gurbaz,Sharafuddin Ashraf,Gulbadin Naib,0,1,1,,,,,"",""
+ball,2,7.5,Paktia Panthers,Rahmanullah Gurbaz,Sharafuddin Ashraf,Gulbadin Naib,0,0,,,,,,caught,Rahmanullah Gurbaz
+ball,2,7.6,Paktia Panthers,Sikandar Raza,Sharafuddin Ashraf,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,7.7,Paktia Panthers,Sikandar Raza,Sharafuddin Ashraf,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,7.8,Paktia Panthers,Sikandar Raza,Sharafuddin Ashraf,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,8.1,Paktia Panthers,Sharafuddin Ashraf,Sikandar Raza,RS Bopara,1,0,,,,,,"",""
+ball,2,8.2,Paktia Panthers,Sikandar Raza,Sharafuddin Ashraf,RS Bopara,0,0,,,,,,"",""
+ball,2,8.3,Paktia Panthers,Sikandar Raza,Sharafuddin Ashraf,RS Bopara,1,0,,,,,,"",""
+ball,2,8.4,Paktia Panthers,Sharafuddin Ashraf,Sikandar Raza,RS Bopara,0,0,,,,,,"",""
+ball,2,8.5,Paktia Panthers,Sharafuddin Ashraf,Sikandar Raza,RS Bopara,1,0,,,,,,"",""
+ball,2,8.6,Paktia Panthers,Sikandar Raza,Sharafuddin Ashraf,RS Bopara,0,0,,,,,,"",""
+ball,2,9.1,Paktia Panthers,Sharafuddin Ashraf,Sikandar Raza,Qais Ahmad,1,0,,,,,,"",""
+ball,2,9.2,Paktia Panthers,Sikandar Raza,Sharafuddin Ashraf,Qais Ahmad,0,0,,,,,,"",""
+ball,2,9.3,Paktia Panthers,Sikandar Raza,Sharafuddin Ashraf,Qais Ahmad,1,0,,,,,,"",""
+ball,2,9.4,Paktia Panthers,Sharafuddin Ashraf,Sikandar Raza,Qais Ahmad,0,0,,,,,,caught,Sharafuddin Ashraf
+ball,2,9.5,Paktia Panthers,CS MacLeod,Sikandar Raza,Qais Ahmad,2,0,,,,,,"",""
+ball,2,9.6,Paktia Panthers,CS MacLeod,Sikandar Raza,Qais Ahmad,0,0,,,,,,"",""
+ball,2,10.1,Paktia Panthers,Sikandar Raza,CS MacLeod,RS Bopara,1,0,,,,,,"",""
+ball,2,10.2,Paktia Panthers,CS MacLeod,Sikandar Raza,RS Bopara,0,0,,,,,,"",""
+ball,2,10.3,Paktia Panthers,CS MacLeod,Sikandar Raza,RS Bopara,0,0,,,,,,bowled,CS MacLeod
+ball,2,10.4,Paktia Panthers,Samiullah Shenwari,Sikandar Raza,RS Bopara,2,0,,,,,,"",""
+ball,2,10.5,Paktia Panthers,Samiullah Shenwari,Sikandar Raza,RS Bopara,0,0,,,,,,"",""
+ball,2,10.6,Paktia Panthers,Samiullah Shenwari,Sikandar Raza,RS Bopara,0,0,,,,,,caught,Samiullah Shenwari
+ball,2,11.1,Paktia Panthers,Sikandar Raza,Mohammad Sardar,Qais Ahmad,0,0,,,,,,bowled,Sikandar Raza
+ball,2,11.2,Paktia Panthers,Azmatullah Omarzai,Mohammad Sardar,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.3,Paktia Panthers,Azmatullah Omarzai,Mohammad Sardar,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.4,Paktia Panthers,Azmatullah Omarzai,Mohammad Sardar,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.5,Paktia Panthers,Azmatullah Omarzai,Mohammad Sardar,Qais Ahmad,1,0,,,,,,"",""
+ball,2,11.6,Paktia Panthers,Mohammad Sardar,Azmatullah Omarzai,Qais Ahmad,0,0,,,,,,"",""
+ball,2,12.1,Paktia Panthers,Azmatullah Omarzai,Mohammad Sardar,RS Bopara,0,0,,,,,,"",""
+ball,2,12.2,Paktia Panthers,Azmatullah Omarzai,Mohammad Sardar,RS Bopara,0,0,,,,,,"",""
+ball,2,12.3,Paktia Panthers,Azmatullah Omarzai,Mohammad Sardar,RS Bopara,6,0,,,,,,"",""
+ball,2,12.4,Paktia Panthers,Azmatullah Omarzai,Mohammad Sardar,RS Bopara,4,0,,,,,,"",""
+ball,2,12.5,Paktia Panthers,Azmatullah Omarzai,Mohammad Sardar,RS Bopara,0,0,,,,,,bowled,Azmatullah Omarzai
+ball,2,12.6,Paktia Panthers,I Udana,Mohammad Sardar,RS Bopara,1,0,,,,,,"",""
+ball,2,13.1,Paktia Panthers,I Udana,Mohammad Sardar,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,13.2,Paktia Panthers,Mohammad Sardar,I Udana,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,13.3,Paktia Panthers,I Udana,Mohammad Sardar,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,13.4,Paktia Panthers,Mohammad Sardar,I Udana,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,13.5,Paktia Panthers,Mohammad Sardar,I Udana,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,13.6,Paktia Panthers,I Udana,Mohammad Sardar,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,14.1,Paktia Panthers,I Udana,Mohammad Sardar,Aftab Alam,1,0,,,,,,"",""
+ball,2,14.2,Paktia Panthers,Mohammad Sardar,I Udana,Aftab Alam,2,0,,,,,,"",""
+ball,2,14.3,Paktia Panthers,Mohammad Sardar,I Udana,Aftab Alam,0,0,,,,,,caught,Mohammad Sardar
+ball,2,14.4,Paktia Panthers,I Udana,Yamin Ahmadzai,Aftab Alam,0,0,,,,,,"",""
+ball,2,14.5,Paktia Panthers,I Udana,Yamin Ahmadzai,Aftab Alam,0,1,1,,,,,"",""
+ball,2,14.6,Paktia Panthers,I Udana,Yamin Ahmadzai,Aftab Alam,1,0,,,,,,"",""
+ball,2,14.7,Paktia Panthers,Yamin Ahmadzai,I Udana,Aftab Alam,4,0,,,,,,"",""
+ball,2,15.1,Paktia Panthers,I Udana,Yamin Ahmadzai,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,15.2,Paktia Panthers,Yamin Ahmadzai,I Udana,Gulbadin Naib,0,0,,,,,,caught,Yamin Ahmadzai

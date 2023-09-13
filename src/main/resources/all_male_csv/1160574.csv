@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Nangarhar Leopards
+info,team,Kabul Zwanan
+info,gender,male
+info,season,2018/19
+info,date,2018/10/09
+info,event,Afghanistan Premier League
+info,match_number,6
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Kabul Zwanan
+info,toss_decision,field
+info,player_of_match,Hazratullah
+info,umpire,Ahmed Shah Pakteen
+info,umpire,AK Chaudhary
+info,reserve_umpire,Ahmed Shah Durrani
+info,tv_umpire,Bismillah Shinwari
+info,match_referee,DT Jukes
+info,winner,Kabul Zwanan
+info,winner_wickets,7
+info,player,Nangarhar Leopards,AP Devcich
+info,player,Nangarhar Leopards,Najeeb Tarakai
+info,player,Nangarhar Leopards,Hashmatullah Shahidi
+info,player,Nangarhar Leopards,AD Russell
+info,player,Nangarhar Leopards,BCJ Cutting
+info,player,Nangarhar Leopards,Shafiqullah
+info,player,Nangarhar Leopards,Rahmat Shah
+info,player,Nangarhar Leopards,MJ McClenaghan
+info,player,Nangarhar Leopards,Mujeeb Ur Rahman
+info,player,Nangarhar Leopards,Naveen-ul-Haq
+info,player,Nangarhar Leopards,Zahir Khan
+info,player,Kabul Zwanan,Hazratullah
+info,player,Kabul Zwanan,L Ronchi
+info,player,Kabul Zwanan,Javed Ahmadi
+info,player,Kabul Zwanan,CA Ingram
+info,player,Kabul Zwanan,LJ Evans
+info,player,Kabul Zwanan,Shahidullah
+info,player,Kabul Zwanan,Rashid Khan
+info,player,Kabul Zwanan,WD Parnell
+info,player,Kabul Zwanan,Zahir Shehzad
+info,player,Kabul Zwanan,Fareed Ahmad
+info,player,Kabul Zwanan,Nijat Masood
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,CA Ingram,c995d726
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,Fareed Ahmad,67b7bad4
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Hazratullah,5ea51c25
+info,registry,people,Javed Ahmadi,0087a35d
+info,registry,people,L Ronchi,0fa5042b
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MJ McClenaghan,51a3c5ef
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najeeb Tarakai,2683e28b
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Nijat Masood,a1bf281e
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Shafiqullah,ba4d600a
+info,registry,people,Shahidullah,82b90140
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,Zahir Khan,786b7fe8
+info,registry,people,Zahir Shehzad,1fa08c73
+ball,1,0.1,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,0,4,,,,4,,"",""
+ball,1,0.2,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,0,5,5,,,,,"",""
+ball,1,0.3,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,1,0,,,,,,"",""
+ball,1,0.4,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,WD Parnell,0,0,,,,,,"",""
+ball,1,0.5,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,WD Parnell,1,0,,,,,,"",""
+ball,1,0.6,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,1,0,,,,,,"",""
+ball,1,0.7,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,WD Parnell,0,0,,,,,,"",""
+ball,1,1.1,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Fareed Ahmad,1,0,,,,,,"",""
+ball,1,1.2,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Fareed Ahmad,4,0,,,,,,"",""
+ball,1,1.3,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Fareed Ahmad,0,0,,,,,,"",""
+ball,1,1.4,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Fareed Ahmad,0,0,,,,,,"",""
+ball,1,1.5,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Fareed Ahmad,0,0,,,,,,"",""
+ball,1,1.6,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Fareed Ahmad,4,0,,,,,,"",""
+ball,1,2.1,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,0,4,,,,4,,"",""
+ball,1,2.2,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,2,0,,,,,,"",""
+ball,1,2.3,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,0,0,,,,,,"",""
+ball,1,2.4,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,4,0,,,,,,"",""
+ball,1,2.5,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,0,0,,,,,,"",""
+ball,1,2.6,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,WD Parnell,0,0,,,,,,"",""
+ball,1,3.1,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Nijat Masood,0,0,,,,,,"",""
+ball,1,3.2,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Nijat Masood,0,0,,,,,,"",""
+ball,1,3.3,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Nijat Masood,1,1,,1,,,,"",""
+ball,1,3.4,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Nijat Masood,1,0,,,,,,"",""
+ball,1,3.5,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Nijat Masood,2,0,,,,,,"",""
+ball,1,3.6,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Nijat Masood,4,0,,,,,,"",""
+ball,1,3.7,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Nijat Masood,0,0,,,,,,"",""
+ball,1,4.1,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Javed Ahmadi,1,0,,,,,,"",""
+ball,1,4.2,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Javed Ahmadi,6,0,,,,,,"",""
+ball,1,4.3,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,4.4,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,4.5,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Javed Ahmadi,1,0,,,,,,"",""
+ball,1,4.6,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,5.1,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Zahir Shehzad,0,0,,,,,,"",""
+ball,1,5.2,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Zahir Shehzad,0,0,,,,,,"",""
+ball,1,5.3,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Zahir Shehzad,0,0,,,,,,"",""
+ball,1,5.4,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Zahir Shehzad,1,0,,,,,,"",""
+ball,1,5.5,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Zahir Shehzad,1,0,,,,,,"",""
+ball,1,5.6,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Zahir Shehzad,0,0,,,,,,"",""
+ball,1,6.1,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Rashid Khan,0,0,,,,,,"",""
+ball,1,6.2,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Rashid Khan,1,0,,,,,,"",""
+ball,1,6.3,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Rashid Khan,0,0,,,,,,"",""
+ball,1,6.4,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Rashid Khan,0,0,,,,,,"",""
+ball,1,6.5,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Rashid Khan,1,0,,,,,,"",""
+ball,1,6.6,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Rashid Khan,1,0,,,,,,"",""
+ball,1,7.1,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Zahir Shehzad,4,0,,,,,,"",""
+ball,1,7.2,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Zahir Shehzad,6,0,,,,,,"",""
+ball,1,7.3,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Zahir Shehzad,1,0,,,,,,"",""
+ball,1,7.4,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Zahir Shehzad,1,0,,,,,,"",""
+ball,1,7.5,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Zahir Shehzad,6,0,,,,,,"",""
+ball,1,7.6,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Zahir Shehzad,0,0,,,,,,"",""
+ball,1,8.1,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Fareed Ahmad,6,0,,,,,,"",""
+ball,1,8.2,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Fareed Ahmad,4,0,,,,,,"",""
+ball,1,8.3,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Fareed Ahmad,1,0,,,,,,"",""
+ball,1,8.4,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Fareed Ahmad,0,0,,,,,,"",""
+ball,1,8.5,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Fareed Ahmad,6,0,,,,,,"",""
+ball,1,8.6,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Fareed Ahmad,1,0,,,,,,"",""
+ball,1,9.1,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Nijat Masood,1,1,,1,,,,"",""
+ball,1,9.2,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Nijat Masood,1,0,,,,,,"",""
+ball,1,9.3,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Nijat Masood,1,1,,1,,,,"",""
+ball,1,9.4,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Nijat Masood,1,0,,,,,,"",""
+ball,1,9.5,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Nijat Masood,4,0,,,,,,"",""
+ball,1,9.6,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Nijat Masood,4,0,,,,,,"",""
+ball,1,9.7,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Nijat Masood,0,1,1,,,,,"",""
+ball,1,9.8,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Nijat Masood,1,0,,,,,,"",""
+ball,1,9.9,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Nijat Masood,1,0,,,,,,"",""
+ball,1,10.1,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Rashid Khan,0,0,,,,,,"",""
+ball,1,10.2,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.3,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Rashid Khan,0,0,,,,,,"",""
+ball,1,10.4,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.5,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.6,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Rashid Khan,0,0,,,,,,"",""
+ball,1,11.1,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Shahidullah,0,0,,,,,,"",""
+ball,1,11.2,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Shahidullah,0,0,,,,,,caught,Najeeb Tarakai
+ball,1,11.3,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Shahidullah,0,0,,,,,,"",""
+ball,1,11.4,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Shahidullah,4,0,,,,,,"",""
+ball,1,11.5,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Shahidullah,0,0,,,,,,"",""
+ball,1,11.6,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Shahidullah,6,0,,,,,,"",""
+ball,1,12.1,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Javed Ahmadi,1,0,,,,,,"",""
+ball,1,12.2,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Javed Ahmadi,1,0,,,,,,"",""
+ball,1,12.3,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,12.4,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,12.5,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Javed Ahmadi,2,0,,,,,,"",""
+ball,1,12.6,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Javed Ahmadi,1,0,,,,,,"",""
+ball,1,13.1,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,WD Parnell,1,0,,,,,,"",""
+ball,1,13.2,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,WD Parnell,1,0,,,,,,"",""
+ball,1,13.3,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,WD Parnell,4,0,,,,,,"",""
+ball,1,13.4,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,WD Parnell,4,0,,,,,,"",""
+ball,1,13.5,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,WD Parnell,1,0,,,,,,"",""
+ball,1,13.6,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,WD Parnell,6,0,,,,,,"",""
+ball,1,14.1,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Javed Ahmadi,1,0,,,,,,"",""
+ball,1,14.2,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,14.3,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Javed Ahmadi,1,0,,,,,,"",""
+ball,1,14.4,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Javed Ahmadi,0,0,,,,,,stumped,Hashmatullah Shahidi
+ball,1,14.5,Nangarhar Leopards,AD Russell,AP Devcich,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,14.6,Nangarhar Leopards,AD Russell,AP Devcich,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,15.1,Nangarhar Leopards,AP Devcich,AD Russell,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.2,Nangarhar Leopards,AD Russell,AP Devcich,Rashid Khan,0,0,,,,,,"",""
+ball,1,15.3,Nangarhar Leopards,AD Russell,AP Devcich,Rashid Khan,0,0,,,,,,bowled,AD Russell
+ball,1,15.4,Nangarhar Leopards,BCJ Cutting,AP Devcich,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.5,Nangarhar Leopards,AP Devcich,BCJ Cutting,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.6,Nangarhar Leopards,BCJ Cutting,AP Devcich,Rashid Khan,1,0,,,,,,"",""
+ball,1,16.1,Nangarhar Leopards,BCJ Cutting,AP Devcich,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,16.2,Nangarhar Leopards,BCJ Cutting,AP Devcich,Javed Ahmadi,0,0,,,,,,"",""
+ball,1,16.3,Nangarhar Leopards,BCJ Cutting,AP Devcich,Javed Ahmadi,1,0,,,,,,"",""
+ball,1,16.4,Nangarhar Leopards,AP Devcich,BCJ Cutting,Javed Ahmadi,4,0,,,,,,"",""
+ball,1,16.5,Nangarhar Leopards,AP Devcich,BCJ Cutting,Javed Ahmadi,6,0,,,,,,"",""
+ball,1,16.6,Nangarhar Leopards,AP Devcich,BCJ Cutting,Javed Ahmadi,1,0,,,,,,"",""
+ball,1,17.1,Nangarhar Leopards,AP Devcich,BCJ Cutting,Rashid Khan,0,0,,,,,,"",""
+ball,1,17.2,Nangarhar Leopards,AP Devcich,BCJ Cutting,Rashid Khan,0,0,,,,,,"",""
+ball,1,17.3,Nangarhar Leopards,AP Devcich,BCJ Cutting,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.4,Nangarhar Leopards,BCJ Cutting,AP Devcich,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.5,Nangarhar Leopards,AP Devcich,BCJ Cutting,Rashid Khan,1,0,,,,,,"",""
+ball,1,17.6,Nangarhar Leopards,BCJ Cutting,AP Devcich,Rashid Khan,0,0,,,,,,"",""
+ball,1,18.1,Nangarhar Leopards,AP Devcich,BCJ Cutting,WD Parnell,1,0,,,,,,"",""
+ball,1,18.2,Nangarhar Leopards,BCJ Cutting,AP Devcich,WD Parnell,6,0,,,,,,"",""
+ball,1,18.3,Nangarhar Leopards,BCJ Cutting,AP Devcich,WD Parnell,6,0,,,,,,"",""
+ball,1,18.4,Nangarhar Leopards,BCJ Cutting,AP Devcich,WD Parnell,1,0,,,,,,"",""
+ball,1,18.5,Nangarhar Leopards,AP Devcich,BCJ Cutting,WD Parnell,4,0,,,,,,"",""
+ball,1,18.6,Nangarhar Leopards,AP Devcich,BCJ Cutting,WD Parnell,1,0,,,,,,"",""
+ball,1,19.1,Nangarhar Leopards,AP Devcich,BCJ Cutting,Fareed Ahmad,1,1,,1,,,,"",""
+ball,1,19.2,Nangarhar Leopards,BCJ Cutting,AP Devcich,Fareed Ahmad,1,0,,,,,,"",""
+ball,1,19.3,Nangarhar Leopards,AP Devcich,BCJ Cutting,Fareed Ahmad,1,0,,,,,,"",""
+ball,1,19.4,Nangarhar Leopards,BCJ Cutting,AP Devcich,Fareed Ahmad,0,0,,,,,,caught,BCJ Cutting
+ball,1,19.5,Nangarhar Leopards,AP Devcich,Shafiqullah,Fareed Ahmad,1,0,,,,,,"",""
+ball,1,19.6,Nangarhar Leopards,Shafiqullah,AP Devcich,Fareed Ahmad,1,0,,,,,,"",""
+ball,1,19.7,Nangarhar Leopards,AP Devcich,Shafiqullah,Fareed Ahmad,1,0,,,,,,run out,Shafiqullah
+ball,2,0.1,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,2,0.2,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,0.3,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,2,0.4,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,0.5,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,2,0.6,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,0,5,5,,,,,"",""
+ball,2,0.7,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,1.1,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,4,0,,,,,,"",""
+ball,2,1.2,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,4,0,,,,,,"",""
+ball,2,1.3,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,6,0,,,,,,"",""
+ball,2,1.4,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,4,0,,,,,,"",""
+ball,2,1.5,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,1.6,Kabul Zwanan,L Ronchi,Hazratullah,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,2.1,Kabul Zwanan,L Ronchi,Hazratullah,Mujeeb Ur Rahman,3,0,,,,,,"",""
+ball,2,2.2,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,2,2.3,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,2.4,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,2,2.5,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,0,1,1,,,,,"",""
+ball,2,2.6,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,2,2.7,Kabul Zwanan,Hazratullah,L Ronchi,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,3.1,Kabul Zwanan,Hazratullah,L Ronchi,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,3.2,Kabul Zwanan,L Ronchi,Hazratullah,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,3.3,Kabul Zwanan,Hazratullah,L Ronchi,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,3.4,Kabul Zwanan,Hazratullah,L Ronchi,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,3.5,Kabul Zwanan,Hazratullah,L Ronchi,Naveen-ul-Haq,6,0,,,,,,"",""
+ball,2,3.6,Kabul Zwanan,Hazratullah,L Ronchi,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,3.7,Kabul Zwanan,Hazratullah,L Ronchi,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,4.1,Kabul Zwanan,L Ronchi,Hazratullah,BCJ Cutting,0,0,,,,,,"",""
+ball,2,4.2,Kabul Zwanan,L Ronchi,Hazratullah,BCJ Cutting,1,0,,,,,,"",""
+ball,2,4.3,Kabul Zwanan,Hazratullah,L Ronchi,BCJ Cutting,6,0,,,,,,"",""
+ball,2,4.4,Kabul Zwanan,Hazratullah,L Ronchi,BCJ Cutting,4,0,,,,,,"",""
+ball,2,4.5,Kabul Zwanan,Hazratullah,L Ronchi,BCJ Cutting,2,0,,,,,,"",""
+ball,2,4.6,Kabul Zwanan,Hazratullah,L Ronchi,BCJ Cutting,4,0,,,,,,"",""
+ball,2,5.1,Kabul Zwanan,L Ronchi,Hazratullah,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,5.2,Kabul Zwanan,L Ronchi,Hazratullah,Naveen-ul-Haq,6,0,,,,,,"",""
+ball,2,5.3,Kabul Zwanan,L Ronchi,Hazratullah,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,5.4,Kabul Zwanan,L Ronchi,Hazratullah,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,5.5,Kabul Zwanan,L Ronchi,Hazratullah,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,5.6,Kabul Zwanan,Hazratullah,L Ronchi,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,6.1,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,6.2,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,2,0,,,,,,"",""
+ball,2,6.3,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,6.4,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,0,1,1,,,,,"",""
+ball,2,6.5,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,4,0,,,,,,"",""
+ball,2,6.6,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,6.7,Kabul Zwanan,L Ronchi,Hazratullah,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,7.1,Kabul Zwanan,L Ronchi,Hazratullah,Zahir Khan,0,0,,,,,,"",""
+ball,2,7.2,Kabul Zwanan,L Ronchi,Hazratullah,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.3,Kabul Zwanan,Hazratullah,L Ronchi,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.4,Kabul Zwanan,L Ronchi,Hazratullah,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.5,Kabul Zwanan,Hazratullah,L Ronchi,Zahir Khan,1,0,,,,,,"",""
+ball,2,7.6,Kabul Zwanan,L Ronchi,Hazratullah,Zahir Khan,1,0,,,,,,"",""
+ball,2,8.1,Kabul Zwanan,L Ronchi,Hazratullah,BCJ Cutting,4,0,,,,,,"",""
+ball,2,8.2,Kabul Zwanan,L Ronchi,Hazratullah,BCJ Cutting,0,1,1,,,,,"",""
+ball,2,8.3,Kabul Zwanan,L Ronchi,Hazratullah,BCJ Cutting,0,0,,,,,,"",""
+ball,2,8.4,Kabul Zwanan,L Ronchi,Hazratullah,BCJ Cutting,1,0,,,,,,"",""
+ball,2,8.5,Kabul Zwanan,Hazratullah,L Ronchi,BCJ Cutting,0,0,,,,,,"",""
+ball,2,8.6,Kabul Zwanan,Hazratullah,L Ronchi,BCJ Cutting,0,1,1,,,,,"",""
+ball,2,8.7,Kabul Zwanan,Hazratullah,L Ronchi,BCJ Cutting,1,0,,,,,,"",""
+ball,2,8.8,Kabul Zwanan,L Ronchi,Hazratullah,BCJ Cutting,1,0,,,,,,"",""
+ball,2,9.1,Kabul Zwanan,L Ronchi,Hazratullah,Zahir Khan,0,5,5,,,,,"",""
+ball,2,9.2,Kabul Zwanan,L Ronchi,Hazratullah,Zahir Khan,0,0,,,,,,"",""
+ball,2,9.3,Kabul Zwanan,L Ronchi,Hazratullah,Zahir Khan,1,0,,,,,,"",""
+ball,2,9.4,Kabul Zwanan,Hazratullah,L Ronchi,Zahir Khan,2,0,,,,,,"",""
+ball,2,9.5,Kabul Zwanan,Hazratullah,L Ronchi,Zahir Khan,0,0,,,,,,"",""
+ball,2,9.6,Kabul Zwanan,Hazratullah,L Ronchi,Zahir Khan,4,0,,,,,,"",""
+ball,2,9.7,Kabul Zwanan,Hazratullah,L Ronchi,Zahir Khan,0,0,,,,,,"",""
+ball,2,10.1,Kabul Zwanan,L Ronchi,Hazratullah,MJ McClenaghan,1,0,,,,,,"",""
+ball,2,10.2,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,10.3,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,4,0,,,,,,"",""
+ball,2,10.4,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,10.5,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,0,1,1,,,,,"",""
+ball,2,10.6,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,0,0,,,,,,"",""
+ball,2,10.7,Kabul Zwanan,Hazratullah,L Ronchi,MJ McClenaghan,4,0,,,,,,"",""
+ball,2,11.1,Kabul Zwanan,L Ronchi,Hazratullah,Rahmat Shah,1,0,,,,,,"",""
+ball,2,11.2,Kabul Zwanan,Hazratullah,L Ronchi,Rahmat Shah,1,0,,,,,,"",""
+ball,2,11.3,Kabul Zwanan,L Ronchi,Hazratullah,Rahmat Shah,0,0,,,,,,caught,L Ronchi
+ball,2,11.4,Kabul Zwanan,Hazratullah,Javed Ahmadi,Rahmat Shah,1,0,,,,,,"",""
+ball,2,11.5,Kabul Zwanan,Javed Ahmadi,Hazratullah,Rahmat Shah,2,0,,,,,,"",""
+ball,2,11.6,Kabul Zwanan,Javed Ahmadi,Hazratullah,Rahmat Shah,1,0,,,,,,"",""
+ball,2,12.1,Kabul Zwanan,Javed Ahmadi,Hazratullah,BCJ Cutting,0,1,,,,1,,"",""
+ball,2,12.2,Kabul Zwanan,Hazratullah,Javed Ahmadi,BCJ Cutting,6,0,,,,,,"",""
+ball,2,12.3,Kabul Zwanan,Hazratullah,Javed Ahmadi,BCJ Cutting,0,1,1,,,,,"",""
+ball,2,12.4,Kabul Zwanan,Hazratullah,Javed Ahmadi,BCJ Cutting,1,0,,,,,,"",""
+ball,2,12.5,Kabul Zwanan,Javed Ahmadi,Hazratullah,BCJ Cutting,1,0,,,,,,"",""
+ball,2,12.6,Kabul Zwanan,Hazratullah,Javed Ahmadi,BCJ Cutting,1,0,,,,,,"",""
+ball,2,12.7,Kabul Zwanan,Javed Ahmadi,Hazratullah,BCJ Cutting,4,0,,,,,,"",""
+ball,2,13.1,Kabul Zwanan,Hazratullah,Javed Ahmadi,Rahmat Shah,0,0,,,,,,"",""
+ball,2,13.2,Kabul Zwanan,Hazratullah,Javed Ahmadi,Rahmat Shah,6,0,,,,,,"",""
+ball,2,13.3,Kabul Zwanan,Hazratullah,Javed Ahmadi,Rahmat Shah,1,0,,,,,,"",""
+ball,2,13.4,Kabul Zwanan,Javed Ahmadi,Hazratullah,Rahmat Shah,1,0,,,,,,"",""
+ball,2,13.5,Kabul Zwanan,Hazratullah,Javed Ahmadi,Rahmat Shah,6,0,,,,,,"",""
+ball,2,13.6,Kabul Zwanan,Hazratullah,Javed Ahmadi,Rahmat Shah,0,0,,,,,,"",""
+ball,2,14.1,Kabul Zwanan,Javed Ahmadi,Hazratullah,BCJ Cutting,0,0,,,,,,"",""
+ball,2,14.2,Kabul Zwanan,Javed Ahmadi,Hazratullah,BCJ Cutting,0,0,,,,,,"",""
+ball,2,14.3,Kabul Zwanan,Javed Ahmadi,Hazratullah,BCJ Cutting,1,0,,,,,,"",""
+ball,2,14.4,Kabul Zwanan,Hazratullah,Javed Ahmadi,BCJ Cutting,0,0,,,,,,caught,Hazratullah
+ball,2,14.5,Kabul Zwanan,Javed Ahmadi,CA Ingram,BCJ Cutting,0,0,,,,,,"",""
+ball,2,14.6,Kabul Zwanan,Javed Ahmadi,CA Ingram,BCJ Cutting,0,0,,,,,,"",""
+ball,2,15.1,Kabul Zwanan,CA Ingram,Javed Ahmadi,Zahir Khan,1,0,,,,,,"",""
+ball,2,15.2,Kabul Zwanan,Javed Ahmadi,CA Ingram,Zahir Khan,1,0,,,,,,"",""
+ball,2,15.3,Kabul Zwanan,CA Ingram,Javed Ahmadi,Zahir Khan,0,0,,,,,,"",""
+ball,2,15.4,Kabul Zwanan,CA Ingram,Javed Ahmadi,Zahir Khan,0,0,,,,,,lbw,CA Ingram
+ball,2,15.5,Kabul Zwanan,LJ Evans,Javed Ahmadi,Zahir Khan,0,0,,,,,,"",""
+ball,2,15.6,Kabul Zwanan,LJ Evans,Javed Ahmadi,Zahir Khan,0,0,,,,,,"",""
+ball,2,16.1,Kabul Zwanan,Javed Ahmadi,LJ Evans,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,16.2,Kabul Zwanan,LJ Evans,Javed Ahmadi,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,16.3,Kabul Zwanan,Javed Ahmadi,LJ Evans,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,16.4,Kabul Zwanan,Javed Ahmadi,LJ Evans,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,16.5,Kabul Zwanan,LJ Evans,Javed Ahmadi,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,2,16.6,Kabul Zwanan,LJ Evans,Javed Ahmadi,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,17.1,Kabul Zwanan,LJ Evans,Javed Ahmadi,Zahir Khan,0,0,,,,,,"",""
+ball,2,17.2,Kabul Zwanan,LJ Evans,Javed Ahmadi,Zahir Khan,1,0,,,,,,"",""
+ball,2,17.3,Kabul Zwanan,Javed Ahmadi,LJ Evans,Zahir Khan,0,0,,,,,,"",""
+ball,2,17.4,Kabul Zwanan,Javed Ahmadi,LJ Evans,Zahir Khan,0,0,,,,,,"",""
+ball,2,17.5,Kabul Zwanan,Javed Ahmadi,LJ Evans,Zahir Khan,0,4,,,,4,,"",""

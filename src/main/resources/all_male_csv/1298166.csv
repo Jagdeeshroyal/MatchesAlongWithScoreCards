@@ -1,0 +1,312 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Sri Lanka
+info,gender,male
+info,season,2022/23
+info,date,2022/11/01
+info,event,ICC Men's T20 World Cup
+info,match_number,32
+info,venue,"Brisbane Cricket Ground, Woolloongabba, Brisbane"
+info,city,Brisbane
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,PWH de Silva
+info,umpire,Ahsan Raza
+info,umpire,RJ Tucker
+info,reserve_umpire,L Rusere
+info,tv_umpire,Nitin Menon
+info,match_referee,AJ Pycroft
+info,winner,Sri Lanka
+info,winner_wickets,6
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Usman Ghani
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Afghanistan,Fareed Ahmad
+info,player,Afghanistan,Fazalhaq Farooqi
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,PBB Rajapaksa
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,PM Liyanagamage
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,CBRLS Kumara
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,Fareed Ahmad,67b7bad4
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PM Liyanagamage,3ee0050f
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Usman Ghani,e3829b2a
+ball,1,0.1,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,0,0,,,,,,"",""
+ball,1,0.2,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,0,0,,,,,,"",""
+ball,1,0.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,0,0,,,,,,"",""
+ball,1,0.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,0,0,,,,,,"",""
+ball,1,0.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,0,0,,,,,,"",""
+ball,1,0.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,1,0,,,,,,"",""
+ball,1,1.1,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,PM Liyanagamage,0,0,,,,,,"",""
+ball,1,1.2,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,PM Liyanagamage,0,0,,,,,,"",""
+ball,1,1.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,PM Liyanagamage,4,0,,,,,,"",""
+ball,1,1.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,PM Liyanagamage,0,0,,,,,,"",""
+ball,1,1.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,PM Liyanagamage,2,0,,,,,,"",""
+ball,1,1.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,PM Liyanagamage,0,0,,,,,,"",""
+ball,1,2.1,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,CAK Rajitha,0,0,,,,,,"",""
+ball,1,2.2,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,CAK Rajitha,1,0,,,,,,"",""
+ball,1,2.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,0,0,,,,,,"",""
+ball,1,2.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,6,0,,,,,,"",""
+ball,1,2.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,2,0,,,,,,"",""
+ball,1,2.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CAK Rajitha,0,0,,,,,,"",""
+ball,1,3.1,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,3.2,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,CBRLS Kumara,4,0,,,,,,"",""
+ball,1,3.3,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,3.4,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,3.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,3.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CBRLS Kumara,4,0,,,,,,"",""
+ball,1,4.1,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,PM Liyanagamage,4,0,,,,,,"",""
+ball,1,4.2,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,PM Liyanagamage,1,0,,,,,,"",""
+ball,1,4.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,PM Liyanagamage,6,0,,,,,,"",""
+ball,1,4.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,PM Liyanagamage,1,0,,,,,,"",""
+ball,1,4.5,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,PM Liyanagamage,1,0,,,,,,"",""
+ball,1,4.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,PM Liyanagamage,0,0,,,,,,"",""
+ball,1,5.1,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Theekshana,0,0,,,,,,"",""
+ball,1,5.2,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Theekshana,1,0,,,,,,"",""
+ball,1,5.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,M Theekshana,1,0,,,,,,"",""
+ball,1,5.4,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Theekshana,1,0,,,,,,"",""
+ball,1,5.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,M Theekshana,1,0,,,,,,"",""
+ball,1,5.6,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Theekshana,0,0,,,,,,"",""
+ball,1,6.1,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,CBRLS Kumara,0,0,,,,,,bowled,Rahmanullah Gurbaz
+ball,1,6.2,Afghanistan,Ibrahim Zadran,Usman Ghani,CBRLS Kumara,0,1,1,,,,,"",""
+ball,1,6.3,Afghanistan,Ibrahim Zadran,Usman Ghani,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,6.4,Afghanistan,Usman Ghani,Ibrahim Zadran,CBRLS Kumara,0,1,1,,,,,"",""
+ball,1,6.5,Afghanistan,Usman Ghani,Ibrahim Zadran,CBRLS Kumara,2,0,,,,,,"",""
+ball,1,6.6,Afghanistan,Usman Ghani,Ibrahim Zadran,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,6.7,Afghanistan,Usman Ghani,Ibrahim Zadran,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,6.8,Afghanistan,Usman Ghani,Ibrahim Zadran,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,7.1,Afghanistan,Ibrahim Zadran,Usman Ghani,PWH de Silva,0,0,,,,,,"",""
+ball,1,7.2,Afghanistan,Ibrahim Zadran,Usman Ghani,PWH de Silva,0,2,,,2,,,"",""
+ball,1,7.3,Afghanistan,Ibrahim Zadran,Usman Ghani,PWH de Silva,1,0,,,,,,"",""
+ball,1,7.4,Afghanistan,Usman Ghani,Ibrahim Zadran,PWH de Silva,0,0,,,,,,"",""
+ball,1,7.5,Afghanistan,Usman Ghani,Ibrahim Zadran,PWH de Silva,1,0,,,,,,"",""
+ball,1,7.6,Afghanistan,Ibrahim Zadran,Usman Ghani,PWH de Silva,1,0,,,,,,"",""
+ball,1,8.1,Afghanistan,Ibrahim Zadran,Usman Ghani,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,8.2,Afghanistan,Usman Ghani,Ibrahim Zadran,CBRLS Kumara,0,1,1,,,,,"",""
+ball,1,8.3,Afghanistan,Usman Ghani,Ibrahim Zadran,CBRLS Kumara,6,0,,,,,,"",""
+ball,1,8.4,Afghanistan,Usman Ghani,Ibrahim Zadran,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,8.5,Afghanistan,Ibrahim Zadran,Usman Ghani,CBRLS Kumara,0,1,,,1,,,"",""
+ball,1,8.6,Afghanistan,Usman Ghani,Ibrahim Zadran,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,8.7,Afghanistan,Ibrahim Zadran,Usman Ghani,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,9.1,Afghanistan,Usman Ghani,Ibrahim Zadran,M Theekshana,1,0,,,,,,"",""
+ball,1,9.2,Afghanistan,Ibrahim Zadran,Usman Ghani,M Theekshana,0,0,,,,,,"",""
+ball,1,9.3,Afghanistan,Ibrahim Zadran,Usman Ghani,M Theekshana,1,0,,,,,,"",""
+ball,1,9.4,Afghanistan,Usman Ghani,Ibrahim Zadran,M Theekshana,0,0,,,,,,"",""
+ball,1,9.5,Afghanistan,Usman Ghani,Ibrahim Zadran,M Theekshana,1,0,,,,,,"",""
+ball,1,9.6,Afghanistan,Ibrahim Zadran,Usman Ghani,M Theekshana,2,0,,,,,,"",""
+ball,1,10.1,Afghanistan,Usman Ghani,Ibrahim Zadran,PWH de Silva,0,0,,,,,,"",""
+ball,1,10.2,Afghanistan,Usman Ghani,Ibrahim Zadran,PWH de Silva,0,0,,,,,,caught,Usman Ghani
+ball,1,10.3,Afghanistan,Najibullah Zadran,Ibrahim Zadran,PWH de Silva,0,0,,,,,,"",""
+ball,1,10.4,Afghanistan,Najibullah Zadran,Ibrahim Zadran,PWH de Silva,2,0,,,,,,"",""
+ball,1,10.5,Afghanistan,Najibullah Zadran,Ibrahim Zadran,PWH de Silva,1,0,,,,,,"",""
+ball,1,10.6,Afghanistan,Ibrahim Zadran,Najibullah Zadran,PWH de Silva,0,1,,,,1,,"",""
+ball,1,11.1,Afghanistan,Ibrahim Zadran,Najibullah Zadran,M Theekshana,4,0,,,,,,"",""
+ball,1,11.2,Afghanistan,Ibrahim Zadran,Najibullah Zadran,M Theekshana,2,0,,,,,,"",""
+ball,1,11.3,Afghanistan,Ibrahim Zadran,Najibullah Zadran,M Theekshana,6,0,,,,,,"",""
+ball,1,11.4,Afghanistan,Ibrahim Zadran,Najibullah Zadran,M Theekshana,2,0,,,,,,"",""
+ball,1,11.5,Afghanistan,Ibrahim Zadran,Najibullah Zadran,M Theekshana,1,0,,,,,,"",""
+ball,1,11.6,Afghanistan,Najibullah Zadran,Ibrahim Zadran,M Theekshana,0,1,1,,,,,"",""
+ball,1,11.7,Afghanistan,Najibullah Zadran,Ibrahim Zadran,M Theekshana,1,0,,,,,,"",""
+ball,1,12.1,Afghanistan,Najibullah Zadran,Ibrahim Zadran,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,12.2,Afghanistan,Ibrahim Zadran,Najibullah Zadran,CBRLS Kumara,0,0,,,,,,caught,Ibrahim Zadran
+ball,1,12.3,Afghanistan,Gulbadin Naib,Najibullah Zadran,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,12.4,Afghanistan,Gulbadin Naib,Najibullah Zadran,CBRLS Kumara,0,1,1,,,,,"",""
+ball,1,12.5,Afghanistan,Gulbadin Naib,Najibullah Zadran,CBRLS Kumara,0,0,,,,,,"",""
+ball,1,12.6,Afghanistan,Gulbadin Naib,Najibullah Zadran,CBRLS Kumara,1,0,,,,,,"",""
+ball,1,12.7,Afghanistan,Najibullah Zadran,Gulbadin Naib,CBRLS Kumara,3,0,,,,,,"",""
+ball,1,13.1,Afghanistan,Najibullah Zadran,Gulbadin Naib,PWH de Silva,0,0,,,,,,"",""
+ball,1,13.2,Afghanistan,Najibullah Zadran,Gulbadin Naib,PWH de Silva,0,0,,,,,,"",""
+ball,1,13.3,Afghanistan,Najibullah Zadran,Gulbadin Naib,PWH de Silva,1,0,,,,,,"",""
+ball,1,13.4,Afghanistan,Gulbadin Naib,Najibullah Zadran,PWH de Silva,1,0,,,,,,"",""
+ball,1,13.5,Afghanistan,Najibullah Zadran,Gulbadin Naib,PWH de Silva,1,0,,,,,,"",""
+ball,1,13.6,Afghanistan,Gulbadin Naib,Najibullah Zadran,PWH de Silva,1,0,,,,,,"",""
+ball,1,14.1,Afghanistan,Gulbadin Naib,Najibullah Zadran,PM Liyanagamage,1,0,,,,,,"",""
+ball,1,14.2,Afghanistan,Najibullah Zadran,Gulbadin Naib,PM Liyanagamage,0,0,,,,,,"",""
+ball,1,14.3,Afghanistan,Najibullah Zadran,Gulbadin Naib,PM Liyanagamage,1,0,,,,,,"",""
+ball,1,14.4,Afghanistan,Gulbadin Naib,Najibullah Zadran,PM Liyanagamage,0,0,,,,,,"",""
+ball,1,14.5,Afghanistan,Gulbadin Naib,Najibullah Zadran,PM Liyanagamage,1,0,,,,,,"",""
+ball,1,14.6,Afghanistan,Najibullah Zadran,Gulbadin Naib,PM Liyanagamage,2,0,,,,,,"",""
+ball,1,15.1,Afghanistan,Gulbadin Naib,Najibullah Zadran,DM de Silva,1,0,,,,,,"",""
+ball,1,15.2,Afghanistan,Najibullah Zadran,Gulbadin Naib,DM de Silva,4,0,,,,,,"",""
+ball,1,15.3,Afghanistan,Najibullah Zadran,Gulbadin Naib,DM de Silva,1,0,,,,,,"",""
+ball,1,15.4,Afghanistan,Gulbadin Naib,Najibullah Zadran,DM de Silva,2,0,,,,,,"",""
+ball,1,15.5,Afghanistan,Gulbadin Naib,Najibullah Zadran,DM de Silva,1,0,,,,,,"",""
+ball,1,15.6,Afghanistan,Najibullah Zadran,Gulbadin Naib,DM de Silva,0,0,,,,,,caught,Najibullah Zadran
+ball,1,16.1,Afghanistan,Gulbadin Naib,Mohammad Nabi,CAK Rajitha,1,0,,,,,,"",""
+ball,1,16.2,Afghanistan,Mohammad Nabi,Gulbadin Naib,CAK Rajitha,2,0,,,,,,"",""
+ball,1,16.3,Afghanistan,Mohammad Nabi,Gulbadin Naib,CAK Rajitha,1,0,,,,,,"",""
+ball,1,16.4,Afghanistan,Gulbadin Naib,Mohammad Nabi,CAK Rajitha,1,1,,1,,,,"",""
+ball,1,16.5,Afghanistan,Mohammad Nabi,Gulbadin Naib,CAK Rajitha,0,0,,,,,,"",""
+ball,1,16.6,Afghanistan,Mohammad Nabi,Gulbadin Naib,CAK Rajitha,2,0,,,,,,"",""
+ball,1,16.7,Afghanistan,Mohammad Nabi,Gulbadin Naib,CAK Rajitha,4,0,,,,,,"",""
+ball,1,17.1,Afghanistan,Gulbadin Naib,Mohammad Nabi,M Theekshana,1,0,,,,,,"",""
+ball,1,17.2,Afghanistan,Mohammad Nabi,Gulbadin Naib,M Theekshana,1,0,,,,,,run out,Gulbadin Naib
+ball,1,17.3,Afghanistan,Rashid Khan,Mohammad Nabi,M Theekshana,1,0,,,,,,"",""
+ball,1,17.4,Afghanistan,Mohammad Nabi,Rashid Khan,M Theekshana,3,0,,,,,,"",""
+ball,1,17.5,Afghanistan,Rashid Khan,Mohammad Nabi,M Theekshana,0,0,,,,,,"",""
+ball,1,17.6,Afghanistan,Rashid Khan,Mohammad Nabi,M Theekshana,1,0,,,,,,"",""
+ball,1,18.1,Afghanistan,Rashid Khan,Mohammad Nabi,CAK Rajitha,4,0,,,,,,"",""
+ball,1,18.2,Afghanistan,Rashid Khan,Mohammad Nabi,CAK Rajitha,2,0,,,,,,"",""
+ball,1,18.3,Afghanistan,Rashid Khan,Mohammad Nabi,CAK Rajitha,0,0,,,,,,"",""
+ball,1,18.4,Afghanistan,Rashid Khan,Mohammad Nabi,CAK Rajitha,1,0,,,,,,"",""
+ball,1,18.5,Afghanistan,Mohammad Nabi,Rashid Khan,CAK Rajitha,0,1,1,,,,,"",""
+ball,1,18.6,Afghanistan,Mohammad Nabi,Rashid Khan,CAK Rajitha,0,0,,,,,,caught,Mohammad Nabi
+ball,1,18.7,Afghanistan,Azmatullah Omarzai,Rashid Khan,CAK Rajitha,1,0,,,,,,"",""
+ball,1,19.1,Afghanistan,Azmatullah Omarzai,Rashid Khan,PWH de Silva,0,0,,,,,,"",""
+ball,1,19.2,Afghanistan,Azmatullah Omarzai,Rashid Khan,PWH de Silva,1,0,,,,,,"",""
+ball,1,19.3,Afghanistan,Rashid Khan,Azmatullah Omarzai,PWH de Silva,0,0,,,,,,bowled,Rashid Khan
+ball,1,19.4,Afghanistan,Mujeeb Ur Rahman,Azmatullah Omarzai,PWH de Silva,1,0,,,,,,"",""
+ball,1,19.5,Afghanistan,Azmatullah Omarzai,Mujeeb Ur Rahman,PWH de Silva,1,0,,,,,,"",""
+ball,1,19.6,Afghanistan,Mujeeb Ur Rahman,Azmatullah Omarzai,PWH de Silva,0,0,,,,,,stumped,Mujeeb Ur Rahman
+ball,2,0.1,Sri Lanka,P Nissanka,BKG Mendis,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,0.2,Sri Lanka,P Nissanka,BKG Mendis,Fazalhaq Farooqi,4,0,,,,,,"",""
+ball,2,0.3,Sri Lanka,P Nissanka,BKG Mendis,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,0.4,Sri Lanka,BKG Mendis,P Nissanka,Fazalhaq Farooqi,0,2,2,,,,,"",""
+ball,2,0.5,Sri Lanka,P Nissanka,BKG Mendis,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,0.6,Sri Lanka,BKG Mendis,P Nissanka,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,0.7,Sri Lanka,BKG Mendis,P Nissanka,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,1.1,Sri Lanka,P Nissanka,BKG Mendis,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,1.2,Sri Lanka,P Nissanka,BKG Mendis,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,2,1.3,Sri Lanka,P Nissanka,BKG Mendis,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,1.4,Sri Lanka,P Nissanka,BKG Mendis,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,1.5,Sri Lanka,P Nissanka,BKG Mendis,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,1.6,Sri Lanka,P Nissanka,BKG Mendis,Mujeeb Ur Rahman,0,0,,,,,,bowled,P Nissanka
+ball,2,2.1,Sri Lanka,BKG Mendis,DM de Silva,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,2.2,Sri Lanka,BKG Mendis,DM de Silva,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,2.3,Sri Lanka,BKG Mendis,DM de Silva,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,2.4,Sri Lanka,BKG Mendis,DM de Silva,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,2.5,Sri Lanka,BKG Mendis,DM de Silva,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,2.6,Sri Lanka,BKG Mendis,DM de Silva,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,3.1,Sri Lanka,DM de Silva,BKG Mendis,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,3.2,Sri Lanka,DM de Silva,BKG Mendis,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,3.3,Sri Lanka,DM de Silva,BKG Mendis,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,3.4,Sri Lanka,BKG Mendis,DM de Silva,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,3.5,Sri Lanka,DM de Silva,BKG Mendis,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,3.6,Sri Lanka,DM de Silva,BKG Mendis,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,4.1,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,0,0,,,,,,"",""
+ball,2,4.2,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,0,0,,,,,,"",""
+ball,2,4.3,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,4,0,,,,,,"",""
+ball,2,4.4,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,4,0,,,,,,"",""
+ball,2,4.5,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,1,0,,,,,,"",""
+ball,2,4.6,Sri Lanka,DM de Silva,BKG Mendis,Fareed Ahmad,0,0,,,,,,"",""
+ball,2,5.1,Sri Lanka,BKG Mendis,DM de Silva,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,5.2,Sri Lanka,BKG Mendis,DM de Silva,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,2,5.3,Sri Lanka,BKG Mendis,DM de Silva,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,5.4,Sri Lanka,DM de Silva,BKG Mendis,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,5.5,Sri Lanka,BKG Mendis,DM de Silva,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,5.6,Sri Lanka,BKG Mendis,DM de Silva,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,6.1,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,1,0,,,,,,"",""
+ball,2,6.2,Sri Lanka,DM de Silva,BKG Mendis,Fareed Ahmad,1,0,,,,,,"",""
+ball,2,6.3,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,6,0,,,,,,"",""
+ball,2,6.4,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,0,1,1,,,,,"",""
+ball,2,6.5,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,2,0,,,,,,"",""
+ball,2,6.6,Sri Lanka,BKG Mendis,DM de Silva,Fareed Ahmad,1,0,,,,,,"",""
+ball,2,6.7,Sri Lanka,DM de Silva,BKG Mendis,Fareed Ahmad,4,0,,,,,,"",""
+ball,2,7.1,Sri Lanka,BKG Mendis,DM de Silva,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.2,Sri Lanka,BKG Mendis,DM de Silva,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.3,Sri Lanka,DM de Silva,BKG Mendis,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.4,Sri Lanka,BKG Mendis,DM de Silva,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.5,Sri Lanka,BKG Mendis,DM de Silva,Rashid Khan,0,0,,,,,,caught,BKG Mendis
+ball,2,7.6,Sri Lanka,KIC Asalanka,DM de Silva,Rashid Khan,0,5,5,,,,,"",""
+ball,2,7.7,Sri Lanka,KIC Asalanka,DM de Silva,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.1,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,0,0,,,,,,"",""
+ball,2,8.2,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,2,8.3,Sri Lanka,DM de Silva,KIC Asalanka,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,2,8.4,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,2,0,,,,,,"",""
+ball,2,8.5,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,0,1,1,,,,,"",""
+ball,2,8.6,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,2,8.7,Sri Lanka,DM de Silva,KIC Asalanka,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,2,9.1,Sri Lanka,DM de Silva,KIC Asalanka,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,9.2,Sri Lanka,DM de Silva,KIC Asalanka,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,9.3,Sri Lanka,KIC Asalanka,DM de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,9.4,Sri Lanka,DM de Silva,KIC Asalanka,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,9.5,Sri Lanka,KIC Asalanka,DM de Silva,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,9.6,Sri Lanka,KIC Asalanka,DM de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,10.1,Sri Lanka,KIC Asalanka,DM de Silva,Rashid Khan,1,0,,,,,,"",""
+ball,2,10.2,Sri Lanka,DM de Silva,KIC Asalanka,Rashid Khan,4,0,,,,,,"",""
+ball,2,10.3,Sri Lanka,DM de Silva,KIC Asalanka,Rashid Khan,6,0,,,,,,"",""
+ball,2,10.4,Sri Lanka,DM de Silva,KIC Asalanka,Rashid Khan,2,0,,,,,,"",""
+ball,2,10.5,Sri Lanka,DM de Silva,KIC Asalanka,Rashid Khan,0,0,,,,,,"",""
+ball,2,10.6,Sri Lanka,DM de Silva,KIC Asalanka,Rashid Khan,1,0,,,,,,"",""
+ball,2,11.1,Sri Lanka,DM de Silva,KIC Asalanka,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,11.2,Sri Lanka,KIC Asalanka,DM de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,11.3,Sri Lanka,DM de Silva,KIC Asalanka,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,11.4,Sri Lanka,DM de Silva,KIC Asalanka,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,11.5,Sri Lanka,KIC Asalanka,DM de Silva,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,11.6,Sri Lanka,DM de Silva,KIC Asalanka,Mohammad Nabi,2,0,,,,,,"",""
+ball,2,12.1,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,0,0,,,,,,"",""
+ball,2,12.2,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,2,0,,,,,,"",""
+ball,2,12.3,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,2,0,,,,,,"",""
+ball,2,12.4,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,2,12.5,Sri Lanka,KIC Asalanka,DM de Silva,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,2,12.6,Sri Lanka,DM de Silva,KIC Asalanka,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,2,13.1,Sri Lanka,DM de Silva,KIC Asalanka,Rashid Khan,1,0,,,,,,"",""
+ball,2,13.2,Sri Lanka,KIC Asalanka,DM de Silva,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.3,Sri Lanka,KIC Asalanka,DM de Silva,Rashid Khan,0,0,,,,,,caught,KIC Asalanka
+ball,2,13.4,Sri Lanka,PBB Rajapaksa,DM de Silva,Rashid Khan,4,0,,,,,,"",""
+ball,2,13.5,Sri Lanka,PBB Rajapaksa,DM de Silva,Rashid Khan,0,1,,,,1,,"",""
+ball,2,13.6,Sri Lanka,DM de Silva,PBB Rajapaksa,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.1,Sri Lanka,DM de Silva,PBB Rajapaksa,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,14.2,Sri Lanka,PBB Rajapaksa,DM de Silva,Gulbadin Naib,4,0,,,,,,"",""
+ball,2,14.3,Sri Lanka,PBB Rajapaksa,DM de Silva,Gulbadin Naib,4,0,,,,,,"",""
+ball,2,14.4,Sri Lanka,PBB Rajapaksa,DM de Silva,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,14.5,Sri Lanka,DM de Silva,PBB Rajapaksa,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,14.6,Sri Lanka,DM de Silva,PBB Rajapaksa,Gulbadin Naib,2,0,,,,,,"",""
+ball,2,15.1,Sri Lanka,PBB Rajapaksa,DM de Silva,Rashid Khan,0,0,,,,,,"",""
+ball,2,15.2,Sri Lanka,PBB Rajapaksa,DM de Silva,Rashid Khan,1,0,,,,,,"",""
+ball,2,15.3,Sri Lanka,DM de Silva,PBB Rajapaksa,Rashid Khan,1,0,,,,,,"",""
+ball,2,15.4,Sri Lanka,PBB Rajapaksa,DM de Silva,Rashid Khan,0,0,,,,,,"",""
+ball,2,15.5,Sri Lanka,PBB Rajapaksa,DM de Silva,Rashid Khan,0,0,,,,,,"",""
+ball,2,15.6,Sri Lanka,PBB Rajapaksa,DM de Silva,Rashid Khan,1,0,,,,,,"",""
+ball,2,16.1,Sri Lanka,PBB Rajapaksa,DM de Silva,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,16.2,Sri Lanka,DM de Silva,PBB Rajapaksa,Fazalhaq Farooqi,4,0,,,,,,"",""
+ball,2,16.3,Sri Lanka,DM de Silva,PBB Rajapaksa,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,16.4,Sri Lanka,DM de Silva,PBB Rajapaksa,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,16.5,Sri Lanka,PBB Rajapaksa,DM de Silva,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,16.6,Sri Lanka,DM de Silva,PBB Rajapaksa,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,17.1,Sri Lanka,DM de Silva,PBB Rajapaksa,Mujeeb Ur Rahman,3,0,,,,,,"",""
+ball,2,17.2,Sri Lanka,PBB Rajapaksa,DM de Silva,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,17.3,Sri Lanka,DM de Silva,PBB Rajapaksa,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,2,17.4,Sri Lanka,DM de Silva,PBB Rajapaksa,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,2,17.5,Sri Lanka,DM de Silva,PBB Rajapaksa,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,17.6,Sri Lanka,PBB Rajapaksa,DM de Silva,Mujeeb Ur Rahman,0,0,,,,,,caught,PBB Rajapaksa
+ball,2,18.1,Sri Lanka,DM de Silva,MD Shanaka,Fazalhaq Farooqi,2,0,,,,,,"",""
+ball,2,18.2,Sri Lanka,DM de Silva,MD Shanaka,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,18.3,Sri Lanka,DM de Silva,MD Shanaka,Fazalhaq Farooqi,4,0,,,,,,"",""

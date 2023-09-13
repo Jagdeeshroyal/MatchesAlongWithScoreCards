@@ -1,0 +1,260 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Scotland
+info,gender,male
+info,season,2021/22
+info,date,2021/10/25
+info,event,ICC Men's T20 World Cup
+info,match_number,17
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,Mujeeb Ur Rahman
+info,umpire,HDPK Dharmasena
+info,umpire,P Wilson
+info,reserve_umpire,MA Gough
+info,tv_umpire,RA Kettleborough
+info,match_referee,JJ Crowe
+info,winner,Afghanistan
+info,winner_runs,130
+info,player,Afghanistan,Hazratullah
+info,player,Afghanistan,Mohammad Shahzad
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Asghar Stanikzai
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Scotland,HG Munsey
+info,player,Scotland,KJ Coetzer
+info,player,Scotland,CS MacLeod
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,JH Davey
+info,player,Scotland,SM Sharif
+info,player,Scotland,BTJ Wheal
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,CS MacLeod,9c376401
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,Hazratullah,5ea51c25
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KJ Coetzer,85d8110a
+info,registry,people,Karim Janat,62175638
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mohammad Shahzad,d6dcb0c9
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,P Wilson,68304a36
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SM Sharif,f43dd8c2
+ball,1,0.1,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,0,0,,,,,,"",""
+ball,1,0.2,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,0,1,1,,,,,"",""
+ball,1,0.3,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,0,0,,,,,,"",""
+ball,1,0.4,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,0,0,,,,,,"",""
+ball,1,0.5,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,0,0,,,,,,"",""
+ball,1,0.6,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,0,0,,,,,,"",""
+ball,1,0.7,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,1,0,,,,,,"",""
+ball,1,1.1,Afghanistan,Hazratullah,Mohammad Shahzad,MA Leask,0,0,,,,,,"",""
+ball,1,1.2,Afghanistan,Hazratullah,Mohammad Shahzad,MA Leask,4,0,,,,,,"",""
+ball,1,1.3,Afghanistan,Hazratullah,Mohammad Shahzad,MA Leask,1,0,,,,,,"",""
+ball,1,1.4,Afghanistan,Mohammad Shahzad,Hazratullah,MA Leask,6,0,,,,,,"",""
+ball,1,1.5,Afghanistan,Mohammad Shahzad,Hazratullah,MA Leask,1,0,,,,,,"",""
+ball,1,1.6,Afghanistan,Hazratullah,Mohammad Shahzad,MA Leask,6,0,,,,,,"",""
+ball,1,2.1,Afghanistan,Mohammad Shahzad,Hazratullah,SM Sharif,0,0,,,,,,"",""
+ball,1,2.2,Afghanistan,Mohammad Shahzad,Hazratullah,SM Sharif,0,0,,,,,,"",""
+ball,1,2.3,Afghanistan,Mohammad Shahzad,Hazratullah,SM Sharif,0,0,,,,,,"",""
+ball,1,2.4,Afghanistan,Mohammad Shahzad,Hazratullah,SM Sharif,0,0,,,,,,"",""
+ball,1,2.5,Afghanistan,Mohammad Shahzad,Hazratullah,SM Sharif,1,0,,,,,,"",""
+ball,1,2.6,Afghanistan,Hazratullah,Mohammad Shahzad,SM Sharif,0,1,1,,,,,"",""
+ball,1,2.7,Afghanistan,Hazratullah,Mohammad Shahzad,SM Sharif,0,0,,,,,,"",""
+ball,1,3.1,Afghanistan,Mohammad Shahzad,Hazratullah,JH Davey,1,0,,,,,,"",""
+ball,1,3.2,Afghanistan,Hazratullah,Mohammad Shahzad,JH Davey,0,0,,,,,,"",""
+ball,1,3.3,Afghanistan,Hazratullah,Mohammad Shahzad,JH Davey,1,0,,,,,,"",""
+ball,1,3.4,Afghanistan,Mohammad Shahzad,Hazratullah,JH Davey,1,0,,,,,,"",""
+ball,1,3.5,Afghanistan,Hazratullah,Mohammad Shahzad,JH Davey,4,0,,,,,,"",""
+ball,1,3.6,Afghanistan,Hazratullah,Mohammad Shahzad,JH Davey,1,0,,,,,,"",""
+ball,1,4.1,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,6,0,,,,,,"",""
+ball,1,4.2,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,4,0,,,,,,"",""
+ball,1,4.3,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,0,0,,,,,,"",""
+ball,1,4.4,Afghanistan,Hazratullah,Mohammad Shahzad,BTJ Wheal,1,0,,,,,,"",""
+ball,1,4.5,Afghanistan,Mohammad Shahzad,Hazratullah,BTJ Wheal,4,0,,,,,,"",""
+ball,1,4.6,Afghanistan,Mohammad Shahzad,Hazratullah,BTJ Wheal,1,0,,,,,,"",""
+ball,1,5.1,Afghanistan,Mohammad Shahzad,Hazratullah,SM Sharif,4,0,,,,,,"",""
+ball,1,5.2,Afghanistan,Mohammad Shahzad,Hazratullah,SM Sharif,2,0,,,,,,"",""
+ball,1,5.3,Afghanistan,Mohammad Shahzad,Hazratullah,SM Sharif,1,0,,,,,,"",""
+ball,1,5.4,Afghanistan,Hazratullah,Mohammad Shahzad,SM Sharif,1,0,,,,,,"",""
+ball,1,5.5,Afghanistan,Mohammad Shahzad,Hazratullah,SM Sharif,0,0,,,,,,caught,Mohammad Shahzad
+ball,1,5.6,Afghanistan,Hazratullah,Rahmanullah Gurbaz,SM Sharif,0,1,,,,1,,"",""
+ball,1,6.1,Afghanistan,Hazratullah,Rahmanullah Gurbaz,MRJ Watt,1,0,,,,,,"",""
+ball,1,6.2,Afghanistan,Rahmanullah Gurbaz,Hazratullah,MRJ Watt,0,0,,,,,,"",""
+ball,1,6.3,Afghanistan,Rahmanullah Gurbaz,Hazratullah,MRJ Watt,0,0,,,,,,"",""
+ball,1,6.4,Afghanistan,Rahmanullah Gurbaz,Hazratullah,MRJ Watt,0,0,,,,,,"",""
+ball,1,6.5,Afghanistan,Rahmanullah Gurbaz,Hazratullah,MRJ Watt,0,0,,,,,,"",""
+ball,1,6.6,Afghanistan,Rahmanullah Gurbaz,Hazratullah,MRJ Watt,0,1,1,,,,,"",""
+ball,1,6.7,Afghanistan,Rahmanullah Gurbaz,Hazratullah,MRJ Watt,0,0,,,,,,"",""
+ball,1,7.1,Afghanistan,Hazratullah,Rahmanullah Gurbaz,CN Greaves,0,0,,,,,,"",""
+ball,1,7.2,Afghanistan,Hazratullah,Rahmanullah Gurbaz,CN Greaves,6,0,,,,,,"",""
+ball,1,7.3,Afghanistan,Hazratullah,Rahmanullah Gurbaz,CN Greaves,1,0,,,,,,"",""
+ball,1,7.4,Afghanistan,Rahmanullah Gurbaz,Hazratullah,CN Greaves,0,0,,,,,,"",""
+ball,1,7.5,Afghanistan,Rahmanullah Gurbaz,Hazratullah,CN Greaves,2,0,,,,,,"",""
+ball,1,7.6,Afghanistan,Rahmanullah Gurbaz,Hazratullah,CN Greaves,1,0,,,,,,"",""
+ball,1,8.1,Afghanistan,Rahmanullah Gurbaz,Hazratullah,JH Davey,0,0,,,,,,"",""
+ball,1,8.2,Afghanistan,Rahmanullah Gurbaz,Hazratullah,JH Davey,4,0,,,,,,"",""
+ball,1,8.3,Afghanistan,Rahmanullah Gurbaz,Hazratullah,JH Davey,2,0,,,,,,"",""
+ball,1,8.4,Afghanistan,Rahmanullah Gurbaz,Hazratullah,JH Davey,0,1,1,,,,,"",""
+ball,1,8.5,Afghanistan,Rahmanullah Gurbaz,Hazratullah,JH Davey,1,0,,,,,,"",""
+ball,1,8.6,Afghanistan,Hazratullah,Rahmanullah Gurbaz,JH Davey,2,0,,,,,,"",""
+ball,1,8.7,Afghanistan,Hazratullah,Rahmanullah Gurbaz,JH Davey,2,0,,,,,,"",""
+ball,1,9.1,Afghanistan,Rahmanullah Gurbaz,Hazratullah,MRJ Watt,0,0,,,,,,"",""
+ball,1,9.2,Afghanistan,Rahmanullah Gurbaz,Hazratullah,MRJ Watt,1,0,,,,,,"",""
+ball,1,9.3,Afghanistan,Hazratullah,Rahmanullah Gurbaz,MRJ Watt,2,0,,,,,,"",""
+ball,1,9.4,Afghanistan,Hazratullah,Rahmanullah Gurbaz,MRJ Watt,0,0,,,,,,"",""
+ball,1,9.5,Afghanistan,Hazratullah,Rahmanullah Gurbaz,MRJ Watt,0,0,,,,,,bowled,Hazratullah
+ball,1,9.6,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,MRJ Watt,0,0,,,,,,"",""
+ball,1,10.1,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,CN Greaves,1,0,,,,,,"",""
+ball,1,10.2,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,CN Greaves,0,0,,,,,,"",""
+ball,1,10.3,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,CN Greaves,0,0,,,,,,"",""
+ball,1,10.4,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,CN Greaves,4,0,,,,,,"",""
+ball,1,10.5,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,CN Greaves,0,0,,,,,,"",""
+ball,1,10.6,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,CN Greaves,2,0,,,,,,"",""
+ball,1,11.1,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,BTJ Wheal,1,0,,,,,,"",""
+ball,1,11.2,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,BTJ Wheal,2,0,,,,,,"",""
+ball,1,11.3,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,BTJ Wheal,1,0,,,,,,"",""
+ball,1,11.4,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,BTJ Wheal,0,0,,,,,,"",""
+ball,1,11.5,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,BTJ Wheal,1,0,,,,,,"",""
+ball,1,11.6,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,BTJ Wheal,4,0,,,,,,"",""
+ball,1,12.1,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,CN Greaves,1,0,,,,,,"",""
+ball,1,12.2,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,CN Greaves,1,0,,,,,,"",""
+ball,1,12.3,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,CN Greaves,0,0,,,,,,"",""
+ball,1,12.4,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,CN Greaves,6,0,,,,,,"",""
+ball,1,12.5,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,CN Greaves,1,0,,,,,,"",""
+ball,1,12.6,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,CN Greaves,4,0,,,,,,"",""
+ball,1,13.1,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,MRJ Watt,0,0,,,,,,"",""
+ball,1,13.2,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,MRJ Watt,0,0,,,,,,"",""
+ball,1,13.3,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,MRJ Watt,0,0,,,,,,"",""
+ball,1,13.4,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,MRJ Watt,0,0,,,,,,"",""
+ball,1,13.5,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,MRJ Watt,1,0,,,,,,"",""
+ball,1,13.6,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,MRJ Watt,4,0,,,,,,"",""
+ball,1,14.1,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,JH Davey,6,0,,,,,,"",""
+ball,1,14.2,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,JH Davey,1,0,,,,,,"",""
+ball,1,14.3,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,JH Davey,1,0,,,,,,"",""
+ball,1,14.4,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,JH Davey,1,0,,,,,,"",""
+ball,1,14.5,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,JH Davey,1,0,,,,,,"",""
+ball,1,14.6,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,JH Davey,1,0,,,,,,"",""
+ball,1,15.1,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,SM Sharif,1,0,,,,,,"",""
+ball,1,15.2,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,SM Sharif,1,0,,,,,,"",""
+ball,1,15.3,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,SM Sharif,6,0,,,,,,"",""
+ball,1,15.4,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,SM Sharif,0,0,,,,,,"",""
+ball,1,15.5,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,SM Sharif,0,0,,,,,,"",""
+ball,1,15.6,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,SM Sharif,1,0,,,,,,"",""
+ball,1,16.1,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,BTJ Wheal,0,1,,,,1,,"",""
+ball,1,16.2,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,BTJ Wheal,6,0,,,,,,"",""
+ball,1,16.3,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,BTJ Wheal,1,0,,,,,,"",""
+ball,1,16.4,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,BTJ Wheal,6,0,,,,,,"",""
+ball,1,16.5,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,BTJ Wheal,1,0,,,,,,"",""
+ball,1,16.6,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,BTJ Wheal,1,0,,,,,,"",""
+ball,1,17.1,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,MRJ Watt,0,0,,,,,,"",""
+ball,1,17.2,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,MRJ Watt,0,1,1,,,,,"",""
+ball,1,17.3,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,MRJ Watt,4,0,,,,,,"",""
+ball,1,17.4,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,MRJ Watt,1,0,,,,,,"",""
+ball,1,17.5,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,MRJ Watt,0,1,,,,1,,"",""
+ball,1,17.6,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,MRJ Watt,6,0,,,,,,"",""
+ball,1,17.7,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,MRJ Watt,1,0,,,,,,"",""
+ball,1,18.1,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,JH Davey,2,0,,,,,,"",""
+ball,1,18.2,Afghanistan,Najibullah Zadran,Rahmanullah Gurbaz,JH Davey,1,0,,,,,,"",""
+ball,1,18.3,Afghanistan,Rahmanullah Gurbaz,Najibullah Zadran,JH Davey,0,0,,,,,,caught,Rahmanullah Gurbaz
+ball,1,18.4,Afghanistan,Najibullah Zadran,Mohammad Nabi,JH Davey,1,0,,,,,,"",""
+ball,1,18.5,Afghanistan,Mohammad Nabi,Najibullah Zadran,JH Davey,4,0,,,,,,"",""
+ball,1,18.6,Afghanistan,Mohammad Nabi,Najibullah Zadran,JH Davey,2,0,,,,,,"",""
+ball,1,19.1,Afghanistan,Najibullah Zadran,Mohammad Nabi,SM Sharif,2,0,,,,,,"",""
+ball,1,19.2,Afghanistan,Najibullah Zadran,Mohammad Nabi,SM Sharif,1,0,,,,,,"",""
+ball,1,19.3,Afghanistan,Mohammad Nabi,Najibullah Zadran,SM Sharif,4,0,,,,,,"",""
+ball,1,19.4,Afghanistan,Mohammad Nabi,Najibullah Zadran,SM Sharif,1,0,,,,,,"",""
+ball,1,19.5,Afghanistan,Najibullah Zadran,Mohammad Nabi,SM Sharif,6,0,,,,,,"",""
+ball,1,19.6,Afghanistan,Najibullah Zadran,Mohammad Nabi,SM Sharif,0,0,,,,,,caught,Najibullah Zadran
+ball,2,0.1,Scotland,HG Munsey,KJ Coetzer,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,0.2,Scotland,HG Munsey,KJ Coetzer,Mohammad Nabi,4,0,,,,,,"",""
+ball,2,0.3,Scotland,HG Munsey,KJ Coetzer,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,0.4,Scotland,HG Munsey,KJ Coetzer,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,0.5,Scotland,HG Munsey,KJ Coetzer,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,0.6,Scotland,HG Munsey,KJ Coetzer,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,1.1,Scotland,HG Munsey,KJ Coetzer,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,1.2,Scotland,HG Munsey,KJ Coetzer,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,1.3,Scotland,HG Munsey,KJ Coetzer,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,2,1.4,Scotland,HG Munsey,KJ Coetzer,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,2,1.5,Scotland,HG Munsey,KJ Coetzer,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,1.6,Scotland,HG Munsey,KJ Coetzer,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,2.1,Scotland,KJ Coetzer,HG Munsey,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,2.2,Scotland,KJ Coetzer,HG Munsey,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,2.3,Scotland,KJ Coetzer,HG Munsey,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,2.4,Scotland,KJ Coetzer,HG Munsey,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,2.5,Scotland,KJ Coetzer,HG Munsey,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,2.6,Scotland,KJ Coetzer,HG Munsey,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,3.1,Scotland,HG Munsey,KJ Coetzer,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,3.2,Scotland,KJ Coetzer,HG Munsey,Mujeeb Ur Rahman,0,0,,,,,,bowled,KJ Coetzer
+ball,2,3.3,Scotland,CS MacLeod,HG Munsey,Mujeeb Ur Rahman,0,0,,,,,,lbw,CS MacLeod
+ball,2,3.4,Scotland,RD Berrington,HG Munsey,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,3.5,Scotland,RD Berrington,HG Munsey,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,3.6,Scotland,RD Berrington,HG Munsey,Mujeeb Ur Rahman,0,0,,,,,,lbw,RD Berrington
+ball,2,4.1,Scotland,HG Munsey,MH Cross,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,4.2,Scotland,HG Munsey,MH Cross,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,4.3,Scotland,HG Munsey,MH Cross,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,4.4,Scotland,MH Cross,HG Munsey,Naveen-ul-Haq,0,0,,,,,,caught,MH Cross
+ball,2,4.5,Scotland,MA Leask,HG Munsey,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,4.6,Scotland,MA Leask,HG Munsey,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,4.7,Scotland,MA Leask,HG Munsey,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,5.1,Scotland,HG Munsey,MA Leask,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,5.2,Scotland,HG Munsey,MA Leask,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,2,5.3,Scotland,HG Munsey,MA Leask,Mujeeb Ur Rahman,0,0,,,,,,bowled,HG Munsey
+ball,2,5.4,Scotland,CN Greaves,MA Leask,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,5.5,Scotland,CN Greaves,MA Leask,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,5.6,Scotland,MA Leask,CN Greaves,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,6.1,Scotland,CN Greaves,MA Leask,Rashid Khan,0,0,,,,,,"",""
+ball,2,6.2,Scotland,CN Greaves,MA Leask,Rashid Khan,1,0,,,,,,"",""
+ball,2,6.3,Scotland,MA Leask,CN Greaves,Rashid Khan,0,0,,,,,,lbw,MA Leask
+ball,2,6.4,Scotland,MRJ Watt,CN Greaves,Rashid Khan,0,0,,,,,,"",""
+ball,2,6.5,Scotland,MRJ Watt,CN Greaves,Rashid Khan,1,0,,,,,,"",""
+ball,2,6.6,Scotland,CN Greaves,MRJ Watt,Rashid Khan,1,0,,,,,,"",""
+ball,2,7.1,Scotland,CN Greaves,MRJ Watt,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,7.2,Scotland,CN Greaves,MRJ Watt,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,7.3,Scotland,CN Greaves,MRJ Watt,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,2,7.4,Scotland,CN Greaves,MRJ Watt,Mujeeb Ur Rahman,5,0,,,,,,"",""
+ball,2,7.5,Scotland,MRJ Watt,CN Greaves,Mujeeb Ur Rahman,0,0,,,,,,bowled,MRJ Watt
+ball,2,7.6,Scotland,JH Davey,CN Greaves,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,2,8.1,Scotland,JH Davey,CN Greaves,Rashid Khan,0,1,,,,1,,"",""
+ball,2,8.2,Scotland,CN Greaves,JH Davey,Rashid Khan,4,0,,,,,,"",""
+ball,2,8.3,Scotland,CN Greaves,JH Davey,Rashid Khan,0,1,,,,1,,"",""
+ball,2,8.4,Scotland,JH Davey,CN Greaves,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.5,Scotland,CN Greaves,JH Davey,Rashid Khan,0,0,,,,,,lbw,CN Greaves
+ball,2,8.6,Scotland,SM Sharif,JH Davey,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.1,Scotland,SM Sharif,JH Davey,Karim Janat,0,0,,,,,,"",""
+ball,2,9.2,Scotland,SM Sharif,JH Davey,Karim Janat,1,0,,,,,,"",""
+ball,2,9.3,Scotland,JH Davey,SM Sharif,Karim Janat,0,1,1,,,,,"",""
+ball,2,9.4,Scotland,JH Davey,SM Sharif,Karim Janat,1,0,,,,,,"",""
+ball,2,9.5,Scotland,SM Sharif,JH Davey,Karim Janat,0,1,1,,,,,"",""
+ball,2,9.6,Scotland,SM Sharif,JH Davey,Karim Janat,1,0,,,,,,"",""
+ball,2,9.7,Scotland,JH Davey,SM Sharif,Karim Janat,0,0,,,,,,"",""
+ball,2,9.8,Scotland,JH Davey,SM Sharif,Karim Janat,1,0,,,,,,"",""
+ball,2,10.1,Scotland,JH Davey,SM Sharif,Rashid Khan,0,0,,,,,,lbw,JH Davey
+ball,2,10.2,Scotland,BTJ Wheal,SM Sharif,Rashid Khan,0,0,,,,,,bowled,BTJ Wheal

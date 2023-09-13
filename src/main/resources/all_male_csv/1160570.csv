@@ -1,0 +1,304 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kandahar Knights
+info,team,Nangarhar Leopards
+info,gender,male
+info,season,2018/19
+info,date,2018/10/06
+info,event,Afghanistan Premier League
+info,match_number,2
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Kandahar Knights
+info,toss_decision,bat
+info,player_of_match,BCJ Cutting
+info,umpire,Ahmed Shah Pakteen
+info,umpire,Farooq Khan
+info,reserve_umpire,Muhammad Sabir
+info,tv_umpire,Bismillah Shinwari
+info,match_referee,DT Jukes
+info,winner,Nangarhar Leopards
+info,winner_wickets,6
+info,player,Kandahar Knights,PR Stirling
+info,player,Kandahar Knights,BB McCullum
+info,player,Kandahar Knights,Karim Sadiq
+info,player,Kandahar Knights,Asghar Stanikzai
+info,player,Kandahar Knights,Karim Janat
+info,player,Kandahar Knights,KJ O'Brien
+info,player,Kandahar Knights,Najibullah Zadran
+info,player,Kandahar Knights,Amir Hamza
+info,player,Kandahar Knights,Sayed Shirzad
+info,player,Kandahar Knights,TS Mills
+info,player,Kandahar Knights,Waqar Salamkheil
+info,player,Nangarhar Leopards,Najeeb Tarakai
+info,player,Nangarhar Leopards,J Charles
+info,player,Nangarhar Leopards,AP Devcich
+info,player,Nangarhar Leopards,Rahmat Shah
+info,player,Nangarhar Leopards,Hashmatullah Shahidi
+info,player,Nangarhar Leopards,Shafiqullah
+info,player,Nangarhar Leopards,BCJ Cutting
+info,player,Nangarhar Leopards,MJ McClenaghan
+info,player,Nangarhar Leopards,Mujeeb Ur Rahman
+info,player,Nangarhar Leopards,Zahir Khan
+info,player,Nangarhar Leopards,Naveen-ul-Haq
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Amir Hamza,dca1ac2e
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,Farooq Khan,c1d0caa5
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,J Charles,09a9d073
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,Karim Janat,62175638
+info,registry,people,Karim Sadiq,13e5908b
+info,registry,people,MJ McClenaghan,51a3c5ef
+info,registry,people,Muhammad Sabir,83fd5a46
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najeeb Tarakai,2683e28b
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Sayed Shirzad,0ec1f412
+info,registry,people,Shafiqullah,ba4d600a
+info,registry,people,TS Mills,245c97cb
+info,registry,people,Waqar Salamkheil,3f1066d0
+info,registry,people,Zahir Khan,786b7fe8
+ball,1,0.1,Kandahar Knights,PR Stirling,BB McCullum,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,0.2,Kandahar Knights,PR Stirling,BB McCullum,MJ McClenaghan,6,0,,,,,,"",""
+ball,1,0.3,Kandahar Knights,PR Stirling,BB McCullum,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,0.4,Kandahar Knights,PR Stirling,BB McCullum,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,0.5,Kandahar Knights,BB McCullum,PR Stirling,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,0.6,Kandahar Knights,BB McCullum,PR Stirling,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,1.1,Kandahar Knights,BB McCullum,PR Stirling,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.2,Kandahar Knights,BB McCullum,PR Stirling,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,1.3,Kandahar Knights,PR Stirling,BB McCullum,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.4,Kandahar Knights,PR Stirling,BB McCullum,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.5,Kandahar Knights,PR Stirling,BB McCullum,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,1.6,Kandahar Knights,PR Stirling,BB McCullum,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,2.1,Kandahar Knights,BB McCullum,PR Stirling,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,2.2,Kandahar Knights,PR Stirling,BB McCullum,MJ McClenaghan,0,4,,,,4,,"",""
+ball,1,2.3,Kandahar Knights,PR Stirling,BB McCullum,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,2.4,Kandahar Knights,BB McCullum,PR Stirling,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,2.5,Kandahar Knights,PR Stirling,BB McCullum,MJ McClenaghan,4,0,,,,,,"",""
+ball,1,2.6,Kandahar Knights,PR Stirling,BB McCullum,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,3.1,Kandahar Knights,BB McCullum,PR Stirling,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,3.2,Kandahar Knights,BB McCullum,PR Stirling,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,3.3,Kandahar Knights,PR Stirling,BB McCullum,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,3.4,Kandahar Knights,PR Stirling,BB McCullum,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,3.5,Kandahar Knights,PR Stirling,BB McCullum,Mujeeb Ur Rahman,0,0,,,,,,caught,PR Stirling
+ball,1,3.6,Kandahar Knights,Karim Sadiq,BB McCullum,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,4.1,Kandahar Knights,BB McCullum,Karim Sadiq,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,4.2,Kandahar Knights,Karim Sadiq,BB McCullum,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,4.3,Kandahar Knights,Karim Sadiq,BB McCullum,Naveen-ul-Haq,0,0,,,,,,caught,Karim Sadiq
+ball,1,4.4,Kandahar Knights,Asghar Stanikzai,BB McCullum,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,4.5,Kandahar Knights,BB McCullum,Asghar Stanikzai,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,4.6,Kandahar Knights,BB McCullum,Asghar Stanikzai,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,5.1,Kandahar Knights,BB McCullum,Asghar Stanikzai,BCJ Cutting,4,0,,,,,,"",""
+ball,1,5.2,Kandahar Knights,BB McCullum,Asghar Stanikzai,BCJ Cutting,2,1,,1,,,,"",""
+ball,1,5.3,Kandahar Knights,BB McCullum,Asghar Stanikzai,BCJ Cutting,4,0,,,,,,"",""
+ball,1,5.4,Kandahar Knights,BB McCullum,Asghar Stanikzai,BCJ Cutting,0,0,,,,,,caught,BB McCullum
+ball,1,5.5,Kandahar Knights,Asghar Stanikzai,Karim Janat,BCJ Cutting,0,0,,,,,,"",""
+ball,1,5.6,Kandahar Knights,Asghar Stanikzai,Karim Janat,BCJ Cutting,0,0,,,,,,"",""
+ball,1,5.7,Kandahar Knights,Asghar Stanikzai,Karim Janat,BCJ Cutting,1,0,,,,,,"",""
+ball,1,6.1,Kandahar Knights,Asghar Stanikzai,Karim Janat,Zahir Khan,1,0,,,,,,"",""
+ball,1,6.2,Kandahar Knights,Karim Janat,Asghar Stanikzai,Zahir Khan,1,0,,,,,,"",""
+ball,1,6.3,Kandahar Knights,Asghar Stanikzai,Karim Janat,Zahir Khan,0,0,,,,,,caught,Asghar Stanikzai
+ball,1,6.4,Kandahar Knights,KJ O'Brien,Karim Janat,Zahir Khan,1,0,,,,,,"",""
+ball,1,6.5,Kandahar Knights,Karim Janat,KJ O'Brien,Zahir Khan,0,0,,,,,,"",""
+ball,1,6.6,Kandahar Knights,Karim Janat,KJ O'Brien,Zahir Khan,0,0,,,,,,"",""
+ball,1,7.1,Kandahar Knights,KJ O'Brien,Karim Janat,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,7.2,Kandahar Knights,Karim Janat,KJ O'Brien,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,7.3,Kandahar Knights,KJ O'Brien,Karim Janat,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,7.4,Kandahar Knights,Karim Janat,KJ O'Brien,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,7.5,Kandahar Knights,Karim Janat,KJ O'Brien,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,7.6,Kandahar Knights,KJ O'Brien,Karim Janat,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,8.1,Kandahar Knights,Karim Janat,KJ O'Brien,Zahir Khan,0,0,,,,,,"",""
+ball,1,8.2,Kandahar Knights,Karim Janat,KJ O'Brien,Zahir Khan,1,0,,,,,,"",""
+ball,1,8.3,Kandahar Knights,KJ O'Brien,Karim Janat,Zahir Khan,1,0,,,,,,"",""
+ball,1,8.4,Kandahar Knights,Karim Janat,KJ O'Brien,Zahir Khan,0,0,,,,,,"",""
+ball,1,8.5,Kandahar Knights,Karim Janat,KJ O'Brien,Zahir Khan,0,0,,,,,,"",""
+ball,1,8.6,Kandahar Knights,Karim Janat,KJ O'Brien,Zahir Khan,1,0,,,,,,"",""
+ball,1,9.1,Kandahar Knights,Karim Janat,KJ O'Brien,Rahmat Shah,1,0,,,,,,"",""
+ball,1,9.2,Kandahar Knights,KJ O'Brien,Karim Janat,Rahmat Shah,1,0,,,,,,"",""
+ball,1,9.3,Kandahar Knights,Karim Janat,KJ O'Brien,Rahmat Shah,1,0,,,,,,"",""
+ball,1,9.4,Kandahar Knights,KJ O'Brien,Karim Janat,Rahmat Shah,1,0,,,,,,"",""
+ball,1,9.5,Kandahar Knights,Karim Janat,KJ O'Brien,Rahmat Shah,0,0,,,,,,"",""
+ball,1,9.6,Kandahar Knights,Karim Janat,KJ O'Brien,Rahmat Shah,1,0,,,,,,"",""
+ball,1,10.1,Kandahar Knights,Karim Janat,KJ O'Brien,BCJ Cutting,0,1,,,,1,,"",""
+ball,1,10.2,Kandahar Knights,KJ O'Brien,Karim Janat,BCJ Cutting,4,0,,,,,,"",""
+ball,1,10.3,Kandahar Knights,KJ O'Brien,Karim Janat,BCJ Cutting,1,0,,,,,,"",""
+ball,1,10.4,Kandahar Knights,Karim Janat,KJ O'Brien,BCJ Cutting,1,0,,,,,,"",""
+ball,1,10.5,Kandahar Knights,KJ O'Brien,Karim Janat,BCJ Cutting,1,0,,,,,,"",""
+ball,1,10.6,Kandahar Knights,Karim Janat,KJ O'Brien,BCJ Cutting,1,0,,,,,,"",""
+ball,1,11.1,Kandahar Knights,Karim Janat,KJ O'Brien,Rahmat Shah,4,0,,,,,,"",""
+ball,1,11.2,Kandahar Knights,Karim Janat,KJ O'Brien,Rahmat Shah,1,0,,,,,,"",""
+ball,1,11.3,Kandahar Knights,KJ O'Brien,Karim Janat,Rahmat Shah,4,0,,,,,,"",""
+ball,1,11.4,Kandahar Knights,KJ O'Brien,Karim Janat,Rahmat Shah,2,0,,,,,,"",""
+ball,1,11.5,Kandahar Knights,KJ O'Brien,Karim Janat,Rahmat Shah,0,0,,,,,,"",""
+ball,1,11.6,Kandahar Knights,KJ O'Brien,Karim Janat,Rahmat Shah,0,0,,,,,,caught,KJ O'Brien
+ball,1,12.1,Kandahar Knights,Najibullah Zadran,Karim Janat,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,12.2,Kandahar Knights,Karim Janat,Najibullah Zadran,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,12.3,Kandahar Knights,Karim Janat,Najibullah Zadran,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,12.4,Kandahar Knights,Najibullah Zadran,Karim Janat,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,12.5,Kandahar Knights,Najibullah Zadran,Karim Janat,Mujeeb Ur Rahman,0,1,,,,1,,"",""
+ball,1,12.6,Kandahar Knights,Karim Janat,Najibullah Zadran,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,13.1,Kandahar Knights,Karim Janat,Najibullah Zadran,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,13.2,Kandahar Knights,Karim Janat,Najibullah Zadran,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,13.3,Kandahar Knights,Najibullah Zadran,Karim Janat,MJ McClenaghan,4,0,,,,,,"",""
+ball,1,13.4,Kandahar Knights,Najibullah Zadran,Karim Janat,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,13.5,Kandahar Knights,Najibullah Zadran,Karim Janat,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,13.6,Kandahar Knights,Karim Janat,Najibullah Zadran,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,14.1,Kandahar Knights,Karim Janat,Najibullah Zadran,Zahir Khan,4,0,,,,,,"",""
+ball,1,14.2,Kandahar Knights,Karim Janat,Najibullah Zadran,Zahir Khan,1,0,,,,,,"",""
+ball,1,14.3,Kandahar Knights,Najibullah Zadran,Karim Janat,Zahir Khan,0,0,,,,,,"",""
+ball,1,14.4,Kandahar Knights,Najibullah Zadran,Karim Janat,Zahir Khan,4,0,,,,,,"",""
+ball,1,14.5,Kandahar Knights,Najibullah Zadran,Karim Janat,Zahir Khan,1,0,,,,,,"",""
+ball,1,14.6,Kandahar Knights,Karim Janat,Najibullah Zadran,Zahir Khan,4,0,,,,,,"",""
+ball,1,15.1,Kandahar Knights,Najibullah Zadran,Karim Janat,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,15.2,Kandahar Knights,Karim Janat,Najibullah Zadran,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,15.3,Kandahar Knights,Karim Janat,Najibullah Zadran,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,15.4,Kandahar Knights,Najibullah Zadran,Karim Janat,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,15.5,Kandahar Knights,Karim Janat,Najibullah Zadran,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,15.6,Kandahar Knights,Karim Janat,Najibullah Zadran,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,16.1,Kandahar Knights,Najibullah Zadran,Karim Janat,BCJ Cutting,0,0,,,,,,caught,Najibullah Zadran
+ball,1,16.2,Kandahar Knights,Amir Hamza,Karim Janat,BCJ Cutting,1,0,,,,,,"",""
+ball,1,16.3,Kandahar Knights,Karim Janat,Amir Hamza,BCJ Cutting,1,0,,,,,,"",""
+ball,1,16.4,Kandahar Knights,Amir Hamza,Karim Janat,BCJ Cutting,0,0,,,,,,"",""
+ball,1,16.5,Kandahar Knights,Amir Hamza,Karim Janat,BCJ Cutting,0,0,,,,,,"",""
+ball,1,16.6,Kandahar Knights,Amir Hamza,Karim Janat,BCJ Cutting,0,1,1,,,,,"",""
+ball,1,16.7,Kandahar Knights,Amir Hamza,Karim Janat,BCJ Cutting,0,0,,,,,,caught,Amir Hamza
+ball,1,17.1,Kandahar Knights,Karim Janat,Sayed Shirzad,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,17.2,Kandahar Knights,Karim Janat,Sayed Shirzad,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,17.3,Kandahar Knights,Sayed Shirzad,Karim Janat,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,17.4,Kandahar Knights,Sayed Shirzad,Karim Janat,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,17.5,Kandahar Knights,Sayed Shirzad,Karim Janat,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,17.6,Kandahar Knights,Sayed Shirzad,Karim Janat,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,18.1,Kandahar Knights,Sayed Shirzad,Karim Janat,MJ McClenaghan,4,0,,,,,,"",""
+ball,1,18.2,Kandahar Knights,Sayed Shirzad,Karim Janat,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,18.3,Kandahar Knights,Karim Janat,Sayed Shirzad,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,18.4,Kandahar Knights,Sayed Shirzad,Karim Janat,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,18.5,Kandahar Knights,Karim Janat,Sayed Shirzad,MJ McClenaghan,1,0,,,,,,"",""
+ball,1,18.6,Kandahar Knights,Sayed Shirzad,Karim Janat,MJ McClenaghan,0,0,,,,,,"",""
+ball,1,19.1,Kandahar Knights,Karim Janat,Sayed Shirzad,BCJ Cutting,0,0,,,,,,caught,Karim Janat
+ball,1,19.2,Kandahar Knights,Sayed Shirzad,TS Mills,BCJ Cutting,0,0,,,,,,caught,Sayed Shirzad
+ball,1,19.3,Kandahar Knights,TS Mills,Waqar Salamkheil,BCJ Cutting,4,0,,,,,,"",""
+ball,1,19.4,Kandahar Knights,TS Mills,Waqar Salamkheil,BCJ Cutting,0,0,,,,,,"",""
+ball,1,19.5,Kandahar Knights,TS Mills,Waqar Salamkheil,BCJ Cutting,1,0,,,,,,"",""
+ball,1,19.6,Kandahar Knights,Waqar Salamkheil,TS Mills,BCJ Cutting,0,0,,,,,,"",""
+ball,2,0.1,Nangarhar Leopards,Najeeb Tarakai,J Charles,Amir Hamza,0,0,,,,,,"",""
+ball,2,0.2,Nangarhar Leopards,Najeeb Tarakai,J Charles,Amir Hamza,0,0,,,,,,"",""
+ball,2,0.3,Nangarhar Leopards,Najeeb Tarakai,J Charles,Amir Hamza,0,0,,,,,,"",""
+ball,2,0.4,Nangarhar Leopards,Najeeb Tarakai,J Charles,Amir Hamza,6,0,,,,,,"",""
+ball,2,0.5,Nangarhar Leopards,Najeeb Tarakai,J Charles,Amir Hamza,1,0,,,,,,"",""
+ball,2,0.6,Nangarhar Leopards,J Charles,Najeeb Tarakai,Amir Hamza,0,0,,,,,,"",""
+ball,2,1.1,Nangarhar Leopards,Najeeb Tarakai,J Charles,TS Mills,0,1,,,1,,,"",""
+ball,2,1.2,Nangarhar Leopards,J Charles,Najeeb Tarakai,TS Mills,0,0,,,,,,"",""
+ball,2,1.3,Nangarhar Leopards,J Charles,Najeeb Tarakai,TS Mills,1,0,,,,,,"",""
+ball,2,1.4,Nangarhar Leopards,Najeeb Tarakai,J Charles,TS Mills,1,0,,,,,,"",""
+ball,2,1.5,Nangarhar Leopards,J Charles,Najeeb Tarakai,TS Mills,0,0,,,,,,"",""
+ball,2,1.6,Nangarhar Leopards,J Charles,Najeeb Tarakai,TS Mills,1,0,,,,,,"",""
+ball,2,2.1,Nangarhar Leopards,J Charles,Najeeb Tarakai,Amir Hamza,0,0,,,,,,"",""
+ball,2,2.2,Nangarhar Leopards,J Charles,Najeeb Tarakai,Amir Hamza,4,0,,,,,,"",""
+ball,2,2.3,Nangarhar Leopards,J Charles,Najeeb Tarakai,Amir Hamza,0,0,,,,,,"",""
+ball,2,2.4,Nangarhar Leopards,J Charles,Najeeb Tarakai,Amir Hamza,4,0,,,,,,"",""
+ball,2,2.5,Nangarhar Leopards,J Charles,Najeeb Tarakai,Amir Hamza,2,0,,,,,,"",""
+ball,2,2.6,Nangarhar Leopards,J Charles,Najeeb Tarakai,Amir Hamza,0,0,,,,,,"",""
+ball,2,3.1,Nangarhar Leopards,Najeeb Tarakai,J Charles,Sayed Shirzad,1,0,,,,,,"",""
+ball,2,3.2,Nangarhar Leopards,J Charles,Najeeb Tarakai,Sayed Shirzad,0,0,,,,,,"",""
+ball,2,3.3,Nangarhar Leopards,J Charles,Najeeb Tarakai,Sayed Shirzad,0,0,,,,,,"",""
+ball,2,3.4,Nangarhar Leopards,J Charles,Najeeb Tarakai,Sayed Shirzad,0,0,,,,,,"",""
+ball,2,3.5,Nangarhar Leopards,J Charles,Najeeb Tarakai,Sayed Shirzad,6,0,,,,,,"",""
+ball,2,3.6,Nangarhar Leopards,J Charles,Najeeb Tarakai,Sayed Shirzad,0,0,,,,,,"",""
+ball,2,4.1,Nangarhar Leopards,Najeeb Tarakai,J Charles,TS Mills,1,0,,,,,,"",""
+ball,2,4.2,Nangarhar Leopards,J Charles,Najeeb Tarakai,TS Mills,6,0,,,,,,"",""
+ball,2,4.3,Nangarhar Leopards,J Charles,Najeeb Tarakai,TS Mills,2,0,,,,,,"",""
+ball,2,4.4,Nangarhar Leopards,J Charles,Najeeb Tarakai,TS Mills,2,0,,,,,,"",""
+ball,2,4.5,Nangarhar Leopards,J Charles,Najeeb Tarakai,TS Mills,1,0,,,,,,"",""
+ball,2,4.6,Nangarhar Leopards,Najeeb Tarakai,J Charles,TS Mills,4,0,,,,,,"",""
+ball,2,5.1,Nangarhar Leopards,J Charles,Najeeb Tarakai,Sayed Shirzad,0,0,,,,,,"",""
+ball,2,5.2,Nangarhar Leopards,J Charles,Najeeb Tarakai,Sayed Shirzad,0,0,,,,,,"",""
+ball,2,5.3,Nangarhar Leopards,J Charles,Najeeb Tarakai,Sayed Shirzad,1,0,,,,,,"",""
+ball,2,5.4,Nangarhar Leopards,Najeeb Tarakai,J Charles,Sayed Shirzad,1,0,,,,,,"",""
+ball,2,5.5,Nangarhar Leopards,J Charles,Najeeb Tarakai,Sayed Shirzad,0,0,,,,,,caught,J Charles
+ball,2,5.6,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Sayed Shirzad,0,0,,,,,,"",""
+ball,2,6.1,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Karim Janat,0,0,,,,,,"",""
+ball,2,6.2,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Karim Janat,1,0,,,,,,"",""
+ball,2,6.3,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Karim Janat,1,0,,,,,,"",""
+ball,2,6.4,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Karim Janat,1,0,,,,,,"",""
+ball,2,6.5,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Karim Janat,4,0,,,,,,"",""
+ball,2,6.6,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Karim Janat,1,0,,,,,,"",""
+ball,2,7.1,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Waqar Salamkheil,1,0,,,,,,"",""
+ball,2,7.2,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Waqar Salamkheil,1,0,,,,,,"",""
+ball,2,7.3,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,7.4,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Waqar Salamkheil,6,0,,,,,,"",""
+ball,2,7.5,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,7.6,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Waqar Salamkheil,1,0,,,,,,"",""
+ball,2,8.1,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Karim Janat,1,0,,,,,,"",""
+ball,2,8.2,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Karim Janat,1,0,,,,,,"",""
+ball,2,8.3,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Karim Janat,0,0,,,,,,"",""
+ball,2,8.4,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Karim Janat,1,0,,,,,,"",""
+ball,2,8.5,Nangarhar Leopards,AP Devcich,Najeeb Tarakai,Karim Janat,1,0,,,,,,"",""
+ball,2,8.6,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Karim Janat,1,0,,,,,,"",""
+ball,2,9.1,Nangarhar Leopards,Najeeb Tarakai,AP Devcich,Waqar Salamkheil,0,0,,,,,,caught,Najeeb Tarakai
+ball,2,9.2,Nangarhar Leopards,AP Devcich,Rahmat Shah,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,9.3,Nangarhar Leopards,AP Devcich,Rahmat Shah,Waqar Salamkheil,4,0,,,,,,"",""
+ball,2,9.4,Nangarhar Leopards,AP Devcich,Rahmat Shah,Waqar Salamkheil,1,0,,,,,,"",""
+ball,2,9.5,Nangarhar Leopards,Rahmat Shah,AP Devcich,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,9.6,Nangarhar Leopards,Rahmat Shah,AP Devcich,Waqar Salamkheil,1,0,,,,,,"",""
+ball,2,10.1,Nangarhar Leopards,Rahmat Shah,AP Devcich,Amir Hamza,0,0,,,,,,stumped,Rahmat Shah
+ball,2,10.2,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Amir Hamza,0,0,,,,,,"",""
+ball,2,10.3,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Amir Hamza,0,0,,,,,,"",""
+ball,2,10.4,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Amir Hamza,1,0,,,,,,"",""
+ball,2,10.5,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Amir Hamza,0,0,,,,,,"",""
+ball,2,10.6,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Amir Hamza,1,0,,,,,,"",""
+ball,2,11.1,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Karim Sadiq,1,0,,,,,,"",""
+ball,2,11.2,Nangarhar Leopards,Hashmatullah Shahidi,AP Devcich,Karim Sadiq,1,0,,,,,,"",""
+ball,2,11.3,Nangarhar Leopards,AP Devcich,Hashmatullah Shahidi,Karim Sadiq,0,0,,,,,,caught,AP Devcich
+ball,2,11.4,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Karim Sadiq,1,0,,,,,,"",""
+ball,2,11.5,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Karim Sadiq,1,0,,,,,,"",""
+ball,2,11.6,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Karim Sadiq,1,0,,,,,,"",""
+ball,2,12.1,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Amir Hamza,0,0,,,,,,"",""
+ball,2,12.2,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Amir Hamza,1,0,,,,,,"",""
+ball,2,12.3,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Amir Hamza,0,0,,,,,,"",""
+ball,2,12.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Amir Hamza,1,0,,,,,,"",""
+ball,2,12.5,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Amir Hamza,6,0,,,,,,"",""
+ball,2,12.6,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Amir Hamza,0,0,,,,,,"",""
+ball,2,13.1,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,13.2,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,1,0,,,,,,"",""
+ball,2,13.3,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Waqar Salamkheil,1,0,,,,,,"",""
+ball,2,13.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,13.5,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,6,0,,,,,,"",""
+ball,2,13.6,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,1,0,,,,,,"",""
+ball,2,14.1,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Sayed Shirzad,1,0,,,,,,"",""
+ball,2,14.2,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Sayed Shirzad,1,0,,,,,,"",""
+ball,2,14.3,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Sayed Shirzad,1,0,,,,,,"",""
+ball,2,14.4,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Sayed Shirzad,2,0,,,,,,"",""
+ball,2,14.5,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Sayed Shirzad,0,4,,,4,,,"",""
+ball,2,14.6,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Sayed Shirzad,4,0,,,,,,"",""
+ball,2,15.1,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,TS Mills,4,0,,,,,,"",""
+ball,2,15.2,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,TS Mills,0,0,,,,,,"",""
+ball,2,15.3,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,TS Mills,1,0,,,,,,"",""
+ball,2,15.4,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,TS Mills,2,0,,,,,,"",""
+ball,2,15.5,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,TS Mills,0,0,,,,,,"",""
+ball,2,15.6,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,TS Mills,0,0,,,,,,"",""
+ball,2,16.1,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,16.2,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,16.3,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,16.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,4,0,,,,,,"",""
+ball,2,16.5,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,16.6,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Waqar Salamkheil,0,0,,,,,,"",""
+ball,2,17.1,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Sayed Shirzad,1,0,,,,,,"",""
+ball,2,17.2,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Sayed Shirzad,0,1,1,,,,,"",""
+ball,2,17.3,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Sayed Shirzad,0,0,,,,,,"",""
+ball,2,17.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Sayed Shirzad,2,0,,,,,,"",""
+ball,2,17.5,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Sayed Shirzad,1,0,,,,,,"",""
+ball,2,17.6,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Sayed Shirzad,6,0,,,,,,"",""
+ball,2,17.7,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Sayed Shirzad,1,0,,,,,,"",""
+ball,2,18.1,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,TS Mills,4,0,,,,,,"",""
+ball,2,18.2,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,TS Mills,0,0,,,,,,"",""
+ball,2,18.3,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,TS Mills,4,0,,,,,,"",""

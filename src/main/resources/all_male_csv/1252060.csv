@@ -1,0 +1,316 @@
+version,1.6.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Zimbabwe
+info,gender,male
+info,season,2020/21
+info,date,2021/03/20
+info,event,Zimbabwe tour of United Arab Emirates
+info,match_number,3
+info,venue,Sheikh Zayed Stadium
+info,city,Abu Dhabi
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,Najibullah Zadran
+info,umpire,Aleem Dar
+info,umpire,Izatullah Safi
+info,reserve_umpire,Ahmed Shah Durrani
+info,tv_umpire,Ahmed Shah Pakteen
+info,match_referee,RS Madugalle
+info,winner,Afghanistan
+info,winner_runs,47
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Usman Ghani
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Asghar Stanikzai
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Sharafuddin Ashraf
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Fazalhaq Farooqi
+info,player,Zimbabwe,TS Kamunhukamwe
+info,player,Zimbabwe,TK Musakanda
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,M Shumba
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,R Mutumbami
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,M Faraz Akram
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,R Ngarava
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,Karim Janat,62175638
+info,registry,people,M Faraz Akram,38214163
+info,registry,people,M Shumba,6766ca00
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,R Mutumbami,5fef85ee
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sharafuddin Ashraf,7e678d00
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TK Musakanda,9f9b903e
+info,registry,people,TS Kamunhukamwe,4e1b4323
+info,registry,people,Usman Ghani,e3829b2a
+info,registry,people,WP Masakadza,4bc0a378
+ball,1,0.1,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,WP Masakadza,0,0,,,,,,"",""
+ball,1,0.2,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,WP Masakadza,0,0,,,,,,"",""
+ball,1,0.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,WP Masakadza,0,0,,,,,,"",""
+ball,1,0.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,WP Masakadza,0,0,,,,,,"",""
+ball,1,0.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,WP Masakadza,0,0,,,,,,"",""
+ball,1,0.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,WP Masakadza,0,1,1,,,,,"",""
+ball,1,0.7,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,WP Masakadza,0,0,,,,,,"",""
+ball,1,1.1,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,R Ngarava,0,0,,,,,,"",""
+ball,1,1.2,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,R Ngarava,1,0,,,,,,"",""
+ball,1,1.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,R Ngarava,0,0,,,,,,"",""
+ball,1,1.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,R Ngarava,4,0,,,,,,"",""
+ball,1,1.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,R Ngarava,4,0,,,,,,"",""
+ball,1,1.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,R Ngarava,1,0,,,,,,"",""
+ball,1,2.1,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,M Faraz Akram,0,1,,,,1,,"",""
+ball,1,2.2,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Faraz Akram,0,0,,,,,,"",""
+ball,1,2.3,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Faraz Akram,4,0,,,,,,"",""
+ball,1,2.4,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Faraz Akram,1,0,,,,,,"",""
+ball,1,2.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,M Faraz Akram,1,0,,,,,,"",""
+ball,1,2.6,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Faraz Akram,1,0,,,,,,"",""
+ball,1,3.1,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,B Muzarabani,4,0,,,,,,"",""
+ball,1,3.2,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,B Muzarabani,1,0,,,,,,"",""
+ball,1,3.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,B Muzarabani,0,0,,,,,,"",""
+ball,1,3.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,B Muzarabani,6,0,,,,,,"",""
+ball,1,3.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,B Muzarabani,0,0,,,,,,"",""
+ball,1,3.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,B Muzarabani,1,0,,,,,,"",""
+ball,1,4.1,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,M Faraz Akram,0,0,,,,,,"",""
+ball,1,4.2,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,M Faraz Akram,0,0,,,,,,"",""
+ball,1,4.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,M Faraz Akram,1,0,,,,,,"",""
+ball,1,4.4,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Faraz Akram,4,0,,,,,,"",""
+ball,1,4.5,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,M Faraz Akram,1,0,,,,,,"",""
+ball,1,4.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,M Faraz Akram,0,0,,,,,,"",""
+ball,1,5.1,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,R Ngarava,4,0,,,,,,"",""
+ball,1,5.2,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,R Ngarava,1,0,,,,,,"",""
+ball,1,5.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,R Ngarava,0,0,,,,,,caught,Rahmanullah Gurbaz
+ball,1,5.4,Afghanistan,Karim Janat,Usman Ghani,R Ngarava,0,0,,,,,,"",""
+ball,1,5.5,Afghanistan,Karim Janat,Usman Ghani,R Ngarava,1,0,,,,,,"",""
+ball,1,5.6,Afghanistan,Usman Ghani,Karim Janat,R Ngarava,0,0,,,,,,"",""
+ball,1,6.1,Afghanistan,Karim Janat,Usman Ghani,Sikandar Raza,0,1,,,,1,,"",""
+ball,1,6.2,Afghanistan,Usman Ghani,Karim Janat,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.3,Afghanistan,Karim Janat,Usman Ghani,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.4,Afghanistan,Usman Ghani,Karim Janat,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.5,Afghanistan,Karim Janat,Usman Ghani,Sikandar Raza,1,0,,,,,,"",""
+ball,1,6.6,Afghanistan,Usman Ghani,Karim Janat,Sikandar Raza,1,0,,,,,,"",""
+ball,1,7.1,Afghanistan,Usman Ghani,Karim Janat,B Muzarabani,0,0,,,,,,"",""
+ball,1,7.2,Afghanistan,Usman Ghani,Karim Janat,B Muzarabani,1,0,,,,,,"",""
+ball,1,7.3,Afghanistan,Karim Janat,Usman Ghani,B Muzarabani,1,0,,,,,,"",""
+ball,1,7.4,Afghanistan,Usman Ghani,Karim Janat,B Muzarabani,0,0,,,,,,"",""
+ball,1,7.5,Afghanistan,Usman Ghani,Karim Janat,B Muzarabani,0,0,,,,,,"",""
+ball,1,7.6,Afghanistan,Usman Ghani,Karim Janat,B Muzarabani,2,0,,,,,,"",""
+ball,1,8.1,Afghanistan,Karim Janat,Usman Ghani,RP Burl,1,0,,,,,,"",""
+ball,1,8.2,Afghanistan,Usman Ghani,Karim Janat,RP Burl,0,0,,,,,,"",""
+ball,1,8.3,Afghanistan,Usman Ghani,Karim Janat,RP Burl,0,0,,,,,,"",""
+ball,1,8.4,Afghanistan,Usman Ghani,Karim Janat,RP Burl,1,0,,,,,,"",""
+ball,1,8.5,Afghanistan,Karim Janat,Usman Ghani,RP Burl,1,0,,,,,,"",""
+ball,1,8.6,Afghanistan,Usman Ghani,Karim Janat,RP Burl,1,0,,,,,,"",""
+ball,1,9.1,Afghanistan,Usman Ghani,Karim Janat,M Faraz Akram,0,1,,,,1,,"",""
+ball,1,9.2,Afghanistan,Karim Janat,Usman Ghani,M Faraz Akram,1,0,,,,,,"",""
+ball,1,9.3,Afghanistan,Usman Ghani,Karim Janat,M Faraz Akram,1,0,,,,,,"",""
+ball,1,9.4,Afghanistan,Karim Janat,Usman Ghani,M Faraz Akram,4,0,,,,,,"",""
+ball,1,9.5,Afghanistan,Karim Janat,Usman Ghani,M Faraz Akram,4,0,,,,,,"",""
+ball,1,9.6,Afghanistan,Karim Janat,Usman Ghani,M Faraz Akram,6,0,,,,,,"",""
+ball,1,10.1,Afghanistan,Usman Ghani,Karim Janat,WP Masakadza,1,0,,,,,,"",""
+ball,1,10.2,Afghanistan,Karim Janat,Usman Ghani,WP Masakadza,0,0,,,,,,"",""
+ball,1,10.3,Afghanistan,Karim Janat,Usman Ghani,WP Masakadza,0,0,,,,,,bowled,Karim Janat
+ball,1,10.4,Afghanistan,Najibullah Zadran,Usman Ghani,WP Masakadza,0,0,,,,,,"",""
+ball,1,10.5,Afghanistan,Najibullah Zadran,Usman Ghani,WP Masakadza,1,0,,,,,,"",""
+ball,1,10.6,Afghanistan,Usman Ghani,Najibullah Zadran,WP Masakadza,1,0,,,,,,"",""
+ball,1,11.1,Afghanistan,Usman Ghani,Najibullah Zadran,Sikandar Raza,6,0,,,,,,"",""
+ball,1,11.2,Afghanistan,Usman Ghani,Najibullah Zadran,Sikandar Raza,0,0,,,,,,caught,Usman Ghani
+ball,1,11.3,Afghanistan,Najibullah Zadran,Mohammad Nabi,Sikandar Raza,0,0,,,,,,"",""
+ball,1,11.4,Afghanistan,Najibullah Zadran,Mohammad Nabi,Sikandar Raza,2,0,,,,,,"",""
+ball,1,11.5,Afghanistan,Najibullah Zadran,Mohammad Nabi,Sikandar Raza,0,0,,,,,,"",""
+ball,1,11.6,Afghanistan,Najibullah Zadran,Mohammad Nabi,Sikandar Raza,1,0,,,,,,"",""
+ball,1,12.1,Afghanistan,Najibullah Zadran,Mohammad Nabi,RP Burl,2,0,,,,,,"",""
+ball,1,12.2,Afghanistan,Najibullah Zadran,Mohammad Nabi,RP Burl,4,0,,,,,,"",""
+ball,1,12.3,Afghanistan,Najibullah Zadran,Mohammad Nabi,RP Burl,1,0,,,,,,"",""
+ball,1,12.4,Afghanistan,Mohammad Nabi,Najibullah Zadran,RP Burl,0,0,,,,,,"",""
+ball,1,12.5,Afghanistan,Mohammad Nabi,Najibullah Zadran,RP Burl,1,0,,,,,,"",""
+ball,1,12.6,Afghanistan,Najibullah Zadran,Mohammad Nabi,RP Burl,0,0,,,,,,"",""
+ball,1,13.1,Afghanistan,Mohammad Nabi,Najibullah Zadran,R Ngarava,1,0,,,,,,"",""
+ball,1,13.2,Afghanistan,Najibullah Zadran,Mohammad Nabi,R Ngarava,1,0,,,,,,"",""
+ball,1,13.3,Afghanistan,Mohammad Nabi,Najibullah Zadran,R Ngarava,0,0,,,,,,"",""
+ball,1,13.4,Afghanistan,Mohammad Nabi,Najibullah Zadran,R Ngarava,0,0,,,,,,caught,Mohammad Nabi
+ball,1,13.5,Afghanistan,Najibullah Zadran,Asghar Stanikzai,R Ngarava,0,1,1,,,,,"",""
+ball,1,13.6,Afghanistan,Najibullah Zadran,Asghar Stanikzai,R Ngarava,0,0,,,,,,"",""
+ball,1,13.7,Afghanistan,Najibullah Zadran,Asghar Stanikzai,R Ngarava,1,0,,,,,,"",""
+ball,1,14.1,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,1,0,,,,,,"",""
+ball,1,14.2,Afghanistan,Asghar Stanikzai,Najibullah Zadran,WP Masakadza,2,0,,,,,,"",""
+ball,1,14.3,Afghanistan,Asghar Stanikzai,Najibullah Zadran,WP Masakadza,1,0,,,,,,"",""
+ball,1,14.4,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,2,0,,,,,,"",""
+ball,1,14.5,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,0,0,,,,,,"",""
+ball,1,14.6,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,1,0,,,,,,"",""
+ball,1,15.1,Afghanistan,Najibullah Zadran,Asghar Stanikzai,B Muzarabani,1,0,,,,,,"",""
+ball,1,15.2,Afghanistan,Asghar Stanikzai,Najibullah Zadran,B Muzarabani,6,0,,,,,,"",""
+ball,1,15.3,Afghanistan,Asghar Stanikzai,Najibullah Zadran,B Muzarabani,1,0,,,,,,"",""
+ball,1,15.4,Afghanistan,Najibullah Zadran,Asghar Stanikzai,B Muzarabani,0,0,,,,,,"",""
+ball,1,15.5,Afghanistan,Najibullah Zadran,Asghar Stanikzai,B Muzarabani,1,0,,,,,,"",""
+ball,1,15.6,Afghanistan,Asghar Stanikzai,Najibullah Zadran,B Muzarabani,0,0,,,,,,"",""
+ball,1,16.1,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,0,1,1,,,,,"",""
+ball,1,16.2,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,2,0,,,,,,"",""
+ball,1,16.3,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,1,0,,,,,,"",""
+ball,1,16.4,Afghanistan,Asghar Stanikzai,Najibullah Zadran,WP Masakadza,1,0,,,,,,"",""
+ball,1,16.5,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,6,0,,,,,,"",""
+ball,1,16.6,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,6,0,,,,,,"",""
+ball,1,16.7,Afghanistan,Najibullah Zadran,Asghar Stanikzai,WP Masakadza,4,0,,,,,,"",""
+ball,1,17.1,Afghanistan,Asghar Stanikzai,Najibullah Zadran,R Ngarava,2,0,,,,,,"",""
+ball,1,17.2,Afghanistan,Asghar Stanikzai,Najibullah Zadran,R Ngarava,6,0,,,,,,"",""
+ball,1,17.3,Afghanistan,Asghar Stanikzai,Najibullah Zadran,R Ngarava,0,0,,,,,,"",""
+ball,1,17.4,Afghanistan,Asghar Stanikzai,Najibullah Zadran,R Ngarava,1,0,,,,,,"",""
+ball,1,17.5,Afghanistan,Najibullah Zadran,Asghar Stanikzai,R Ngarava,0,0,,,,,,"",""
+ball,1,17.6,Afghanistan,Najibullah Zadran,Asghar Stanikzai,R Ngarava,6,0,,,,,,"",""
+ball,1,18.1,Afghanistan,Asghar Stanikzai,Najibullah Zadran,M Faraz Akram,0,1,1,,,,,"",""
+ball,1,18.2,Afghanistan,Asghar Stanikzai,Najibullah Zadran,M Faraz Akram,4,0,,,,,,"",""
+ball,1,18.3,Afghanistan,Asghar Stanikzai,Najibullah Zadran,M Faraz Akram,0,0,,,,,,caught,Asghar Stanikzai
+ball,1,18.4,Afghanistan,Najibullah Zadran,Rashid Khan,M Faraz Akram,2,0,,,,,,"",""
+ball,1,18.5,Afghanistan,Najibullah Zadran,Rashid Khan,M Faraz Akram,0,0,,,,,,"",""
+ball,1,18.6,Afghanistan,Najibullah Zadran,Rashid Khan,M Faraz Akram,6,0,,,,,,"",""
+ball,1,18.7,Afghanistan,Najibullah Zadran,Rashid Khan,M Faraz Akram,4,0,,,,,,"",""
+ball,1,19.1,Afghanistan,Rashid Khan,Najibullah Zadran,B Muzarabani,0,0,,,,,,caught,Rashid Khan
+ball,1,19.2,Afghanistan,Sharafuddin Ashraf,Najibullah Zadran,B Muzarabani,0,0,,,,,,caught,Sharafuddin Ashraf
+ball,1,19.3,Afghanistan,Najibullah Zadran,Hashmatullah Shahidi,B Muzarabani,4,0,,,,,,"",""
+ball,1,19.4,Afghanistan,Najibullah Zadran,Hashmatullah Shahidi,B Muzarabani,4,0,,,,,,"",""
+ball,1,19.5,Afghanistan,Najibullah Zadran,Hashmatullah Shahidi,B Muzarabani,2,0,,,,,,"",""
+ball,1,19.6,Afghanistan,Najibullah Zadran,Hashmatullah Shahidi,B Muzarabani,6,0,,,,,,"",""
+ball,2,0.1,Zimbabwe,TS Kamunhukamwe,TK Musakanda,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,0.2,Zimbabwe,TS Kamunhukamwe,TK Musakanda,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,0.3,Zimbabwe,TK Musakanda,TS Kamunhukamwe,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,0.4,Zimbabwe,TS Kamunhukamwe,TK Musakanda,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,0.5,Zimbabwe,TS Kamunhukamwe,TK Musakanda,Fazalhaq Farooqi,0,0,,,,,,bowled,TS Kamunhukamwe
+ball,2,0.6,Zimbabwe,SC Williams,TK Musakanda,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,1.1,Zimbabwe,SC Williams,TK Musakanda,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,1.2,Zimbabwe,TK Musakanda,SC Williams,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,1.3,Zimbabwe,SC Williams,TK Musakanda,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,1.4,Zimbabwe,TK Musakanda,SC Williams,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,1.5,Zimbabwe,TK Musakanda,SC Williams,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,1.6,Zimbabwe,TK Musakanda,SC Williams,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,2.1,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,4,0,,,,,,"",""
+ball,2,2.2,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,2.3,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,2.4,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,2.5,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,2.6,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,3.1,Zimbabwe,TK Musakanda,SC Williams,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,3.2,Zimbabwe,SC Williams,TK Musakanda,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,3.3,Zimbabwe,TK Musakanda,SC Williams,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,3.4,Zimbabwe,TK Musakanda,SC Williams,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,3.5,Zimbabwe,TK Musakanda,SC Williams,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,3.6,Zimbabwe,SC Williams,TK Musakanda,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,4.1,Zimbabwe,SC Williams,TK Musakanda,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,4.2,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,4.3,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,4,0,,,,,,"",""
+ball,2,4.4,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,4,0,,,,,,"",""
+ball,2,4.5,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,4.6,Zimbabwe,TK Musakanda,SC Williams,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,5.1,Zimbabwe,SC Williams,TK Musakanda,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,5.2,Zimbabwe,SC Williams,TK Musakanda,Mohammad Nabi,4,0,,,,,,"",""
+ball,2,5.3,Zimbabwe,SC Williams,TK Musakanda,Mohammad Nabi,4,0,,,,,,"",""
+ball,2,5.4,Zimbabwe,SC Williams,TK Musakanda,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,5.5,Zimbabwe,SC Williams,TK Musakanda,Mohammad Nabi,0,0,,,,,,bowled,SC Williams
+ball,2,5.6,Zimbabwe,M Shumba,TK Musakanda,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,6.1,Zimbabwe,M Shumba,TK Musakanda,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,6.2,Zimbabwe,M Shumba,TK Musakanda,Naveen-ul-Haq,0,1,1,,,,,"",""
+ball,2,6.3,Zimbabwe,M Shumba,TK Musakanda,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,6.4,Zimbabwe,TK Musakanda,M Shumba,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,6.5,Zimbabwe,M Shumba,TK Musakanda,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,6.6,Zimbabwe,TK Musakanda,M Shumba,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,6.7,Zimbabwe,TK Musakanda,M Shumba,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,7.1,Zimbabwe,M Shumba,TK Musakanda,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,7.2,Zimbabwe,TK Musakanda,M Shumba,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,7.3,Zimbabwe,M Shumba,TK Musakanda,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,7.4,Zimbabwe,M Shumba,TK Musakanda,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,7.5,Zimbabwe,TK Musakanda,M Shumba,Mohammad Nabi,2,0,,,,,,"",""
+ball,2,7.6,Zimbabwe,TK Musakanda,M Shumba,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,8.1,Zimbabwe,TK Musakanda,M Shumba,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,8.2,Zimbabwe,M Shumba,TK Musakanda,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,8.3,Zimbabwe,TK Musakanda,M Shumba,Naveen-ul-Haq,0,0,,,,,,caught,TK Musakanda
+ball,2,8.4,Zimbabwe,M Shumba,Sikandar Raza,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,8.5,Zimbabwe,M Shumba,Sikandar Raza,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,8.6,Zimbabwe,M Shumba,Sikandar Raza,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,9.1,Zimbabwe,Sikandar Raza,M Shumba,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.2,Zimbabwe,M Shumba,Sikandar Raza,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.3,Zimbabwe,M Shumba,Sikandar Raza,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.4,Zimbabwe,Sikandar Raza,M Shumba,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.5,Zimbabwe,Sikandar Raza,M Shumba,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.6,Zimbabwe,M Shumba,Sikandar Raza,Rashid Khan,1,0,,,,,,"",""
+ball,2,10.1,Zimbabwe,M Shumba,Sikandar Raza,Karim Janat,0,0,,,,,,"",""
+ball,2,10.2,Zimbabwe,M Shumba,Sikandar Raza,Karim Janat,0,0,,,,,,caught,M Shumba
+ball,2,10.3,Zimbabwe,R Mutumbami,Sikandar Raza,Karim Janat,0,0,,,,,,caught,R Mutumbami
+ball,2,10.4,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,0,0,,,,,,"",""
+ball,2,10.5,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,1,0,,,,,,"",""
+ball,2,10.6,Zimbabwe,Sikandar Raza,RP Burl,Karim Janat,1,0,,,,,,"",""
+ball,2,11.1,Zimbabwe,Sikandar Raza,RP Burl,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.2,Zimbabwe,Sikandar Raza,RP Burl,Rashid Khan,1,0,,,,,,"",""
+ball,2,11.3,Zimbabwe,RP Burl,Sikandar Raza,Rashid Khan,1,0,,,,,,"",""
+ball,2,11.4,Zimbabwe,Sikandar Raza,RP Burl,Rashid Khan,1,0,,,,,,"",""
+ball,2,11.5,Zimbabwe,RP Burl,Sikandar Raza,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.6,Zimbabwe,RP Burl,Sikandar Raza,Rashid Khan,1,0,,,,,,"",""
+ball,2,12.1,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,0,0,,,,,,"",""
+ball,2,12.2,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,1,0,,,,,,"",""
+ball,2,12.3,Zimbabwe,Sikandar Raza,RP Burl,Karim Janat,4,0,,,,,,"",""
+ball,2,12.4,Zimbabwe,Sikandar Raza,RP Burl,Karim Janat,1,0,,,,,,"",""
+ball,2,12.5,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,1,0,,,,,,"",""
+ball,2,12.6,Zimbabwe,Sikandar Raza,RP Burl,Karim Janat,0,0,,,,,,"",""
+ball,2,13.1,Zimbabwe,RP Burl,Sikandar Raza,Sharafuddin Ashraf,2,0,,,,,,"",""
+ball,2,13.2,Zimbabwe,RP Burl,Sikandar Raza,Sharafuddin Ashraf,2,0,,,,,,"",""
+ball,2,13.3,Zimbabwe,RP Burl,Sikandar Raza,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,2,13.4,Zimbabwe,RP Burl,Sikandar Raza,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,2,13.5,Zimbabwe,RP Burl,Sikandar Raza,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,2,13.6,Zimbabwe,Sikandar Raza,RP Burl,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,2,14.1,Zimbabwe,Sikandar Raza,RP Burl,Rashid Khan,0,0,,,,,,"",""
+ball,2,14.2,Zimbabwe,Sikandar Raza,RP Burl,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.3,Zimbabwe,RP Burl,Sikandar Raza,Rashid Khan,0,0,,,,,,"",""
+ball,2,14.4,Zimbabwe,RP Burl,Sikandar Raza,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.5,Zimbabwe,Sikandar Raza,RP Burl,Rashid Khan,1,0,,,,,,"",""
+ball,2,14.6,Zimbabwe,RP Burl,Sikandar Raza,Rashid Khan,0,1,1,,,,,"",""
+ball,2,14.7,Zimbabwe,RP Burl,Sikandar Raza,Rashid Khan,6,0,,,,,,"",""
+ball,2,15.1,Zimbabwe,Sikandar Raza,RP Burl,Sharafuddin Ashraf,2,0,,,,,,"",""
+ball,2,15.2,Zimbabwe,Sikandar Raza,RP Burl,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,2,15.3,Zimbabwe,RP Burl,Sikandar Raza,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,2,15.4,Zimbabwe,RP Burl,Sikandar Raza,Sharafuddin Ashraf,0,1,,,,1,,"",""
+ball,2,15.5,Zimbabwe,Sikandar Raza,RP Burl,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,2,15.6,Zimbabwe,RP Burl,Sikandar Raza,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,2,16.1,Zimbabwe,Sikandar Raza,RP Burl,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,16.2,Zimbabwe,Sikandar Raza,RP Burl,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,16.3,Zimbabwe,Sikandar Raza,RP Burl,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,16.4,Zimbabwe,Sikandar Raza,RP Burl,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,16.5,Zimbabwe,Sikandar Raza,RP Burl,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,16.6,Zimbabwe,Sikandar Raza,RP Burl,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,17.1,Zimbabwe,Sikandar Raza,RP Burl,Karim Janat,6,0,,,,,,"",""
+ball,2,17.2,Zimbabwe,Sikandar Raza,RP Burl,Karim Janat,1,0,,,,,,"",""
+ball,2,17.3,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,2,0,,,,,,"",""
+ball,2,17.4,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,0,0,,,,,,"",""
+ball,2,17.5,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,0,0,,,,,,"",""
+ball,2,17.6,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,1,0,,,,,,"",""
+ball,2,18.1,Zimbabwe,RP Burl,Sikandar Raza,Fazalhaq Farooqi,6,0,,,,,,"",""
+ball,2,18.2,Zimbabwe,RP Burl,Sikandar Raza,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,2,18.3,Zimbabwe,RP Burl,Sikandar Raza,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,18.4,Zimbabwe,Sikandar Raza,RP Burl,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,18.5,Zimbabwe,RP Burl,Sikandar Raza,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,18.6,Zimbabwe,Sikandar Raza,RP Burl,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,2,19.1,Zimbabwe,Sikandar Raza,RP Burl,Karim Janat,3,0,,,,,,"",""
+ball,2,19.2,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,1,0,,,,,,"",""
+ball,2,19.3,Zimbabwe,Sikandar Raza,RP Burl,Karim Janat,1,0,,,,,,"",""
+ball,2,19.4,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,4,0,,,,,,"",""
+ball,2,19.5,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,0,0,,,,,,"",""
+ball,2,19.6,Zimbabwe,RP Burl,Sikandar Raza,Karim Janat,6,0,,,,,,"",""

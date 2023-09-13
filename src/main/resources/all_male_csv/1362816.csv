@@ -1,0 +1,313 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Afghanistan
+info,gender,male
+info,season,2022/23
+info,date,2023/03/26
+info,event,Afghanistan v Pakistan
+info,match_number,2
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Fazalhaq Farooqi
+info,umpire,Ahmed Shah Pakteen
+info,umpire,Bismillah Shinwari
+info,reserve_umpire,Farooq Khan
+info,tv_umpire,Akbar Ali
+info,match_referee,Hamim Khan
+info,winner,Afghanistan
+info,winner_wickets,7
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Abdullah Shafique
+info,player,Pakistan,Tayyab Tahir
+info,player,Pakistan,Imad Wasim
+info,player,Pakistan,Azam Khan
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Mohammad Nawaz (3)
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Zaman Khan
+info,player,Pakistan,Ihsanullah (2)
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Usman Ghani
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Afghanistan,Fazalhaq Farooqi
+info,player,Afghanistan,Naveen-ul-Haq
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,Farooq Khan,c1d0caa5
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Hamim Khan,f82540a3
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Ihsanullah,c290033d
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Karim Janat,62175638
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Usman Ghani,e3829b2a
+info,registry,people,Zaman Khan,28392e11
+ball,1,0.1,Pakistan,Saim Ayub,Mohammad Haris,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,0.2,Pakistan,Saim Ayub,Mohammad Haris,Fazalhaq Farooqi,0,0,,,,,,caught,Saim Ayub
+ball,1,0.3,Pakistan,Abdullah Shafique,Mohammad Haris,Fazalhaq Farooqi,0,0,,,,,,lbw,Abdullah Shafique
+ball,1,0.4,Pakistan,Tayyab Tahir,Mohammad Haris,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,0.5,Pakistan,Tayyab Tahir,Mohammad Haris,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,0.6,Pakistan,Tayyab Tahir,Mohammad Haris,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,1.1,Pakistan,Mohammad Haris,Tayyab Tahir,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,1,1.2,Pakistan,Mohammad Haris,Tayyab Tahir,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,1,1.3,Pakistan,Mohammad Haris,Tayyab Tahir,Azmatullah Omarzai,0,0,,,,,,"",""
+ball,1,1.4,Pakistan,Mohammad Haris,Tayyab Tahir,Azmatullah Omarzai,6,0,,,,,,"",""
+ball,1,1.5,Pakistan,Mohammad Haris,Tayyab Tahir,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,1.6,Pakistan,Tayyab Tahir,Mohammad Haris,Azmatullah Omarzai,3,0,,,,,,"",""
+ball,1,2.1,Pakistan,Tayyab Tahir,Mohammad Haris,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,2.2,Pakistan,Tayyab Tahir,Mohammad Haris,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,2.3,Pakistan,Tayyab Tahir,Mohammad Haris,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,2.4,Pakistan,Tayyab Tahir,Mohammad Haris,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,1,2.5,Pakistan,Mohammad Haris,Tayyab Tahir,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,2.6,Pakistan,Mohammad Haris,Tayyab Tahir,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,3.1,Pakistan,Tayyab Tahir,Mohammad Haris,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,3.2,Pakistan,Mohammad Haris,Tayyab Tahir,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,3.3,Pakistan,Mohammad Haris,Tayyab Tahir,Naveen-ul-Haq,0,0,,,,,,caught,Mohammad Haris
+ball,1,3.4,Pakistan,Imad Wasim,Tayyab Tahir,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,3.5,Pakistan,Imad Wasim,Tayyab Tahir,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,3.6,Pakistan,Tayyab Tahir,Imad Wasim,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,4.1,Pakistan,Imad Wasim,Tayyab Tahir,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,4.2,Pakistan,Tayyab Tahir,Imad Wasim,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,4.3,Pakistan,Imad Wasim,Tayyab Tahir,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,4.4,Pakistan,Imad Wasim,Tayyab Tahir,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,4.5,Pakistan,Tayyab Tahir,Imad Wasim,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,4.6,Pakistan,Tayyab Tahir,Imad Wasim,Mujeeb Ur Rahman,0,1,1,,,,,"",""
+ball,1,4.7,Pakistan,Tayyab Tahir,Imad Wasim,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,5.1,Pakistan,Imad Wasim,Tayyab Tahir,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,5.2,Pakistan,Imad Wasim,Tayyab Tahir,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,5.3,Pakistan,Imad Wasim,Tayyab Tahir,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,5.4,Pakistan,Imad Wasim,Tayyab Tahir,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,5.5,Pakistan,Tayyab Tahir,Imad Wasim,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,5.6,Pakistan,Imad Wasim,Tayyab Tahir,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,6.1,Pakistan,Tayyab Tahir,Imad Wasim,Rashid Khan,1,0,,,,,,"",""
+ball,1,6.2,Pakistan,Imad Wasim,Tayyab Tahir,Rashid Khan,0,0,,,,,,"",""
+ball,1,6.3,Pakistan,Imad Wasim,Tayyab Tahir,Rashid Khan,0,0,,,,,,"",""
+ball,1,6.4,Pakistan,Imad Wasim,Tayyab Tahir,Rashid Khan,1,0,,,,,,"",""
+ball,1,6.5,Pakistan,Tayyab Tahir,Imad Wasim,Rashid Khan,1,0,,,,,,"",""
+ball,1,6.6,Pakistan,Imad Wasim,Tayyab Tahir,Rashid Khan,0,0,,,,,,"",""
+ball,1,7.1,Pakistan,Tayyab Tahir,Imad Wasim,Azmatullah Omarzai,0,1,,,,1,,"",""
+ball,1,7.2,Pakistan,Imad Wasim,Tayyab Tahir,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,7.3,Pakistan,Tayyab Tahir,Imad Wasim,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,7.4,Pakistan,Imad Wasim,Tayyab Tahir,Azmatullah Omarzai,2,0,,,,,,"",""
+ball,1,7.5,Pakistan,Imad Wasim,Tayyab Tahir,Azmatullah Omarzai,2,0,,,,,,"",""
+ball,1,7.6,Pakistan,Imad Wasim,Tayyab Tahir,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,8.1,Pakistan,Imad Wasim,Tayyab Tahir,Mujeeb Ur Rahman,6,0,,,,,,"",""
+ball,1,8.2,Pakistan,Imad Wasim,Tayyab Tahir,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.3,Pakistan,Tayyab Tahir,Imad Wasim,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.4,Pakistan,Imad Wasim,Tayyab Tahir,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.5,Pakistan,Tayyab Tahir,Imad Wasim,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,8.6,Pakistan,Imad Wasim,Tayyab Tahir,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,9.1,Pakistan,Imad Wasim,Tayyab Tahir,Karim Janat,1,0,,,,,,"",""
+ball,1,9.2,Pakistan,Tayyab Tahir,Imad Wasim,Karim Janat,1,0,,,,,,"",""
+ball,1,9.3,Pakistan,Imad Wasim,Tayyab Tahir,Karim Janat,1,0,,,,,,"",""
+ball,1,9.4,Pakistan,Tayyab Tahir,Imad Wasim,Karim Janat,0,0,,,,,,"",""
+ball,1,9.5,Pakistan,Tayyab Tahir,Imad Wasim,Karim Janat,0,0,,,,,,caught,Tayyab Tahir
+ball,1,9.6,Pakistan,Azam Khan,Imad Wasim,Karim Janat,0,0,,,,,,"",""
+ball,1,10.1,Pakistan,Imad Wasim,Azam Khan,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.2,Pakistan,Azam Khan,Imad Wasim,Rashid Khan,0,0,,,,,,"",""
+ball,1,10.3,Pakistan,Azam Khan,Imad Wasim,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.4,Pakistan,Imad Wasim,Azam Khan,Rashid Khan,0,0,,,,,,"",""
+ball,1,10.5,Pakistan,Imad Wasim,Azam Khan,Rashid Khan,1,0,,,,,,"",""
+ball,1,10.6,Pakistan,Azam Khan,Imad Wasim,Rashid Khan,0,0,,,,,,lbw,Azam Khan
+ball,1,11.1,Pakistan,Imad Wasim,Shadab Khan,Karim Janat,1,0,,,,,,"",""
+ball,1,11.2,Pakistan,Shadab Khan,Imad Wasim,Karim Janat,0,0,,,,,,"",""
+ball,1,11.3,Pakistan,Shadab Khan,Imad Wasim,Karim Janat,0,0,,,,,,"",""
+ball,1,11.4,Pakistan,Shadab Khan,Imad Wasim,Karim Janat,1,0,,,,,,"",""
+ball,1,11.5,Pakistan,Imad Wasim,Shadab Khan,Karim Janat,1,0,,,,,,"",""
+ball,1,11.6,Pakistan,Shadab Khan,Imad Wasim,Karim Janat,2,0,,,,,,"",""
+ball,1,12.1,Pakistan,Imad Wasim,Shadab Khan,Rashid Khan,0,1,,,,1,,"",""
+ball,1,12.2,Pakistan,Shadab Khan,Imad Wasim,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.3,Pakistan,Imad Wasim,Shadab Khan,Rashid Khan,0,0,,,,,,"",""
+ball,1,12.4,Pakistan,Imad Wasim,Shadab Khan,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.5,Pakistan,Shadab Khan,Imad Wasim,Rashid Khan,1,0,,,,,,"",""
+ball,1,12.6,Pakistan,Imad Wasim,Shadab Khan,Rashid Khan,0,0,,,,,,"",""
+ball,1,13.1,Pakistan,Shadab Khan,Imad Wasim,Karim Janat,1,0,,,,,,"",""
+ball,1,13.2,Pakistan,Imad Wasim,Shadab Khan,Karim Janat,0,0,,,,,,"",""
+ball,1,13.3,Pakistan,Imad Wasim,Shadab Khan,Karim Janat,2,0,,,,,,"",""
+ball,1,13.4,Pakistan,Imad Wasim,Shadab Khan,Karim Janat,1,0,,,,,,"",""
+ball,1,13.5,Pakistan,Shadab Khan,Imad Wasim,Karim Janat,0,1,,,,1,,"",""
+ball,1,13.6,Pakistan,Imad Wasim,Shadab Khan,Karim Janat,1,0,,,,,,"",""
+ball,1,14.1,Pakistan,Imad Wasim,Shadab Khan,Rashid Khan,1,0,,,,,,"",""
+ball,1,14.2,Pakistan,Shadab Khan,Imad Wasim,Rashid Khan,0,0,,,,,,"",""
+ball,1,14.3,Pakistan,Shadab Khan,Imad Wasim,Rashid Khan,2,0,,,,,,"",""
+ball,1,14.4,Pakistan,Shadab Khan,Imad Wasim,Rashid Khan,2,0,,,,,,"",""
+ball,1,14.5,Pakistan,Shadab Khan,Imad Wasim,Rashid Khan,1,0,,,,,,"",""
+ball,1,14.6,Pakistan,Imad Wasim,Shadab Khan,Rashid Khan,1,0,,,,,,"",""
+ball,1,15.1,Pakistan,Imad Wasim,Shadab Khan,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,15.2,Pakistan,Shadab Khan,Imad Wasim,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,15.3,Pakistan,Shadab Khan,Imad Wasim,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,15.4,Pakistan,Shadab Khan,Imad Wasim,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,15.5,Pakistan,Imad Wasim,Shadab Khan,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,15.6,Pakistan,Imad Wasim,Shadab Khan,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,16.1,Pakistan,Imad Wasim,Shadab Khan,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,16.2,Pakistan,Imad Wasim,Shadab Khan,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,1,16.3,Pakistan,Shadab Khan,Imad Wasim,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,1,16.4,Pakistan,Imad Wasim,Shadab Khan,Fazalhaq Farooqi,6,0,,,,,,"",""
+ball,1,16.5,Pakistan,Imad Wasim,Shadab Khan,Fazalhaq Farooqi,0,0,,,,,,"",""
+ball,1,16.6,Pakistan,Imad Wasim,Shadab Khan,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,1,17.1,Pakistan,Imad Wasim,Shadab Khan,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,17.2,Pakistan,Shadab Khan,Imad Wasim,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,17.3,Pakistan,Imad Wasim,Shadab Khan,Azmatullah Omarzai,0,0,,,,,,"",""
+ball,1,17.4,Pakistan,Imad Wasim,Shadab Khan,Azmatullah Omarzai,2,0,,,,,,"",""
+ball,1,17.5,Pakistan,Imad Wasim,Shadab Khan,Azmatullah Omarzai,1,0,,,,,,"",""
+ball,1,17.6,Pakistan,Shadab Khan,Imad Wasim,Azmatullah Omarzai,4,0,,,,,,"",""
+ball,1,18.1,Pakistan,Imad Wasim,Shadab Khan,Fazalhaq Farooqi,4,0,,,,,,"",""
+ball,1,18.2,Pakistan,Imad Wasim,Shadab Khan,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,1,18.3,Pakistan,Shadab Khan,Imad Wasim,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,1,18.4,Pakistan,Imad Wasim,Shadab Khan,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,1,18.5,Pakistan,Shadab Khan,Imad Wasim,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,1,18.6,Pakistan,Imad Wasim,Shadab Khan,Fazalhaq Farooqi,1,0,,,,,,"",""
+ball,1,19.1,Pakistan,Imad Wasim,Shadab Khan,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,19.2,Pakistan,Shadab Khan,Imad Wasim,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,19.3,Pakistan,Shadab Khan,Imad Wasim,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,19.4,Pakistan,Imad Wasim,Shadab Khan,Naveen-ul-Haq,1,1,,1,,,,"",""
+ball,1,19.5,Pakistan,Shadab Khan,Imad Wasim,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,19.6,Pakistan,Shadab Khan,Imad Wasim,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,1,19.7,Pakistan,Shadab Khan,Imad Wasim,Naveen-ul-Haq,1,0,,,,,,run out,Shadab Khan
+ball,2,0.1,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Naseem Shah,0,0,,,,,,"",""
+ball,2,0.2,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Naseem Shah,2,0,,,,,,"",""
+ball,2,0.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Naseem Shah,6,0,,,,,,"",""
+ball,2,0.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Naseem Shah,0,0,,,,,,"",""
+ball,2,0.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Naseem Shah,0,0,,,,,,"",""
+ball,2,0.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Naseem Shah,4,0,,,,,,"",""
+ball,2,1.1,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,Zaman Khan,1,0,,,,,,"",""
+ball,2,1.2,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Zaman Khan,0,0,,,,,,"",""
+ball,2,1.3,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Zaman Khan,4,0,,,,,,"",""
+ball,2,1.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Zaman Khan,0,0,,,,,,"",""
+ball,2,1.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Zaman Khan,0,0,,,,,,"",""
+ball,2,1.6,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Zaman Khan,1,0,,,,,,"",""
+ball,2,2.1,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,2.2,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,Ihsanullah (2),4,0,,,,,,"",""
+ball,2,2.3,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,2.4,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,2.5,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,Ihsanullah (2),0,0,,,,,,"",""
+ball,2,2.6,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,Ihsanullah (2),0,1,,,,1,,"",""
+ball,2,3.1,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,Zaman Khan,1,0,,,,,,"",""
+ball,2,3.2,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Zaman Khan,1,0,,,,,,"",""
+ball,2,3.3,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,Zaman Khan,0,0,,,,,,"",""
+ball,2,3.4,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,Zaman Khan,0,1,,,,1,,"",""
+ball,2,3.5,Afghanistan,Rahmanullah Gurbaz,Usman Ghani,Zaman Khan,1,0,,,,,,"",""
+ball,2,3.6,Afghanistan,Usman Ghani,Rahmanullah Gurbaz,Zaman Khan,0,0,,,,,,bowled,Usman Ghani
+ball,2,4.1,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,4.2,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,4.3,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,4.4,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Ihsanullah (2),0,1,1,,,,,"",""
+ball,2,4.5,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Ihsanullah (2),3,0,,,,,,"",""
+ball,2,4.6,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Ihsanullah (2),0,0,,,,,,"",""
+ball,2,4.7,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,5.1,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Zaman Khan,1,0,,,,,,"",""
+ball,2,5.2,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Zaman Khan,4,0,,,,,,"",""
+ball,2,5.3,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Zaman Khan,0,0,,,,,,"",""
+ball,2,5.4,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Zaman Khan,1,0,,,,,,"",""
+ball,2,5.5,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Zaman Khan,0,0,,,,,,"",""
+ball,2,5.6,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Zaman Khan,1,0,,,,,,"",""
+ball,2,6.1,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),2,0,,,,,,"",""
+ball,2,6.2,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),0,0,,,,,,"",""
+ball,2,6.3,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),0,0,,,,,,"",""
+ball,2,6.4,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,6.5,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,6.6,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),0,0,,,,,,"",""
+ball,2,7.1,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,0,0,,,,,,"",""
+ball,2,7.2,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,0,0,,,,,,"",""
+ball,2,7.3,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,0,0,,,,,,"",""
+ball,2,7.4,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,4,0,,,,,,"",""
+ball,2,7.5,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,1,0,,,,,,"",""
+ball,2,7.6,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Shadab Khan,1,0,,,,,,"",""
+ball,2,8.1,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,8.2,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),0,0,,,,,,"",""
+ball,2,8.3,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),0,0,,,,,,"",""
+ball,2,8.4,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,8.5,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,8.6,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,9.1,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,2,0,,,,,,"",""
+ball,2,9.2,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,1,0,,,,,,"",""
+ball,2,9.3,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.4,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Shadab Khan,2,0,,,,,,"",""
+ball,2,9.5,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Shadab Khan,0,0,,,,,,"",""
+ball,2,9.6,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Shadab Khan,2,0,,,,,,"",""
+ball,2,10.1,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,10.2,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,10.3,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),0,0,,,,,,"",""
+ball,2,10.4,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,10.5,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),0,0,,,,,,"",""
+ball,2,10.6,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),0,0,,,,,,"",""
+ball,2,11.1,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Imad Wasim,1,0,,,,,,"",""
+ball,2,11.2,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Imad Wasim,1,0,,,,,,"",""
+ball,2,11.3,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Imad Wasim,1,0,,,,,,"",""
+ball,2,11.4,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Imad Wasim,1,0,,,,,,"",""
+ball,2,11.5,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Imad Wasim,0,0,,,,,,"",""
+ball,2,11.6,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Imad Wasim,1,0,,,,,,"",""
+ball,2,12.1,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,12.2,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),0,0,,,,,,"",""
+ball,2,12.3,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,12.4,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,12.5,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,12.6,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Mohammad Nawaz (3),1,0,,,,,,"",""
+ball,2,13.1,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.2,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.3,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.4,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,1,0,,,,,,"",""
+ball,2,13.5,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Shadab Khan,0,0,,,,,,"",""
+ball,2,13.6,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Shadab Khan,0,0,,,,,,"",""
+ball,2,14.1,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Naseem Shah,1,0,,,,,,"",""
+ball,2,14.2,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Naseem Shah,2,0,,,,,,"",""
+ball,2,14.3,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Naseem Shah,1,0,,,,,,"",""
+ball,2,14.4,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Naseem Shah,0,0,,,,,,"",""
+ball,2,14.5,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Naseem Shah,1,0,,,,,,"",""
+ball,2,14.6,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Naseem Shah,0,0,,,,,,"",""
+ball,2,15.1,Afghanistan,Ibrahim Zadran,Rahmanullah Gurbaz,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.2,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Shadab Khan,0,0,,,,,,"",""
+ball,2,15.3,Afghanistan,Rahmanullah Gurbaz,Ibrahim Zadran,Shadab Khan,0,0,,,,,,run out,Rahmanullah Gurbaz
+ball,2,15.4,Afghanistan,Najibullah Zadran,Ibrahim Zadran,Shadab Khan,1,0,,,,,,"",""
+ball,2,15.5,Afghanistan,Ibrahim Zadran,Najibullah Zadran,Shadab Khan,4,0,,,,,,"",""
+ball,2,15.6,Afghanistan,Ibrahim Zadran,Najibullah Zadran,Shadab Khan,0,2,2,,,,,"",""
+ball,2,15.7,Afghanistan,Najibullah Zadran,Ibrahim Zadran,Shadab Khan,2,0,,,,,,"",""
+ball,2,16.1,Afghanistan,Ibrahim Zadran,Najibullah Zadran,Naseem Shah,1,0,,,,,,"",""
+ball,2,16.2,Afghanistan,Najibullah Zadran,Ibrahim Zadran,Naseem Shah,2,0,,,,,,"",""
+ball,2,16.3,Afghanistan,Najibullah Zadran,Ibrahim Zadran,Naseem Shah,1,0,,,,,,"",""
+ball,2,16.4,Afghanistan,Ibrahim Zadran,Najibullah Zadran,Naseem Shah,0,0,,,,,,"",""
+ball,2,16.5,Afghanistan,Ibrahim Zadran,Najibullah Zadran,Naseem Shah,1,0,,,,,,"",""
+ball,2,16.6,Afghanistan,Najibullah Zadran,Ibrahim Zadran,Naseem Shah,1,0,,,,,,"",""
+ball,2,17.1,Afghanistan,Najibullah Zadran,Ibrahim Zadran,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,17.2,Afghanistan,Ibrahim Zadran,Najibullah Zadran,Ihsanullah (2),0,0,,,,,,caught,Ibrahim Zadran
+ball,2,17.3,Afghanistan,Mohammad Nabi,Najibullah Zadran,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,17.4,Afghanistan,Najibullah Zadran,Mohammad Nabi,Ihsanullah (2),4,0,,,,,,"",""
+ball,2,17.5,Afghanistan,Najibullah Zadran,Mohammad Nabi,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,17.6,Afghanistan,Mohammad Nabi,Najibullah Zadran,Ihsanullah (2),1,0,,,,,,"",""
+ball,2,18.1,Afghanistan,Mohammad Nabi,Najibullah Zadran,Naseem Shah,6,0,,,,,,"",""
+ball,2,18.2,Afghanistan,Mohammad Nabi,Najibullah Zadran,Naseem Shah,1,0,,,,,,"",""
+ball,2,18.3,Afghanistan,Najibullah Zadran,Mohammad Nabi,Naseem Shah,0,1,,,1,,,"",""
+ball,2,18.4,Afghanistan,Mohammad Nabi,Najibullah Zadran,Naseem Shah,2,0,,,,,,"",""
+ball,2,18.5,Afghanistan,Mohammad Nabi,Najibullah Zadran,Naseem Shah,1,0,,,,,,"",""
+ball,2,18.6,Afghanistan,Najibullah Zadran,Mohammad Nabi,Naseem Shah,6,0,,,,,,"",""
+ball,2,19.1,Afghanistan,Mohammad Nabi,Najibullah Zadran,Zaman Khan,0,0,,,,,,"",""
+ball,2,19.2,Afghanistan,Mohammad Nabi,Najibullah Zadran,Zaman Khan,1,0,,,,,,"",""
+ball,2,19.3,Afghanistan,Najibullah Zadran,Mohammad Nabi,Zaman Khan,0,1,,,1,,,"",""
+ball,2,19.4,Afghanistan,Mohammad Nabi,Najibullah Zadran,Zaman Khan,1,0,,,,,,"",""
+ball,2,19.5,Afghanistan,Najibullah Zadran,Mohammad Nabi,Zaman Khan,4,0,,,,,,"",""

@@ -1,0 +1,321 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Namibia
+info,gender,male
+info,season,2021/22
+info,date,2021/10/31
+info,event,ICC Men's T20 World Cup
+info,match_number,27
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,Naveen-ul-Haq
+info,umpire,Ahsan Raza
+info,umpire,CB Gaffaney
+info,reserve_umpire,RK Illingworth
+info,tv_umpire,PR Reiffel
+info,match_referee,J Srinath
+info,winner,Afghanistan
+info,winner_runs,62
+info,player,Afghanistan,Hazratullah
+info,player,Afghanistan,Mohammad Shahzad
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Asghar Stanikzai
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Hamid Hassan
+info,player,Namibia,CG Williams
+info,player,Namibia,M van Lingen
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,MG Erasmus
+info,player,Namibia,ZE Green
+info,player,Namibia,D Wiese
+info,player,Namibia,JJ Smit
+info,player,Namibia,JN Frylinck
+info,player,Namibia,HN Ya France
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asghar Stanikzai,88679525
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CG Williams,e16e7347
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,HN Ya France,915264c2
+info,registry,people,Hamid Hassan,093ae70b
+info,registry,people,Hazratullah,5ea51c25
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,Karim Janat,62175638
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mohammad Shahzad,d6dcb0c9
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Usman Ghani,e3829b2a
+info,registry,people,ZE Green,8716233e
+ball,1,0.1,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,0.2,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,4,0,,,,,,"",""
+ball,1,0.3,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,0,1,1,,,,,"",""
+ball,1,0.4,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,0.5,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,0.6,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,6,0,,,,,,"",""
+ball,1,0.7,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,1.1,Afghanistan,Mohammad Shahzad,Hazratullah,JJ Smit,0,0,,,,,,"",""
+ball,1,1.2,Afghanistan,Mohammad Shahzad,Hazratullah,JJ Smit,1,0,,,,,,"",""
+ball,1,1.3,Afghanistan,Hazratullah,Mohammad Shahzad,JJ Smit,0,0,,,,,,"",""
+ball,1,1.4,Afghanistan,Hazratullah,Mohammad Shahzad,JJ Smit,1,0,,,,,,"",""
+ball,1,1.5,Afghanistan,Mohammad Shahzad,Hazratullah,JJ Smit,1,0,,,,,,"",""
+ball,1,1.6,Afghanistan,Hazratullah,Mohammad Shahzad,JJ Smit,1,0,,,,,,"",""
+ball,1,2.1,Afghanistan,Hazratullah,Mohammad Shahzad,D Wiese,1,0,,,,,,"",""
+ball,1,2.2,Afghanistan,Mohammad Shahzad,Hazratullah,D Wiese,1,0,,,,,,"",""
+ball,1,2.3,Afghanistan,Hazratullah,Mohammad Shahzad,D Wiese,0,0,,,,,,"",""
+ball,1,2.4,Afghanistan,Hazratullah,Mohammad Shahzad,D Wiese,0,0,,,,,,"",""
+ball,1,2.5,Afghanistan,Hazratullah,Mohammad Shahzad,D Wiese,0,0,,,,,,"",""
+ball,1,2.6,Afghanistan,Hazratullah,Mohammad Shahzad,D Wiese,0,0,,,,,,"",""
+ball,1,3.1,Afghanistan,Mohammad Shahzad,Hazratullah,R Trumpelmann,1,0,,,,,,"",""
+ball,1,3.2,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,3.3,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,4,0,,,,,,"",""
+ball,1,3.4,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,3.5,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,4,0,,,,,,"",""
+ball,1,3.6,Afghanistan,Hazratullah,Mohammad Shahzad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,4.1,Afghanistan,Mohammad Shahzad,Hazratullah,JN Frylinck,1,0,,,,,,"",""
+ball,1,4.2,Afghanistan,Hazratullah,Mohammad Shahzad,JN Frylinck,0,0,,,,,,"",""
+ball,1,4.3,Afghanistan,Hazratullah,Mohammad Shahzad,JN Frylinck,0,0,,,,,,"",""
+ball,1,4.4,Afghanistan,Hazratullah,Mohammad Shahzad,JN Frylinck,0,0,,,,,,"",""
+ball,1,4.5,Afghanistan,Hazratullah,Mohammad Shahzad,JN Frylinck,4,0,,,,,,"",""
+ball,1,4.6,Afghanistan,Hazratullah,Mohammad Shahzad,JN Frylinck,6,0,,,,,,"",""
+ball,1,5.1,Afghanistan,Mohammad Shahzad,Hazratullah,D Wiese,1,0,,,,,,"",""
+ball,1,5.2,Afghanistan,Hazratullah,Mohammad Shahzad,D Wiese,1,0,,,,,,"",""
+ball,1,5.3,Afghanistan,Mohammad Shahzad,Hazratullah,D Wiese,4,0,,,,,,"",""
+ball,1,5.4,Afghanistan,Mohammad Shahzad,Hazratullah,D Wiese,6,0,,,,,,"",""
+ball,1,5.5,Afghanistan,Mohammad Shahzad,Hazratullah,D Wiese,0,0,,,,,,"",""
+ball,1,5.6,Afghanistan,Mohammad Shahzad,Hazratullah,D Wiese,1,0,,,,,,"",""
+ball,1,6.1,Afghanistan,Mohammad Shahzad,Hazratullah,JJ Smit,1,0,,,,,,"",""
+ball,1,6.2,Afghanistan,Hazratullah,Mohammad Shahzad,JJ Smit,1,0,,,,,,"",""
+ball,1,6.3,Afghanistan,Mohammad Shahzad,Hazratullah,JJ Smit,1,0,,,,,,"",""
+ball,1,6.4,Afghanistan,Hazratullah,Mohammad Shahzad,JJ Smit,0,0,,,,,,caught,Hazratullah
+ball,1,6.5,Afghanistan,Rahmanullah Gurbaz,Mohammad Shahzad,JJ Smit,0,0,,,,,,"",""
+ball,1,6.6,Afghanistan,Rahmanullah Gurbaz,Mohammad Shahzad,JJ Smit,0,0,,,,,,"",""
+ball,1,7.1,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,7.2,Afghanistan,Rahmanullah Gurbaz,Mohammad Shahzad,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,7.3,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,7.4,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,7.5,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,7.6,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,8.1,Afghanistan,Rahmanullah Gurbaz,Mohammad Shahzad,JN Frylinck,1,0,,,,,,"",""
+ball,1,8.2,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Frylinck,1,0,,,,,,"",""
+ball,1,8.3,Afghanistan,Rahmanullah Gurbaz,Mohammad Shahzad,JN Frylinck,1,0,,,,,,"",""
+ball,1,8.4,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Frylinck,4,0,,,,,,"",""
+ball,1,8.5,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Frylinck,2,0,,,,,,"",""
+ball,1,8.6,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Frylinck,1,0,,,,,,"",""
+ball,1,9.1,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,9.2,Afghanistan,Rahmanullah Gurbaz,Mohammad Shahzad,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,9.3,Afghanistan,Rahmanullah Gurbaz,Mohammad Shahzad,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,9.4,Afghanistan,Mohammad Shahzad,Rahmanullah Gurbaz,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,9.5,Afghanistan,Rahmanullah Gurbaz,Mohammad Shahzad,JN Loftie-Eaton,0,0,,,,,,lbw,Rahmanullah Gurbaz
+ball,1,9.6,Afghanistan,Asghar Stanikzai,Mohammad Shahzad,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,10.1,Afghanistan,Asghar Stanikzai,Mohammad Shahzad,BM Scholtz,1,0,,,,,,"",""
+ball,1,10.2,Afghanistan,Mohammad Shahzad,Asghar Stanikzai,BM Scholtz,1,0,,,,,,"",""
+ball,1,10.3,Afghanistan,Asghar Stanikzai,Mohammad Shahzad,BM Scholtz,0,0,,,,,,"",""
+ball,1,10.4,Afghanistan,Asghar Stanikzai,Mohammad Shahzad,BM Scholtz,1,0,,,,,,"",""
+ball,1,10.5,Afghanistan,Mohammad Shahzad,Asghar Stanikzai,BM Scholtz,4,0,,,,,,"",""
+ball,1,10.6,Afghanistan,Mohammad Shahzad,Asghar Stanikzai,BM Scholtz,1,0,,,,,,"",""
+ball,1,11.1,Afghanistan,Mohammad Shahzad,Asghar Stanikzai,JN Loftie-Eaton,6,0,,,,,,"",""
+ball,1,11.2,Afghanistan,Mohammad Shahzad,Asghar Stanikzai,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,11.3,Afghanistan,Mohammad Shahzad,Asghar Stanikzai,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,11.4,Afghanistan,Asghar Stanikzai,Mohammad Shahzad,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,11.5,Afghanistan,Mohammad Shahzad,Asghar Stanikzai,JN Loftie-Eaton,2,0,,,,,,"",""
+ball,1,11.6,Afghanistan,Mohammad Shahzad,Asghar Stanikzai,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,12.1,Afghanistan,Asghar Stanikzai,Mohammad Shahzad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,12.2,Afghanistan,Asghar Stanikzai,Mohammad Shahzad,R Trumpelmann,0,1,1,,,,,"",""
+ball,1,12.3,Afghanistan,Asghar Stanikzai,Mohammad Shahzad,R Trumpelmann,0,0,,,,,,"",""
+ball,1,12.4,Afghanistan,Asghar Stanikzai,Mohammad Shahzad,R Trumpelmann,1,0,,,,,,"",""
+ball,1,12.5,Afghanistan,Mohammad Shahzad,Asghar Stanikzai,R Trumpelmann,0,0,,,,,,caught,Mohammad Shahzad
+ball,1,12.6,Afghanistan,Najibullah Zadran,Asghar Stanikzai,R Trumpelmann,0,0,,,,,,"",""
+ball,1,12.7,Afghanistan,Najibullah Zadran,Asghar Stanikzai,R Trumpelmann,0,0,,,,,,"",""
+ball,1,13.1,Afghanistan,Asghar Stanikzai,Najibullah Zadran,MG Erasmus,4,0,,,,,,"",""
+ball,1,13.2,Afghanistan,Asghar Stanikzai,Najibullah Zadran,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.3,Afghanistan,Najibullah Zadran,Asghar Stanikzai,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.4,Afghanistan,Asghar Stanikzai,Najibullah Zadran,MG Erasmus,0,0,,,,,,"",""
+ball,1,13.5,Afghanistan,Asghar Stanikzai,Najibullah Zadran,MG Erasmus,1,0,,,,,,"",""
+ball,1,13.6,Afghanistan,Najibullah Zadran,Asghar Stanikzai,MG Erasmus,0,0,,,,,,"",""
+ball,1,14.1,Afghanistan,Asghar Stanikzai,Najibullah Zadran,JN Frylinck,0,1,1,,,,,"",""
+ball,1,14.2,Afghanistan,Asghar Stanikzai,Najibullah Zadran,JN Frylinck,6,0,,,,,,"",""
+ball,1,14.3,Afghanistan,Asghar Stanikzai,Najibullah Zadran,JN Frylinck,0,1,1,,,,,"",""
+ball,1,14.4,Afghanistan,Asghar Stanikzai,Najibullah Zadran,JN Frylinck,1,0,,,,,,"",""
+ball,1,14.5,Afghanistan,Najibullah Zadran,Asghar Stanikzai,JN Frylinck,4,0,,,,,,"",""
+ball,1,14.6,Afghanistan,Najibullah Zadran,Asghar Stanikzai,JN Frylinck,0,0,,,,,,"",""
+ball,1,14.7,Afghanistan,Najibullah Zadran,Asghar Stanikzai,JN Frylinck,0,0,,,,,,"",""
+ball,1,14.8,Afghanistan,Najibullah Zadran,Asghar Stanikzai,JN Frylinck,0,0,,,,,,"",""
+ball,1,15.1,Afghanistan,Asghar Stanikzai,Najibullah Zadran,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,15.2,Afghanistan,Najibullah Zadran,Asghar Stanikzai,JN Loftie-Eaton,2,0,,,,,,"",""
+ball,1,15.3,Afghanistan,Najibullah Zadran,Asghar Stanikzai,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,15.4,Afghanistan,Najibullah Zadran,Asghar Stanikzai,JN Loftie-Eaton,0,1,1,,,,,"",""
+ball,1,15.5,Afghanistan,Najibullah Zadran,Asghar Stanikzai,JN Loftie-Eaton,0,0,,,,,,lbw,Najibullah Zadran
+ball,1,15.6,Afghanistan,Mohammad Nabi,Asghar Stanikzai,JN Loftie-Eaton,1,0,,,,,,"",""
+ball,1,15.7,Afghanistan,Asghar Stanikzai,Mohammad Nabi,JN Loftie-Eaton,0,0,,,,,,"",""
+ball,1,16.1,Afghanistan,Mohammad Nabi,Asghar Stanikzai,JJ Smit,4,0,,,,,,"",""
+ball,1,16.2,Afghanistan,Mohammad Nabi,Asghar Stanikzai,JJ Smit,0,1,,,,1,,"",""
+ball,1,16.3,Afghanistan,Asghar Stanikzai,Mohammad Nabi,JJ Smit,4,0,,,,,,"",""
+ball,1,16.4,Afghanistan,Asghar Stanikzai,Mohammad Nabi,JJ Smit,0,0,,,,,,"",""
+ball,1,16.5,Afghanistan,Asghar Stanikzai,Mohammad Nabi,JJ Smit,0,1,1,,,,,"",""
+ball,1,16.6,Afghanistan,Asghar Stanikzai,Mohammad Nabi,JJ Smit,2,0,,,,,,"",""
+ball,1,16.7,Afghanistan,Asghar Stanikzai,Mohammad Nabi,JJ Smit,4,0,,,,,,"",""
+ball,1,17.1,Afghanistan,Mohammad Nabi,Asghar Stanikzai,D Wiese,1,0,,,,,,"",""
+ball,1,17.2,Afghanistan,Asghar Stanikzai,Mohammad Nabi,D Wiese,1,0,,,,,,"",""
+ball,1,17.3,Afghanistan,Mohammad Nabi,Asghar Stanikzai,D Wiese,0,0,,,,,,"",""
+ball,1,17.4,Afghanistan,Mohammad Nabi,Asghar Stanikzai,D Wiese,4,0,,,,,,"",""
+ball,1,17.5,Afghanistan,Mohammad Nabi,Asghar Stanikzai,D Wiese,0,0,,,,,,"",""
+ball,1,17.6,Afghanistan,Mohammad Nabi,Asghar Stanikzai,D Wiese,0,0,,,,,,"",""
+ball,1,18.1,Afghanistan,Asghar Stanikzai,Mohammad Nabi,R Trumpelmann,1,0,,,,,,"",""
+ball,1,18.2,Afghanistan,Mohammad Nabi,Asghar Stanikzai,R Trumpelmann,6,0,,,,,,"",""
+ball,1,18.3,Afghanistan,Mohammad Nabi,Asghar Stanikzai,R Trumpelmann,4,0,,,,,,"",""
+ball,1,18.4,Afghanistan,Mohammad Nabi,Asghar Stanikzai,R Trumpelmann,0,0,,,,,,"",""
+ball,1,18.5,Afghanistan,Mohammad Nabi,Asghar Stanikzai,R Trumpelmann,1,0,,,,,,"",""
+ball,1,18.6,Afghanistan,Asghar Stanikzai,Mohammad Nabi,R Trumpelmann,0,0,,,,,,caught,Asghar Stanikzai
+ball,1,19.1,Afghanistan,Mohammad Nabi,Gulbadin Naib,D Wiese,4,0,,,,,,"",""
+ball,1,19.2,Afghanistan,Mohammad Nabi,Gulbadin Naib,D Wiese,1,0,,,,,,"",""
+ball,1,19.3,Afghanistan,Gulbadin Naib,Mohammad Nabi,D Wiese,1,0,,,,,,"",""
+ball,1,19.4,Afghanistan,Mohammad Nabi,Gulbadin Naib,D Wiese,0,0,,,,,,"",""
+ball,1,19.5,Afghanistan,Mohammad Nabi,Gulbadin Naib,D Wiese,2,0,,,,,,"",""
+ball,1,19.6,Afghanistan,Mohammad Nabi,Gulbadin Naib,D Wiese,4,0,,,,,,"",""
+ball,2,0.1,Namibia,CG Williams,M van Lingen,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,0.2,Namibia,CG Williams,M van Lingen,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,0.3,Namibia,M van Lingen,CG Williams,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,0.4,Namibia,CG Williams,M van Lingen,Naveen-ul-Haq,0,0,,,,,,caught,CG Williams
+ball,2,0.5,Namibia,M van Lingen,JN Loftie-Eaton,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,0.6,Namibia,JN Loftie-Eaton,M van Lingen,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,1.1,Namibia,M van Lingen,JN Loftie-Eaton,Mohammad Nabi,2,0,,,,,,"",""
+ball,2,1.2,Namibia,M van Lingen,JN Loftie-Eaton,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,1.3,Namibia,M van Lingen,JN Loftie-Eaton,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,1.4,Namibia,M van Lingen,JN Loftie-Eaton,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,1.5,Namibia,JN Loftie-Eaton,M van Lingen,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,1.6,Namibia,JN Loftie-Eaton,M van Lingen,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,2.1,Namibia,JN Loftie-Eaton,M van Lingen,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,2.2,Namibia,JN Loftie-Eaton,M van Lingen,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,2.3,Namibia,M van Lingen,JN Loftie-Eaton,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,2.4,Namibia,M van Lingen,JN Loftie-Eaton,Naveen-ul-Haq,0,0,,,,,,caught,M van Lingen
+ball,2,2.5,Namibia,JN Loftie-Eaton,MG Erasmus,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,2.6,Namibia,JN Loftie-Eaton,MG Erasmus,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,3.1,Namibia,JN Loftie-Eaton,MG Erasmus,Mohammad Nabi,0,1,,,,1,,"",""
+ball,2,3.2,Namibia,MG Erasmus,JN Loftie-Eaton,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,3.3,Namibia,MG Erasmus,JN Loftie-Eaton,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,3.4,Namibia,JN Loftie-Eaton,MG Erasmus,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,3.5,Namibia,JN Loftie-Eaton,MG Erasmus,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,3.6,Namibia,JN Loftie-Eaton,MG Erasmus,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,4.1,Namibia,MG Erasmus,JN Loftie-Eaton,Hamid Hassan,1,0,,,,,,"",""
+ball,2,4.2,Namibia,JN Loftie-Eaton,MG Erasmus,Hamid Hassan,0,0,,,,,,"",""
+ball,2,4.3,Namibia,JN Loftie-Eaton,MG Erasmus,Hamid Hassan,0,0,,,,,,"",""
+ball,2,4.4,Namibia,JN Loftie-Eaton,MG Erasmus,Hamid Hassan,1,0,,,,,,"",""
+ball,2,4.5,Namibia,MG Erasmus,JN Loftie-Eaton,Hamid Hassan,0,0,,,,,,"",""
+ball,2,4.6,Namibia,MG Erasmus,JN Loftie-Eaton,Hamid Hassan,0,0,,,,,,"",""
+ball,2,5.1,Namibia,JN Loftie-Eaton,MG Erasmus,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,5.2,Namibia,JN Loftie-Eaton,MG Erasmus,Gulbadin Naib,0,0,,,,,,bowled,JN Loftie-Eaton
+ball,2,5.3,Namibia,ZE Green,MG Erasmus,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,5.4,Namibia,ZE Green,MG Erasmus,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,5.5,Namibia,ZE Green,MG Erasmus,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,5.6,Namibia,ZE Green,MG Erasmus,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,6.1,Namibia,MG Erasmus,ZE Green,Karim Janat,0,0,,,,,,"",""
+ball,2,6.2,Namibia,MG Erasmus,ZE Green,Karim Janat,4,0,,,,,,"",""
+ball,2,6.3,Namibia,MG Erasmus,ZE Green,Karim Janat,0,0,,,,,,"",""
+ball,2,6.4,Namibia,MG Erasmus,ZE Green,Karim Janat,1,0,,,,,,"",""
+ball,2,6.5,Namibia,ZE Green,MG Erasmus,Karim Janat,0,1,1,,,,,"",""
+ball,2,6.6,Namibia,ZE Green,MG Erasmus,Karim Janat,0,0,,,,,,"",""
+ball,2,6.7,Namibia,ZE Green,MG Erasmus,Karim Janat,1,0,,,,,,"",""
+ball,2,7.1,Namibia,ZE Green,MG Erasmus,Rashid Khan,0,0,,,,,,bowled,ZE Green
+ball,2,7.2,Namibia,D Wiese,MG Erasmus,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.3,Namibia,D Wiese,MG Erasmus,Rashid Khan,2,0,,,,,,"",""
+ball,2,7.4,Namibia,D Wiese,MG Erasmus,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.5,Namibia,D Wiese,MG Erasmus,Rashid Khan,0,0,,,,,,"",""
+ball,2,7.6,Namibia,D Wiese,MG Erasmus,Rashid Khan,1,0,,,,,,"",""
+ball,2,8.1,Namibia,D Wiese,MG Erasmus,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,8.2,Namibia,MG Erasmus,D Wiese,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,8.3,Namibia,D Wiese,MG Erasmus,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,8.4,Namibia,MG Erasmus,D Wiese,Gulbadin Naib,2,0,,,,,,"",""
+ball,2,8.5,Namibia,MG Erasmus,D Wiese,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,8.6,Namibia,D Wiese,MG Erasmus,Gulbadin Naib,4,0,,,,,,"",""
+ball,2,9.1,Namibia,MG Erasmus,D Wiese,Rashid Khan,1,0,,,,,,"",""
+ball,2,9.2,Namibia,D Wiese,MG Erasmus,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.3,Namibia,D Wiese,MG Erasmus,Rashid Khan,2,0,,,,,,"",""
+ball,2,9.4,Namibia,D Wiese,MG Erasmus,Rashid Khan,0,0,,,,,,"",""
+ball,2,9.5,Namibia,D Wiese,MG Erasmus,Rashid Khan,2,0,,,,,,"",""
+ball,2,9.6,Namibia,D Wiese,MG Erasmus,Rashid Khan,1,0,,,,,,"",""
+ball,2,10.1,Namibia,D Wiese,MG Erasmus,Hamid Hassan,0,0,,,,,,"",""
+ball,2,10.2,Namibia,D Wiese,MG Erasmus,Hamid Hassan,1,0,,,,,,"",""
+ball,2,10.3,Namibia,MG Erasmus,D Wiese,Hamid Hassan,0,0,,,,,,bowled,MG Erasmus
+ball,2,10.4,Namibia,JJ Smit,D Wiese,Hamid Hassan,0,0,,,,,,"",""
+ball,2,10.5,Namibia,JJ Smit,D Wiese,Hamid Hassan,0,0,,,,,,"",""
+ball,2,10.6,Namibia,JJ Smit,D Wiese,Hamid Hassan,0,0,,,,,,caught,JJ Smit
+ball,2,11.1,Namibia,D Wiese,JN Frylinck,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.2,Namibia,D Wiese,JN Frylinck,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.3,Namibia,D Wiese,JN Frylinck,Rashid Khan,0,0,,,,,,"",""
+ball,2,11.4,Namibia,D Wiese,JN Frylinck,Rashid Khan,1,0,,,,,,"",""
+ball,2,11.5,Namibia,JN Frylinck,D Wiese,Rashid Khan,0,1,,,,1,,"",""
+ball,2,11.6,Namibia,D Wiese,JN Frylinck,Rashid Khan,0,0,,,,,,"",""
+ball,2,12.1,Namibia,JN Frylinck,D Wiese,Hamid Hassan,1,0,,,,,,"",""
+ball,2,12.2,Namibia,D Wiese,JN Frylinck,Hamid Hassan,1,0,,,,,,"",""
+ball,2,12.3,Namibia,JN Frylinck,D Wiese,Hamid Hassan,0,0,,,,,,"",""
+ball,2,12.4,Namibia,JN Frylinck,D Wiese,Hamid Hassan,0,0,,,,,,"",""
+ball,2,12.5,Namibia,JN Frylinck,D Wiese,Hamid Hassan,0,0,,,,,,"",""
+ball,2,12.6,Namibia,JN Frylinck,D Wiese,Hamid Hassan,1,0,,,,,,"",""
+ball,2,13.1,Namibia,JN Frylinck,D Wiese,Rashid Khan,0,1,1,,,,,"",""
+ball,2,13.2,Namibia,JN Frylinck,D Wiese,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.3,Namibia,JN Frylinck,D Wiese,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.4,Namibia,JN Frylinck,D Wiese,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.5,Namibia,JN Frylinck,D Wiese,Rashid Khan,0,0,,,,,,"",""
+ball,2,13.6,Namibia,JN Frylinck,D Wiese,Rashid Khan,1,0,,,,,,"",""
+ball,2,13.7,Namibia,D Wiese,JN Frylinck,Rashid Khan,2,0,,,,,,"",""
+ball,2,14.1,Namibia,JN Frylinck,D Wiese,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,14.2,Namibia,JN Frylinck,D Wiese,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,14.3,Namibia,D Wiese,JN Frylinck,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,14.4,Namibia,D Wiese,JN Frylinck,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,14.5,Namibia,JN Frylinck,D Wiese,Naveen-ul-Haq,0,0,,,,,,caught,JN Frylinck
+ball,2,14.6,Namibia,D Wiese,HN Ya France,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,15.1,Namibia,HN Ya France,D Wiese,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,15.2,Namibia,HN Ya France,D Wiese,Gulbadin Naib,2,0,,,,,,"",""
+ball,2,15.3,Namibia,HN Ya France,D Wiese,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,15.4,Namibia,D Wiese,HN Ya France,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,15.5,Namibia,HN Ya France,D Wiese,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,15.6,Namibia,HN Ya France,D Wiese,Gulbadin Naib,0,0,,,,,,caught and bowled,HN Ya France
+ball,2,16.1,Namibia,D Wiese,R Trumpelmann,Hamid Hassan,0,1,1,,,,,"",""
+ball,2,16.2,Namibia,D Wiese,R Trumpelmann,Hamid Hassan,0,0,,,,,,"",""
+ball,2,16.3,Namibia,D Wiese,R Trumpelmann,Hamid Hassan,0,0,,,,,,"",""
+ball,2,16.4,Namibia,D Wiese,R Trumpelmann,Hamid Hassan,1,0,,,,,,"",""
+ball,2,16.5,Namibia,R Trumpelmann,D Wiese,Hamid Hassan,1,0,,,,,,"",""
+ball,2,16.6,Namibia,D Wiese,R Trumpelmann,Hamid Hassan,0,0,,,,,,bowled,D Wiese
+ball,2,16.7,Namibia,BM Scholtz,R Trumpelmann,Hamid Hassan,0,0,,,,,,"",""
+ball,2,17.1,Namibia,R Trumpelmann,BM Scholtz,Gulbadin Naib,0,1,1,,,,,"",""
+ball,2,17.2,Namibia,R Trumpelmann,BM Scholtz,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,17.3,Namibia,BM Scholtz,R Trumpelmann,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,17.4,Namibia,BM Scholtz,R Trumpelmann,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,17.5,Namibia,BM Scholtz,R Trumpelmann,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,17.6,Namibia,BM Scholtz,R Trumpelmann,Gulbadin Naib,2,0,,,,,,"",""
+ball,2,17.7,Namibia,BM Scholtz,R Trumpelmann,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,18.1,Namibia,BM Scholtz,R Trumpelmann,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,2,18.2,Namibia,R Trumpelmann,BM Scholtz,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,18.3,Namibia,R Trumpelmann,BM Scholtz,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,2,18.4,Namibia,R Trumpelmann,BM Scholtz,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,18.5,Namibia,R Trumpelmann,BM Scholtz,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,18.6,Namibia,R Trumpelmann,BM Scholtz,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,2,19.1,Namibia,BM Scholtz,R Trumpelmann,Karim Janat,0,0,,,,,,"",""
+ball,2,19.2,Namibia,BM Scholtz,R Trumpelmann,Karim Janat,1,0,,,,,,"",""
+ball,2,19.3,Namibia,R Trumpelmann,BM Scholtz,Karim Janat,1,0,,,,,,"",""
+ball,2,19.4,Namibia,BM Scholtz,R Trumpelmann,Karim Janat,0,0,,,,,,"",""
+ball,2,19.5,Namibia,BM Scholtz,R Trumpelmann,Karim Janat,1,0,,,,,,"",""
+ball,2,19.6,Namibia,R Trumpelmann,BM Scholtz,Karim Janat,1,0,,,,,,"",""

@@ -1,0 +1,265 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Malawi
+info,team,Lesotho
+info,gender,male
+info,season,2021/22
+info,date,2021/10/22
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,19
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Lesotho
+info,toss_decision,field
+info,player_of_match,MA Baig
+info,umpire,A Paleker
+info,umpire,D Odhiambo
+info,reserve_umpire,Itangishaka Olivier
+info,match_referee,SA Fritz
+info,winner,Malawi
+info,winner_runs,22
+info,player,Malawi,G Kansonkho
+info,player,Malawi,D Kansonkho
+info,player,Malawi,Sami Sohail
+info,player,Malawi,GM Ntambalika
+info,player,Malawi,MA Baig
+info,player,Malawi,A Kansonkho
+info,player,Malawi,L Nakomo
+info,player,Malawi,W Jackson
+info,player,Malawi,M Mwamadi
+info,player,Malawi,C Chete
+info,player,Malawi,B Pondani
+info,player,Lesotho,C Tlali
+info,player,Lesotho,AAA Patel
+info,player,Lesotho,Mohammad Maaz Khan
+info,player,Lesotho,Sameer Patel
+info,player,Lesotho,Sarfaraj Patel
+info,player,Lesotho,YYM Jakda
+info,player,Lesotho,Omar Hussain
+info,player,Lesotho,ME Leoela
+info,player,Lesotho,MV Matsau
+info,player,Lesotho,TG Thamae
+info,player,Lesotho,TD Chaoana
+info,registry,people,A Kansonkho,5f77f4ec
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AAA Patel,fd3c5c00
+info,registry,people,B Pondani,e5117568
+info,registry,people,C Chete,ef4f539a
+info,registry,people,C Tlali,70841eab
+info,registry,people,D Kansonkho,45ca12a7
+info,registry,people,D Odhiambo,45994517
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,GM Ntambalika,8c8a3f08
+info,registry,people,Itangishaka Olivier,0ee3bb49
+info,registry,people,L Nakomo,1abfa11e
+info,registry,people,M Mwamadi,00029c30
+info,registry,people,MA Baig,89394502
+info,registry,people,ME Leoela,3b107df5
+info,registry,people,MV Matsau,dad64776
+info,registry,people,Maaz Khan,6f14ddcb
+info,registry,people,Omar Hussain,2002c586
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,Sameer Patel,2bae86b6
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,Sarfaraj Patel,f15d17c7
+info,registry,people,TD Chaoana,16ddd36b
+info,registry,people,TG Thamae,d08fe309
+info,registry,people,W Jackson,d45e06ae
+info,registry,people,YYM Jakda,2e3dc859
+ball,1,0.1,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,1,0,,,,,,"",""
+ball,1,0.2,Malawi,D Kansonkho,G Kansonkho,TD Chaoana,0,0,,,,,,"",""
+ball,1,0.3,Malawi,D Kansonkho,G Kansonkho,TD Chaoana,0,2,2,,,,,"",""
+ball,1,0.4,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,2,0,,,,,,"",""
+ball,1,0.5,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,0,0,,,,,,"",""
+ball,1,0.6,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,0,1,1,,,,,"",""
+ball,1,0.7,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,0,0,,,,,,"",""
+ball,1,0.8,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,1,0,,,,,,"",""
+ball,1,1.1,Malawi,G Kansonkho,D Kansonkho,Sarfaraj Patel,0,0,,,,,,"",""
+ball,1,1.2,Malawi,G Kansonkho,D Kansonkho,Sarfaraj Patel,0,0,,,,,,"",""
+ball,1,1.3,Malawi,G Kansonkho,D Kansonkho,Sarfaraj Patel,0,0,,,,,,"",""
+ball,1,1.4,Malawi,G Kansonkho,D Kansonkho,Sarfaraj Patel,1,0,,,,,,"",""
+ball,1,1.5,Malawi,D Kansonkho,G Kansonkho,Sarfaraj Patel,4,0,,,,,,"",""
+ball,1,1.6,Malawi,D Kansonkho,G Kansonkho,Sarfaraj Patel,0,0,,,,,,"",""
+ball,1,2.1,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,1,0,,,,,,"",""
+ball,1,2.2,Malawi,D Kansonkho,G Kansonkho,TD Chaoana,1,0,,,,,,"",""
+ball,1,2.3,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,0,0,,,,,,"",""
+ball,1,2.4,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,0,1,1,,,,,"",""
+ball,1,2.5,Malawi,G Kansonkho,D Kansonkho,TD Chaoana,1,0,,,,,,"",""
+ball,1,2.6,Malawi,D Kansonkho,G Kansonkho,TD Chaoana,0,0,,,,,,"",""
+ball,1,2.7,Malawi,D Kansonkho,G Kansonkho,TD Chaoana,0,0,,,,,,"",""
+ball,1,3.1,Malawi,G Kansonkho,D Kansonkho,Sarfaraj Patel,4,0,,,,,,"",""
+ball,1,3.2,Malawi,G Kansonkho,D Kansonkho,Sarfaraj Patel,4,0,,,,,,"",""
+ball,1,3.3,Malawi,G Kansonkho,D Kansonkho,Sarfaraj Patel,1,0,,,,,,"",""
+ball,1,3.4,Malawi,D Kansonkho,G Kansonkho,Sarfaraj Patel,1,0,,,,,,"",""
+ball,1,3.5,Malawi,G Kansonkho,D Kansonkho,Sarfaraj Patel,0,0,,,,,,caught,G Kansonkho
+ball,1,3.6,Malawi,Sami Sohail,D Kansonkho,Sarfaraj Patel,1,0,,,,,,"",""
+ball,1,4.1,Malawi,Sami Sohail,D Kansonkho,MV Matsau,4,0,,,,,,"",""
+ball,1,4.2,Malawi,Sami Sohail,D Kansonkho,MV Matsau,0,0,,,,,,"",""
+ball,1,4.3,Malawi,Sami Sohail,D Kansonkho,MV Matsau,1,0,,,,,,"",""
+ball,1,4.4,Malawi,D Kansonkho,Sami Sohail,MV Matsau,0,0,,,,,,"",""
+ball,1,4.5,Malawi,D Kansonkho,Sami Sohail,MV Matsau,1,0,,,,,,"",""
+ball,1,4.6,Malawi,Sami Sohail,D Kansonkho,MV Matsau,0,0,,,,,,"",""
+ball,1,5.1,Malawi,D Kansonkho,Sami Sohail,YYM Jakda,0,0,,,,,,"",""
+ball,1,5.2,Malawi,D Kansonkho,Sami Sohail,YYM Jakda,4,0,,,,,,"",""
+ball,1,5.3,Malawi,D Kansonkho,Sami Sohail,YYM Jakda,0,0,,,,,,"",""
+ball,1,5.4,Malawi,D Kansonkho,Sami Sohail,YYM Jakda,0,0,,,,,,"",""
+ball,1,5.5,Malawi,D Kansonkho,Sami Sohail,YYM Jakda,1,0,,,,,,"",""
+ball,1,5.6,Malawi,Sami Sohail,D Kansonkho,YYM Jakda,1,0,,,,,,"",""
+ball,1,6.1,Malawi,Sami Sohail,D Kansonkho,MV Matsau,2,0,,,,,,"",""
+ball,1,6.2,Malawi,Sami Sohail,D Kansonkho,MV Matsau,1,0,,,,,,"",""
+ball,1,6.3,Malawi,D Kansonkho,Sami Sohail,MV Matsau,1,0,,,,,,"",""
+ball,1,6.4,Malawi,Sami Sohail,D Kansonkho,MV Matsau,1,0,,,,,,"",""
+ball,1,6.5,Malawi,D Kansonkho,Sami Sohail,MV Matsau,1,0,,,,,,"",""
+ball,1,6.6,Malawi,Sami Sohail,D Kansonkho,MV Matsau,1,0,,,,,,"",""
+ball,1,7.1,Malawi,Sami Sohail,D Kansonkho,YYM Jakda,0,0,,,,,,"",""
+ball,1,7.2,Malawi,Sami Sohail,D Kansonkho,YYM Jakda,2,0,,,,,,"",""
+ball,1,7.3,Malawi,Sami Sohail,D Kansonkho,YYM Jakda,4,0,,,,,,"",""
+ball,1,7.4,Malawi,Sami Sohail,D Kansonkho,YYM Jakda,1,0,,,,,,"",""
+ball,1,7.5,Malawi,D Kansonkho,Sami Sohail,YYM Jakda,0,5,5,,,,,"",""
+ball,1,7.6,Malawi,D Kansonkho,Sami Sohail,YYM Jakda,2,0,,,,,,"",""
+ball,1,7.7,Malawi,D Kansonkho,Sami Sohail,YYM Jakda,1,0,,,,,,"",""
+ball,1,8.1,Malawi,D Kansonkho,Sami Sohail,TG Thamae,0,0,,,,,,caught,D Kansonkho
+ball,1,8.2,Malawi,GM Ntambalika,Sami Sohail,TG Thamae,0,0,,,,,,"",""
+ball,1,8.3,Malawi,GM Ntambalika,Sami Sohail,TG Thamae,1,0,,,,,,"",""
+ball,1,8.4,Malawi,Sami Sohail,GM Ntambalika,TG Thamae,1,0,,,,,,"",""
+ball,1,8.5,Malawi,GM Ntambalika,Sami Sohail,TG Thamae,0,0,,,,,,"",""
+ball,1,8.6,Malawi,GM Ntambalika,Sami Sohail,TG Thamae,4,0,,,,,,"",""
+ball,1,9.1,Malawi,Sami Sohail,GM Ntambalika,YYM Jakda,0,0,,,,,,"",""
+ball,1,9.2,Malawi,Sami Sohail,GM Ntambalika,YYM Jakda,0,1,1,,,,,"",""
+ball,1,9.3,Malawi,Sami Sohail,GM Ntambalika,YYM Jakda,0,0,,,,,,"",""
+ball,1,9.4,Malawi,Sami Sohail,GM Ntambalika,YYM Jakda,2,0,,,,,,"",""
+ball,1,9.5,Malawi,Sami Sohail,GM Ntambalika,YYM Jakda,1,0,,,,,,"",""
+ball,1,9.6,Malawi,GM Ntambalika,Sami Sohail,YYM Jakda,0,0,,,,,,"",""
+ball,1,9.7,Malawi,GM Ntambalika,Sami Sohail,YYM Jakda,4,0,,,,,,"",""
+ball,1,10.1,Malawi,Sami Sohail,GM Ntambalika,TG Thamae,1,0,,,,,,"",""
+ball,1,10.2,Malawi,GM Ntambalika,Sami Sohail,TG Thamae,6,0,,,,,,"",""
+ball,1,10.3,Malawi,GM Ntambalika,Sami Sohail,TG Thamae,1,0,,,,,,"",""
+ball,1,10.4,Malawi,Sami Sohail,GM Ntambalika,TG Thamae,1,0,,,,,,"",""
+ball,1,10.5,Malawi,GM Ntambalika,Sami Sohail,TG Thamae,0,0,,,,,,"",""
+ball,1,10.6,Malawi,GM Ntambalika,Sami Sohail,TG Thamae,2,0,,,,,,"",""
+ball,1,11.1,Malawi,Sami Sohail,GM Ntambalika,TD Chaoana,1,0,,,,,,"",""
+ball,1,11.2,Malawi,GM Ntambalika,Sami Sohail,TD Chaoana,0,0,,,,,,caught,GM Ntambalika
+ball,1,11.3,Malawi,MA Baig,Sami Sohail,TD Chaoana,0,0,,,,,,"",""
+ball,1,11.4,Malawi,MA Baig,Sami Sohail,TD Chaoana,1,0,,,,,,"",""
+ball,1,11.5,Malawi,Sami Sohail,MA Baig,TD Chaoana,0,0,,,,,,caught,Sami Sohail
+ball,1,11.6,Malawi,A Kansonkho,MA Baig,TD Chaoana,0,0,,,,,,"",""
+ball,1,12.1,Malawi,MA Baig,A Kansonkho,MV Matsau,0,5,5,,,,,"",""
+ball,1,12.2,Malawi,MA Baig,A Kansonkho,MV Matsau,1,0,,,,,,"",""
+ball,1,12.3,Malawi,A Kansonkho,MA Baig,MV Matsau,0,0,,,,,,"",""
+ball,1,12.4,Malawi,A Kansonkho,MA Baig,MV Matsau,2,0,,,,,,"",""
+ball,1,12.5,Malawi,A Kansonkho,MA Baig,MV Matsau,0,0,,,,,,"",""
+ball,1,12.6,Malawi,A Kansonkho,MA Baig,MV Matsau,0,1,1,,,,,"",""
+ball,1,12.7,Malawi,A Kansonkho,MA Baig,MV Matsau,0,0,,,,,,"",""
+ball,1,12.8,Malawi,A Kansonkho,MA Baig,MV Matsau,0,0,,,,,,"",""
+ball,1,13.1,Malawi,MA Baig,A Kansonkho,Sarfaraj Patel,0,1,,,,1,,"",""
+ball,1,13.2,Malawi,A Kansonkho,MA Baig,Sarfaraj Patel,1,0,,,,,,"",""
+ball,1,13.3,Malawi,MA Baig,A Kansonkho,Sarfaraj Patel,1,0,,,,,,"",""
+ball,1,13.4,Malawi,A Kansonkho,MA Baig,Sarfaraj Patel,4,0,,,,,,"",""
+ball,1,13.5,Malawi,A Kansonkho,MA Baig,Sarfaraj Patel,6,0,,,,,,"",""
+ball,1,13.6,Malawi,A Kansonkho,MA Baig,Sarfaraj Patel,1,0,,,,,,"",""
+ball,1,14.1,Malawi,A Kansonkho,MA Baig,Omar Hussain,4,0,,,,,,"",""
+ball,1,14.2,Malawi,A Kansonkho,MA Baig,Omar Hussain,0,1,,,1,,,"",""
+ball,1,14.3,Malawi,MA Baig,A Kansonkho,Omar Hussain,4,0,,,,,,"",""
+ball,1,14.4,Malawi,MA Baig,A Kansonkho,Omar Hussain,1,0,,,,,,"",""
+ball,1,14.5,Malawi,A Kansonkho,MA Baig,Omar Hussain,2,0,,,,,,"",""
+ball,1,14.6,Malawi,A Kansonkho,MA Baig,Omar Hussain,0,0,,,,,,"",""
+ball,2,0.1,Lesotho,C Tlali,AAA Patel,GM Ntambalika,1,0,,,,,,"",""
+ball,2,0.2,Lesotho,AAA Patel,C Tlali,GM Ntambalika,0,1,,,,1,,"",""
+ball,2,0.3,Lesotho,C Tlali,AAA Patel,GM Ntambalika,0,1,1,,,,,"",""
+ball,2,0.4,Lesotho,C Tlali,AAA Patel,GM Ntambalika,1,0,,,,,,"",""
+ball,2,0.5,Lesotho,AAA Patel,C Tlali,GM Ntambalika,0,0,,,,,,"",""
+ball,2,0.6,Lesotho,AAA Patel,C Tlali,GM Ntambalika,0,1,1,,,,,"",""
+ball,2,0.7,Lesotho,AAA Patel,C Tlali,GM Ntambalika,0,0,,,,,,"",""
+ball,2,0.8,Lesotho,AAA Patel,C Tlali,GM Ntambalika,0,0,,,,,,"",""
+ball,2,1.1,Lesotho,C Tlali,AAA Patel,Sami Sohail,0,0,,,,,,"",""
+ball,2,1.2,Lesotho,C Tlali,AAA Patel,Sami Sohail,0,2,2,,,,,"",""
+ball,2,1.3,Lesotho,AAA Patel,C Tlali,Sami Sohail,0,0,,,,,,"",""
+ball,2,1.4,Lesotho,AAA Patel,C Tlali,Sami Sohail,0,1,1,,,,,"",""
+ball,2,1.5,Lesotho,AAA Patel,C Tlali,Sami Sohail,1,0,,,,,,"",""
+ball,2,1.6,Lesotho,C Tlali,AAA Patel,Sami Sohail,1,0,,,,,,"",""
+ball,2,1.7,Lesotho,AAA Patel,C Tlali,Sami Sohail,2,0,,,,,,"",""
+ball,2,1.8,Lesotho,AAA Patel,C Tlali,Sami Sohail,0,1,1,,,,,"",""
+ball,2,1.9,Lesotho,AAA Patel,C Tlali,Sami Sohail,0,0,,,,,,"",""
+ball,2,2.1,Lesotho,C Tlali,AAA Patel,GM Ntambalika,1,0,,,,,,"",""
+ball,2,2.2,Lesotho,AAA Patel,C Tlali,GM Ntambalika,0,0,,,,,,"",""
+ball,2,2.3,Lesotho,AAA Patel,C Tlali,GM Ntambalika,0,1,,,,1,,"",""
+ball,2,2.4,Lesotho,C Tlali,AAA Patel,GM Ntambalika,0,1,1,,,,,"",""
+ball,2,2.5,Lesotho,C Tlali,AAA Patel,GM Ntambalika,0,0,,,,,,"",""
+ball,2,2.6,Lesotho,C Tlali,AAA Patel,GM Ntambalika,1,0,,,,,,"",""
+ball,2,2.7,Lesotho,AAA Patel,C Tlali,GM Ntambalika,6,0,,,,,,"",""
+ball,2,3.1,Lesotho,C Tlali,AAA Patel,D Kansonkho,1,0,,,,,,"",""
+ball,2,3.2,Lesotho,AAA Patel,C Tlali,D Kansonkho,4,0,,,,,,"",""
+ball,2,3.3,Lesotho,AAA Patel,C Tlali,D Kansonkho,0,1,1,,,,,"",""
+ball,2,3.4,Lesotho,AAA Patel,C Tlali,D Kansonkho,1,0,,,,,,"",""
+ball,2,3.5,Lesotho,C Tlali,AAA Patel,D Kansonkho,3,0,,,,,,"",""
+ball,2,3.6,Lesotho,AAA Patel,C Tlali,D Kansonkho,0,0,,,,,,"",""
+ball,2,3.7,Lesotho,AAA Patel,C Tlali,D Kansonkho,1,0,,,,,,"",""
+ball,2,4.1,Lesotho,AAA Patel,C Tlali,G Kansonkho,0,0,,,,,,"",""
+ball,2,4.2,Lesotho,AAA Patel,C Tlali,G Kansonkho,0,0,,,,,,"",""
+ball,2,4.3,Lesotho,AAA Patel,C Tlali,G Kansonkho,0,1,,,1,,,"",""
+ball,2,4.4,Lesotho,C Tlali,AAA Patel,G Kansonkho,0,0,,,,,,"",""
+ball,2,4.5,Lesotho,C Tlali,AAA Patel,G Kansonkho,1,0,,,,,,"",""
+ball,2,4.6,Lesotho,AAA Patel,C Tlali,G Kansonkho,1,0,,,,,,"",""
+ball,2,5.1,Lesotho,AAA Patel,C Tlali,D Kansonkho,6,0,,,,,,"",""
+ball,2,5.2,Lesotho,AAA Patel,C Tlali,D Kansonkho,1,0,,,,,,"",""
+ball,2,5.3,Lesotho,C Tlali,AAA Patel,D Kansonkho,1,0,,,,,,"",""
+ball,2,5.4,Lesotho,AAA Patel,C Tlali,D Kansonkho,0,1,1,,,,,"",""
+ball,2,5.5,Lesotho,AAA Patel,C Tlali,D Kansonkho,0,0,,,,,,"",""
+ball,2,5.6,Lesotho,AAA Patel,C Tlali,D Kansonkho,0,1,1,,,,,"",""
+ball,2,5.7,Lesotho,AAA Patel,C Tlali,D Kansonkho,0,0,,,,,,"",""
+ball,2,5.8,Lesotho,AAA Patel,C Tlali,D Kansonkho,1,0,,,,,,"",""
+ball,2,6.1,Lesotho,AAA Patel,C Tlali,G Kansonkho,1,0,,,,,,"",""
+ball,2,6.2,Lesotho,C Tlali,AAA Patel,G Kansonkho,0,0,,,,,,"",""
+ball,2,6.3,Lesotho,C Tlali,AAA Patel,G Kansonkho,4,0,,,,,,"",""
+ball,2,6.4,Lesotho,C Tlali,AAA Patel,G Kansonkho,1,0,,,,,,"",""
+ball,2,6.5,Lesotho,AAA Patel,C Tlali,G Kansonkho,0,0,,,,,,"",""
+ball,2,6.6,Lesotho,AAA Patel,C Tlali,G Kansonkho,0,0,,,,,,"",""
+ball,2,7.1,Lesotho,C Tlali,AAA Patel,D Kansonkho,1,0,,,,,,"",""
+ball,2,7.2,Lesotho,AAA Patel,C Tlali,D Kansonkho,1,0,,,,,,"",""
+ball,2,7.3,Lesotho,C Tlali,AAA Patel,D Kansonkho,4,0,,,,,,"",""
+ball,2,7.4,Lesotho,C Tlali,AAA Patel,D Kansonkho,1,0,,,,,,"",""
+ball,2,7.5,Lesotho,AAA Patel,C Tlali,D Kansonkho,1,0,,,,,,"",""
+ball,2,7.6,Lesotho,C Tlali,AAA Patel,D Kansonkho,0,0,,,,,,"",""
+ball,2,8.1,Lesotho,AAA Patel,C Tlali,MA Baig,0,0,,,,,,"",""
+ball,2,8.2,Lesotho,AAA Patel,C Tlali,MA Baig,0,0,,,,,,"",""
+ball,2,8.3,Lesotho,AAA Patel,C Tlali,MA Baig,1,0,,,,,,"",""
+ball,2,8.4,Lesotho,C Tlali,AAA Patel,MA Baig,0,0,,,,,,"",""
+ball,2,8.5,Lesotho,C Tlali,AAA Patel,MA Baig,1,0,,,,,,"",""
+ball,2,8.6,Lesotho,AAA Patel,C Tlali,MA Baig,0,0,,,,,,caught,AAA Patel
+ball,2,9.1,Lesotho,C Tlali,Mohammad Maaz Khan,Sami Sohail,2,0,,,,,,"",""
+ball,2,9.2,Lesotho,C Tlali,Mohammad Maaz Khan,Sami Sohail,1,0,,,,,,"",""
+ball,2,9.3,Lesotho,Mohammad Maaz Khan,C Tlali,Sami Sohail,0,0,,,,,,"",""
+ball,2,9.4,Lesotho,Mohammad Maaz Khan,C Tlali,Sami Sohail,1,0,,,,,,"",""
+ball,2,9.5,Lesotho,C Tlali,Mohammad Maaz Khan,Sami Sohail,1,0,,,,,,"",""
+ball,2,9.6,Lesotho,C Tlali,Mohammad Maaz Khan,Sami Sohail,1,0,,,,,,"",""
+ball,2,10.1,Lesotho,C Tlali,Mohammad Maaz Khan,MA Baig,0,0,,,,,,"",""
+ball,2,10.2,Lesotho,C Tlali,Mohammad Maaz Khan,MA Baig,0,0,,,,,,"",""
+ball,2,10.3,Lesotho,C Tlali,Mohammad Maaz Khan,MA Baig,1,0,,,,,,"",""
+ball,2,10.4,Lesotho,Mohammad Maaz Khan,C Tlali,MA Baig,2,0,,,,,,"",""
+ball,2,10.5,Lesotho,Mohammad Maaz Khan,C Tlali,MA Baig,1,0,,,,,,"",""
+ball,2,10.6,Lesotho,C Tlali,Mohammad Maaz Khan,MA Baig,2,0,,,,,,"",""
+ball,2,11.1,Lesotho,Mohammad Maaz Khan,C Tlali,G Kansonkho,6,0,,,,,,"",""
+ball,2,11.2,Lesotho,Mohammad Maaz Khan,C Tlali,G Kansonkho,0,0,,,,,,caught,Mohammad Maaz Khan
+ball,2,11.3,Lesotho,C Tlali,Sameer Patel,G Kansonkho,0,0,,,,,,"",""
+ball,2,11.4,Lesotho,C Tlali,Sameer Patel,G Kansonkho,4,0,,,,,,"",""
+ball,2,11.5,Lesotho,C Tlali,Sameer Patel,G Kansonkho,0,0,,,,,,bowled,C Tlali
+ball,2,11.6,Lesotho,Sarfaraj Patel,Sameer Patel,G Kansonkho,0,0,,,,,,"",""
+ball,2,12.1,Lesotho,Sameer Patel,Sarfaraj Patel,MA Baig,0,0,,,,,,bowled,Sameer Patel
+ball,2,12.2,Lesotho,YYM Jakda,Sarfaraj Patel,MA Baig,0,0,,,,,,caught,YYM Jakda
+ball,2,12.3,Lesotho,Sarfaraj Patel,Omar Hussain,MA Baig,1,0,,,,,,"",""
+ball,2,12.4,Lesotho,Omar Hussain,Sarfaraj Patel,MA Baig,0,1,,,1,,,"",""
+ball,2,12.5,Lesotho,Sarfaraj Patel,Omar Hussain,MA Baig,0,0,,,,,,"",""
+ball,2,12.6,Lesotho,Sarfaraj Patel,Omar Hussain,MA Baig,0,0,,,,,,"",""
+ball,2,13.1,Lesotho,Omar Hussain,Sarfaraj Patel,Sami Sohail,1,0,,,,,,"",""
+ball,2,13.2,Lesotho,Sarfaraj Patel,Omar Hussain,Sami Sohail,0,0,,,,,,"",""
+ball,2,13.3,Lesotho,Sarfaraj Patel,Omar Hussain,Sami Sohail,4,0,,,,,,"",""
+ball,2,13.4,Lesotho,Sarfaraj Patel,Omar Hussain,Sami Sohail,1,0,,,,,,"",""
+ball,2,13.5,Lesotho,Omar Hussain,Sarfaraj Patel,Sami Sohail,0,0,,,,,,"",""
+ball,2,13.6,Lesotho,Omar Hussain,Sarfaraj Patel,Sami Sohail,0,0,,,,,,"",""
+ball,2,14.1,Lesotho,Sarfaraj Patel,Omar Hussain,GM Ntambalika,2,0,,,,,,"",""
+ball,2,14.2,Lesotho,Sarfaraj Patel,Omar Hussain,GM Ntambalika,1,0,,,,,,"",""
+ball,2,14.3,Lesotho,Omar Hussain,Sarfaraj Patel,GM Ntambalika,0,0,,,,,,caught,Omar Hussain
+ball,2,14.4,Lesotho,ME Leoela,Sarfaraj Patel,GM Ntambalika,0,2,2,,,,,"",""
+ball,2,14.5,Lesotho,Sarfaraj Patel,ME Leoela,GM Ntambalika,1,0,,,,,,"",""
+ball,2,14.6,Lesotho,ME Leoela,Sarfaraj Patel,GM Ntambalika,0,0,,,,,,run out,Sarfaraj Patel
+ball,2,14.7,Lesotho,ME Leoela,MV Matsau,GM Ntambalika,1,0,,,,,,"",""

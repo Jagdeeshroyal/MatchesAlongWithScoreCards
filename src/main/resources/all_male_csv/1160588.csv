@@ -1,0 +1,316 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Kabul Zwanan
+info,team,Paktia Panthers
+info,gender,male
+info,season,2018/19
+info,date,2018/10/18
+info,event,Afghanistan Premier League
+info,match_number,20
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Kabul Zwanan
+info,toss_decision,bat
+info,player_of_match,Mohammad Shahzad
+info,umpire,AK Chaudhary
+info,umpire,Bismillah Shinwari
+info,reserve_umpire,Farooq Khan
+info,tv_umpire,Izatullah Safi
+info,match_referee,DT Jukes
+info,winner,Paktia Panthers
+info,winner_wickets,6
+info,player,Kabul Zwanan,L Ronchi
+info,player,Kabul Zwanan,Hazratullah
+info,player,Kabul Zwanan,WD Parnell
+info,player,Kabul Zwanan,CA Ingram
+info,player,Kabul Zwanan,Shawkat Zaman
+info,player,Kabul Zwanan,Usman Adil
+info,player,Kabul Zwanan,Muslim Musa
+info,player,Kabul Zwanan,Nasir Totakhil
+info,player,Kabul Zwanan,Afsar Zazai
+info,player,Kabul Zwanan,Ali Khan
+info,player,Kabul Zwanan,Fitratullah Khawari
+info,player,Paktia Panthers,Mohammad Shahzad
+info,player,Paktia Panthers,Ihsanullah
+info,player,Paktia Panthers,CS MacLeod
+info,player,Paktia Panthers,Samiullah Shenwari
+info,player,Paktia Panthers,S Prasanna
+info,player,Paktia Panthers,Shahid Afridi
+info,player,Paktia Panthers,Tahir Khan
+info,player,Paktia Panthers,I Udana
+info,player,Paktia Panthers,Ziaur Rahman (2)
+info,player,Paktia Panthers,Yamin Ahmadzai
+info,player,Paktia Panthers,Sharafuddin Ashraf
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,Afsar Zazai,50930025
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CS MacLeod,9c376401
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,Farooq Khan,c1d0caa5
+info,registry,people,Fitratullah Khawari,7c7fe471
+info,registry,people,Hazratullah,5ea51c25
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,Ihsanullah,5aeab54c
+info,registry,people,Izatullah Safi,0429e73e
+info,registry,people,L Ronchi,0fa5042b
+info,registry,people,Mohammad Shahzad,d6dcb0c9
+info,registry,people,Muslim Musa,ac8877ed
+info,registry,people,Nasir Totakhil,54b516fa
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,Samiullah Shenwari,61646132
+info,registry,people,Shahid Afridi,0dc00542
+info,registry,people,Sharafuddin Ashraf,7e678d00
+info,registry,people,Shawkat Zaman,5ab08739
+info,registry,people,Tahir Khan,d11d472e
+info,registry,people,Usman Adil,f407bb3a
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,Yamin Ahmadzai,6e4588bc
+info,registry,people,Ziaur Rahman,66272dc4
+ball,1,0.1,Kabul Zwanan,L Ronchi,Hazratullah,I Udana,1,0,,,,,,"",""
+ball,1,0.2,Kabul Zwanan,Hazratullah,L Ronchi,I Udana,1,0,,,,,,"",""
+ball,1,0.3,Kabul Zwanan,L Ronchi,Hazratullah,I Udana,2,0,,,,,,"",""
+ball,1,0.4,Kabul Zwanan,L Ronchi,Hazratullah,I Udana,0,0,,,,,,caught,L Ronchi
+ball,1,0.5,Kabul Zwanan,WD Parnell,Hazratullah,I Udana,1,0,,,,,,"",""
+ball,1,0.6,Kabul Zwanan,Hazratullah,WD Parnell,I Udana,0,0,,,,,,bowled,Hazratullah
+ball,1,1.1,Kabul Zwanan,WD Parnell,CA Ingram,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,1.2,Kabul Zwanan,WD Parnell,CA Ingram,Ziaur Rahman (2),4,0,,,,,,"",""
+ball,1,1.3,Kabul Zwanan,WD Parnell,CA Ingram,Ziaur Rahman (2),0,1,,,,1,,"",""
+ball,1,1.4,Kabul Zwanan,CA Ingram,WD Parnell,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,1.5,Kabul Zwanan,CA Ingram,WD Parnell,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,1.6,Kabul Zwanan,CA Ingram,WD Parnell,Ziaur Rahman (2),1,0,,,,,,"",""
+ball,1,2.1,Kabul Zwanan,CA Ingram,WD Parnell,I Udana,0,0,,,,,,"",""
+ball,1,2.2,Kabul Zwanan,CA Ingram,WD Parnell,I Udana,1,0,,,,,,"",""
+ball,1,2.3,Kabul Zwanan,WD Parnell,CA Ingram,I Udana,4,0,,,,,,"",""
+ball,1,2.4,Kabul Zwanan,WD Parnell,CA Ingram,I Udana,3,0,,,,,,"",""
+ball,1,2.5,Kabul Zwanan,CA Ingram,WD Parnell,I Udana,0,0,,,,,,"",""
+ball,1,2.6,Kabul Zwanan,CA Ingram,WD Parnell,I Udana,0,0,,,,,,"",""
+ball,1,3.1,Kabul Zwanan,WD Parnell,CA Ingram,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,3.2,Kabul Zwanan,CA Ingram,WD Parnell,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,3.3,Kabul Zwanan,WD Parnell,CA Ingram,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,3.4,Kabul Zwanan,WD Parnell,CA Ingram,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,3.5,Kabul Zwanan,WD Parnell,CA Ingram,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,3.6,Kabul Zwanan,CA Ingram,WD Parnell,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,4.1,Kabul Zwanan,WD Parnell,CA Ingram,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,4.2,Kabul Zwanan,WD Parnell,CA Ingram,Ziaur Rahman (2),1,0,,,,,,"",""
+ball,1,4.3,Kabul Zwanan,CA Ingram,WD Parnell,Ziaur Rahman (2),4,0,,,,,,"",""
+ball,1,4.4,Kabul Zwanan,CA Ingram,WD Parnell,Ziaur Rahman (2),4,0,,,,,,"",""
+ball,1,4.5,Kabul Zwanan,CA Ingram,WD Parnell,Ziaur Rahman (2),1,0,,,,,,"",""
+ball,1,4.6,Kabul Zwanan,WD Parnell,CA Ingram,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,5.1,Kabul Zwanan,CA Ingram,WD Parnell,Yamin Ahmadzai,6,0,,,,,,"",""
+ball,1,5.2,Kabul Zwanan,CA Ingram,WD Parnell,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,5.3,Kabul Zwanan,WD Parnell,CA Ingram,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,5.4,Kabul Zwanan,CA Ingram,WD Parnell,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,5.5,Kabul Zwanan,CA Ingram,WD Parnell,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,5.6,Kabul Zwanan,WD Parnell,CA Ingram,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,6.1,Kabul Zwanan,CA Ingram,WD Parnell,Shahid Afridi,1,0,,,,,,"",""
+ball,1,6.2,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,0,0,,,,,,"",""
+ball,1,6.3,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,6,0,,,,,,"",""
+ball,1,6.4,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,1,0,,,,,,"",""
+ball,1,6.5,Kabul Zwanan,CA Ingram,WD Parnell,Shahid Afridi,1,0,,,,,,"",""
+ball,1,6.6,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,0,0,,,,,,"",""
+ball,1,7.1,Kabul Zwanan,CA Ingram,WD Parnell,Tahir Khan,0,0,,,,,,"",""
+ball,1,7.2,Kabul Zwanan,CA Ingram,WD Parnell,Tahir Khan,1,0,,,,,,"",""
+ball,1,7.3,Kabul Zwanan,WD Parnell,CA Ingram,Tahir Khan,1,0,,,,,,"",""
+ball,1,7.4,Kabul Zwanan,CA Ingram,WD Parnell,Tahir Khan,1,0,,,,,,"",""
+ball,1,7.5,Kabul Zwanan,WD Parnell,CA Ingram,Tahir Khan,1,0,,,,,,"",""
+ball,1,7.6,Kabul Zwanan,CA Ingram,WD Parnell,Tahir Khan,4,0,,,,,,"",""
+ball,1,8.1,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,6,0,,,,,,"",""
+ball,1,8.2,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,0,0,,,,,,"",""
+ball,1,8.3,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,0,0,,,,,,"",""
+ball,1,8.4,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,6,0,,,,,,"",""
+ball,1,8.5,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,4,0,,,,,,"",""
+ball,1,8.6,Kabul Zwanan,WD Parnell,CA Ingram,Shahid Afridi,1,0,,,,,,"",""
+ball,1,9.1,Kabul Zwanan,WD Parnell,CA Ingram,Tahir Khan,0,0,,,,,,caught,WD Parnell
+ball,1,9.2,Kabul Zwanan,CA Ingram,Shawkat Zaman,Tahir Khan,4,0,,,,,,"",""
+ball,1,9.3,Kabul Zwanan,CA Ingram,Shawkat Zaman,Tahir Khan,1,0,,,,,,"",""
+ball,1,9.4,Kabul Zwanan,Shawkat Zaman,CA Ingram,Tahir Khan,0,0,,,,,,"",""
+ball,1,9.5,Kabul Zwanan,Shawkat Zaman,CA Ingram,Tahir Khan,6,0,,,,,,"",""
+ball,1,9.6,Kabul Zwanan,Shawkat Zaman,CA Ingram,Tahir Khan,1,0,,,,,,"",""
+ball,1,10.1,Kabul Zwanan,Shawkat Zaman,CA Ingram,Shahid Afridi,1,0,,,,,,"",""
+ball,1,10.2,Kabul Zwanan,CA Ingram,Shawkat Zaman,Shahid Afridi,0,0,,,,,,"",""
+ball,1,10.3,Kabul Zwanan,CA Ingram,Shawkat Zaman,Shahid Afridi,4,0,,,,,,"",""
+ball,1,10.4,Kabul Zwanan,CA Ingram,Shawkat Zaman,Shahid Afridi,0,0,,,,,,"",""
+ball,1,10.5,Kabul Zwanan,CA Ingram,Shawkat Zaman,Shahid Afridi,1,0,,,,,,"",""
+ball,1,10.6,Kabul Zwanan,Shawkat Zaman,CA Ingram,Shahid Afridi,1,0,,,,,,"",""
+ball,1,11.1,Kabul Zwanan,Shawkat Zaman,CA Ingram,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,11.2,Kabul Zwanan,CA Ingram,Shawkat Zaman,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,11.3,Kabul Zwanan,Shawkat Zaman,CA Ingram,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,1,11.4,Kabul Zwanan,Shawkat Zaman,CA Ingram,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,11.5,Kabul Zwanan,CA Ingram,Shawkat Zaman,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,11.6,Kabul Zwanan,Shawkat Zaman,CA Ingram,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,1,12.1,Kabul Zwanan,CA Ingram,Shawkat Zaman,Shahid Afridi,1,0,,,,,,"",""
+ball,1,12.2,Kabul Zwanan,Shawkat Zaman,CA Ingram,Shahid Afridi,6,0,,,,,,"",""
+ball,1,12.3,Kabul Zwanan,Shawkat Zaman,CA Ingram,Shahid Afridi,0,0,,,,,,"",""
+ball,1,12.4,Kabul Zwanan,Shawkat Zaman,CA Ingram,Shahid Afridi,0,0,,,,,,"",""
+ball,1,12.5,Kabul Zwanan,Shawkat Zaman,CA Ingram,Shahid Afridi,1,0,,,,,,"",""
+ball,1,12.6,Kabul Zwanan,CA Ingram,Shawkat Zaman,Shahid Afridi,1,0,,,,,,"",""
+ball,1,13.1,Kabul Zwanan,CA Ingram,Shawkat Zaman,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,1,13.2,Kabul Zwanan,CA Ingram,Shawkat Zaman,Sharafuddin Ashraf,6,0,,,,,,"",""
+ball,1,13.3,Kabul Zwanan,CA Ingram,Shawkat Zaman,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,13.4,Kabul Zwanan,Shawkat Zaman,CA Ingram,Sharafuddin Ashraf,0,0,,,,,,"",""
+ball,1,13.5,Kabul Zwanan,Shawkat Zaman,CA Ingram,Sharafuddin Ashraf,2,0,,,,,,"",""
+ball,1,13.6,Kabul Zwanan,Shawkat Zaman,CA Ingram,Sharafuddin Ashraf,1,0,,,,,,"",""
+ball,1,14.1,Kabul Zwanan,Shawkat Zaman,CA Ingram,S Prasanna,4,0,,,,,,"",""
+ball,1,14.2,Kabul Zwanan,Shawkat Zaman,CA Ingram,S Prasanna,0,0,,,,,,caught,Shawkat Zaman
+ball,1,14.3,Kabul Zwanan,Usman Adil,CA Ingram,S Prasanna,0,0,,,,,,"",""
+ball,1,14.4,Kabul Zwanan,Usman Adil,CA Ingram,S Prasanna,0,1,1,,,,,"",""
+ball,1,14.5,Kabul Zwanan,Usman Adil,CA Ingram,S Prasanna,1,0,,,,,,"",""
+ball,1,14.6,Kabul Zwanan,CA Ingram,Usman Adil,S Prasanna,1,0,,,,,,"",""
+ball,1,14.7,Kabul Zwanan,Usman Adil,CA Ingram,S Prasanna,0,0,,,,,,"",""
+ball,1,15.1,Kabul Zwanan,CA Ingram,Usman Adil,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,15.2,Kabul Zwanan,CA Ingram,Usman Adil,Ziaur Rahman (2),0,1,,,,1,,"",""
+ball,1,15.3,Kabul Zwanan,Usman Adil,CA Ingram,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,15.4,Kabul Zwanan,Usman Adil,CA Ingram,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,15.5,Kabul Zwanan,Usman Adil,CA Ingram,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,15.6,Kabul Zwanan,Usman Adil,CA Ingram,Ziaur Rahman (2),0,0,,,,,,"",""
+ball,1,16.1,Kabul Zwanan,CA Ingram,Usman Adil,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,16.2,Kabul Zwanan,Usman Adil,CA Ingram,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,16.3,Kabul Zwanan,Usman Adil,CA Ingram,Yamin Ahmadzai,4,0,,,,,,"",""
+ball,1,16.4,Kabul Zwanan,Usman Adil,CA Ingram,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,16.5,Kabul Zwanan,Usman Adil,CA Ingram,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,16.6,Kabul Zwanan,CA Ingram,Usman Adil,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,17.1,Kabul Zwanan,CA Ingram,Usman Adil,I Udana,0,0,,,,,,"",""
+ball,1,17.2,Kabul Zwanan,CA Ingram,Usman Adil,I Udana,4,0,,,,,,"",""
+ball,1,17.3,Kabul Zwanan,CA Ingram,Usman Adil,I Udana,6,0,,,,,,"",""
+ball,1,17.4,Kabul Zwanan,CA Ingram,Usman Adil,I Udana,1,0,,,,,,"",""
+ball,1,17.5,Kabul Zwanan,Usman Adil,CA Ingram,I Udana,2,0,,,,,,"",""
+ball,1,17.6,Kabul Zwanan,Usman Adil,CA Ingram,I Udana,0,0,,,,,,"",""
+ball,1,18.1,Kabul Zwanan,CA Ingram,Usman Adil,Yamin Ahmadzai,0,0,,,,,,"",""
+ball,1,18.2,Kabul Zwanan,CA Ingram,Usman Adil,Yamin Ahmadzai,4,0,,,,,,"",""
+ball,1,18.3,Kabul Zwanan,CA Ingram,Usman Adil,Yamin Ahmadzai,4,0,,,,,,"",""
+ball,1,18.4,Kabul Zwanan,CA Ingram,Usman Adil,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,18.5,Kabul Zwanan,Usman Adil,CA Ingram,Yamin Ahmadzai,1,0,,,,,,"",""
+ball,1,18.6,Kabul Zwanan,CA Ingram,Usman Adil,Yamin Ahmadzai,6,0,,,,,,"",""
+ball,1,19.1,Kabul Zwanan,Usman Adil,CA Ingram,I Udana,0,0,,,,,,"",""
+ball,1,19.2,Kabul Zwanan,Usman Adil,CA Ingram,I Udana,0,0,,,,,,"",""
+ball,1,19.3,Kabul Zwanan,Usman Adil,CA Ingram,I Udana,1,0,,,,,,"",""
+ball,1,19.4,Kabul Zwanan,CA Ingram,Usman Adil,I Udana,1,0,,,,,,"",""
+ball,1,19.5,Kabul Zwanan,Usman Adil,CA Ingram,I Udana,1,0,,,,,,"",""
+ball,1,19.6,Kabul Zwanan,CA Ingram,Usman Adil,I Udana,4,0,,,,,,"",""
+ball,2,0.1,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Nasir Totakhil,0,0,,,,,,"",""
+ball,2,0.2,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Nasir Totakhil,4,0,,,,,,"",""
+ball,2,0.3,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Nasir Totakhil,0,0,,,,,,"",""
+ball,2,0.4,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Nasir Totakhil,0,0,,,,,,"",""
+ball,2,0.5,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,0.6,Paktia Panthers,Ihsanullah,Mohammad Shahzad,Nasir Totakhil,0,0,,,,,,"",""
+ball,2,1.1,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Ali Khan,0,0,,,,,,"",""
+ball,2,1.2,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Ali Khan,0,0,,,,,,"",""
+ball,2,1.3,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Ali Khan,6,0,,,,,,"",""
+ball,2,1.4,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Ali Khan,0,0,,,,,,"",""
+ball,2,1.5,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Ali Khan,0,0,,,,,,"",""
+ball,2,1.6,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Ali Khan,1,0,,,,,,"",""
+ball,2,2.1,Paktia Panthers,Mohammad Shahzad,Ihsanullah,WD Parnell,4,0,,,,,,"",""
+ball,2,2.2,Paktia Panthers,Mohammad Shahzad,Ihsanullah,WD Parnell,4,0,,,,,,"",""
+ball,2,2.3,Paktia Panthers,Mohammad Shahzad,Ihsanullah,WD Parnell,4,0,,,,,,"",""
+ball,2,2.4,Paktia Panthers,Mohammad Shahzad,Ihsanullah,WD Parnell,0,0,,,,,,"",""
+ball,2,2.5,Paktia Panthers,Mohammad Shahzad,Ihsanullah,WD Parnell,0,0,,,,,,"",""
+ball,2,2.6,Paktia Panthers,Mohammad Shahzad,Ihsanullah,WD Parnell,0,0,,,,,,"",""
+ball,2,3.1,Paktia Panthers,Ihsanullah,Mohammad Shahzad,Ali Khan,0,1,1,,,,,"",""
+ball,2,3.2,Paktia Panthers,Ihsanullah,Mohammad Shahzad,Ali Khan,2,0,,,,,,"",""
+ball,2,3.3,Paktia Panthers,Ihsanullah,Mohammad Shahzad,Ali Khan,0,1,1,,,,,"",""
+ball,2,3.4,Paktia Panthers,Ihsanullah,Mohammad Shahzad,Ali Khan,1,0,,,,,,"",""
+ball,2,3.5,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Ali Khan,1,0,,,,,,"",""
+ball,2,3.6,Paktia Panthers,Ihsanullah,Mohammad Shahzad,Ali Khan,1,0,,,,,,"",""
+ball,2,3.7,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Ali Khan,0,0,,,,,,"",""
+ball,2,3.8,Paktia Panthers,Mohammad Shahzad,Ihsanullah,Ali Khan,4,0,,,,,,retired hurt,Ihsanullah
+ball,2,4.1,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Nasir Totakhil,0,0,,,,,,"",""
+ball,2,4.2,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Nasir Totakhil,0,0,,,,,,"",""
+ball,2,4.3,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,4.4,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Nasir Totakhil,4,0,,,,,,"",""
+ball,2,4.5,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Nasir Totakhil,4,0,,,,,,"",""
+ball,2,4.6,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,5.1,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Muslim Musa,0,0,,,,,,"",""
+ball,2,5.2,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Muslim Musa,1,0,,,,,,"",""
+ball,2,5.3,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Muslim Musa,0,0,,,,,,"",""
+ball,2,5.4,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Muslim Musa,0,0,,,,,,"",""
+ball,2,5.5,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Muslim Musa,0,0,,,,,,"",""
+ball,2,5.6,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Muslim Musa,1,0,,,,,,"",""
+ball,2,6.1,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Fitratullah Khawari,0,0,,,,,,"",""
+ball,2,6.2,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Fitratullah Khawari,4,0,,,,,,"",""
+ball,2,6.3,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Fitratullah Khawari,0,0,,,,,,"",""
+ball,2,6.4,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Fitratullah Khawari,0,0,,,,,,"",""
+ball,2,6.5,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Fitratullah Khawari,0,0,,,,,,"",""
+ball,2,6.6,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Fitratullah Khawari,0,0,,,,,,"",""
+ball,2,7.1,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,7.2,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,7.3,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,7.4,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,7.5,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,7.6,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Nasir Totakhil,4,0,,,,,,"",""
+ball,2,8.1,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Fitratullah Khawari,6,0,,,,,,"",""
+ball,2,8.2,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Fitratullah Khawari,0,0,,,,,,"",""
+ball,2,8.3,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,8.4,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Fitratullah Khawari,4,0,,,,,,"",""
+ball,2,8.5,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,8.6,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,9.1,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Muslim Musa,0,1,1,,,,,"",""
+ball,2,9.2,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Muslim Musa,4,0,,,,,,"",""
+ball,2,9.3,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Muslim Musa,6,0,,,,,,"",""
+ball,2,9.4,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Muslim Musa,1,0,,,,,,"",""
+ball,2,9.5,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Muslim Musa,1,0,,,,,,"",""
+ball,2,9.6,Paktia Panthers,Mohammad Shahzad,CS MacLeod,Muslim Musa,1,0,,,,,,"",""
+ball,2,9.7,Paktia Panthers,CS MacLeod,Mohammad Shahzad,Muslim Musa,1,0,,,,,,"",""
+ball,2,10.1,Paktia Panthers,CS MacLeod,Mohammad Shahzad,WD Parnell,1,0,,,,,,"",""
+ball,2,10.2,Paktia Panthers,Mohammad Shahzad,CS MacLeod,WD Parnell,0,0,,,,,,caught,Mohammad Shahzad
+ball,2,10.3,Paktia Panthers,Samiullah Shenwari,CS MacLeod,WD Parnell,1,0,,,,,,"",""
+ball,2,10.4,Paktia Panthers,CS MacLeod,Samiullah Shenwari,WD Parnell,1,0,,,,,,"",""
+ball,2,10.5,Paktia Panthers,Samiullah Shenwari,CS MacLeod,WD Parnell,0,3,,,,3,,"",""
+ball,2,10.6,Paktia Panthers,CS MacLeod,Samiullah Shenwari,WD Parnell,6,0,,,,,,"",""
+ball,2,11.1,Paktia Panthers,Samiullah Shenwari,CS MacLeod,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,11.2,Paktia Panthers,CS MacLeod,Samiullah Shenwari,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,11.3,Paktia Panthers,Samiullah Shenwari,CS MacLeod,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,11.4,Paktia Panthers,CS MacLeod,Samiullah Shenwari,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,11.5,Paktia Panthers,Samiullah Shenwari,CS MacLeod,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,11.6,Paktia Panthers,CS MacLeod,Samiullah Shenwari,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,12.1,Paktia Panthers,CS MacLeod,Samiullah Shenwari,Muslim Musa,0,0,,,,,,"",""
+ball,2,12.2,Paktia Panthers,CS MacLeod,Samiullah Shenwari,Muslim Musa,0,1,1,,,,,"",""
+ball,2,12.3,Paktia Panthers,CS MacLeod,Samiullah Shenwari,Muslim Musa,4,0,,,,,,"",""
+ball,2,12.4,Paktia Panthers,CS MacLeod,Samiullah Shenwari,Muslim Musa,1,0,,,,,,"",""
+ball,2,12.5,Paktia Panthers,Samiullah Shenwari,CS MacLeod,Muslim Musa,0,1,1,,,,,"",""
+ball,2,12.6,Paktia Panthers,Samiullah Shenwari,CS MacLeod,Muslim Musa,1,0,,,,,,"",""
+ball,2,12.7,Paktia Panthers,CS MacLeod,Samiullah Shenwari,Muslim Musa,0,0,,,,,,caught,CS MacLeod
+ball,2,12.8,Paktia Panthers,S Prasanna,Samiullah Shenwari,Muslim Musa,1,0,,,,,,"",""
+ball,2,13.1,Paktia Panthers,S Prasanna,Samiullah Shenwari,Fitratullah Khawari,0,0,,,,,,"",""
+ball,2,13.2,Paktia Panthers,S Prasanna,Samiullah Shenwari,Fitratullah Khawari,0,0,,,,,,"",""
+ball,2,13.3,Paktia Panthers,S Prasanna,Samiullah Shenwari,Fitratullah Khawari,0,2,,,,2,,"",""
+ball,2,13.4,Paktia Panthers,S Prasanna,Samiullah Shenwari,Fitratullah Khawari,0,0,,,,,,lbw,S Prasanna
+ball,2,13.5,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,13.6,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Fitratullah Khawari,0,1,1,,,,,"",""
+ball,2,13.7,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Fitratullah Khawari,1,0,,,,,,"",""
+ball,2,14.1,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Ali Khan,4,0,,,,,,"",""
+ball,2,14.2,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Ali Khan,2,0,,,,,,"",""
+ball,2,14.3,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Ali Khan,1,0,,,,,,"",""
+ball,2,14.4,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Ali Khan,0,0,,,,,,"",""
+ball,2,14.5,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Ali Khan,4,0,,,,,,"",""
+ball,2,14.6,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Ali Khan,1,0,,,,,,"",""
+ball,2,15.1,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Nasir Totakhil,0,0,,,,,,"",""
+ball,2,15.2,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,15.3,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Nasir Totakhil,2,0,,,,,,"",""
+ball,2,15.4,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,15.5,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Nasir Totakhil,1,0,,,,,,"",""
+ball,2,15.6,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Nasir Totakhil,4,0,,,,,,"",""
+ball,2,16.1,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Muslim Musa,6,0,,,,,,"",""
+ball,2,16.2,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Muslim Musa,0,0,,,,,,"",""
+ball,2,16.3,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Muslim Musa,4,0,,,,,,"",""
+ball,2,16.4,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Muslim Musa,1,0,,,,,,"",""
+ball,2,16.5,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Muslim Musa,1,0,,,,,,"",""
+ball,2,16.6,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Muslim Musa,1,0,,,,,,"",""
+ball,2,17.1,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,WD Parnell,1,0,,,,,,"",""
+ball,2,17.2,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,WD Parnell,1,0,,,,,,"",""
+ball,2,17.3,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,WD Parnell,1,0,,,,,,"",""
+ball,2,17.4,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,WD Parnell,1,0,,,,,,"",""
+ball,2,17.5,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,WD Parnell,1,0,,,,,,"",""
+ball,2,17.6,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,WD Parnell,1,0,,,,,,"",""
+ball,2,18.1,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Ali Khan,1,0,,,,,,"",""
+ball,2,18.2,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Ali Khan,1,0,,,,,,"",""
+ball,2,18.3,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Ali Khan,0,0,,,,,,"",""
+ball,2,18.4,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Ali Khan,1,0,,,,,,"",""
+ball,2,18.5,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Ali Khan,0,1,1,,,,,"",""
+ball,2,18.6,Paktia Panthers,Shahid Afridi,Samiullah Shenwari,Ali Khan,1,0,,,,,,"",""
+ball,2,18.7,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,Ali Khan,1,0,,,,,,"",""
+ball,2,19.1,Paktia Panthers,Samiullah Shenwari,Shahid Afridi,WD Parnell,0,0,,,,,,caught,Samiullah Shenwari
+ball,2,19.2,Paktia Panthers,Shahid Afridi,Tahir Khan,WD Parnell,1,0,,,,,,"",""
+ball,2,19.3,Paktia Panthers,Tahir Khan,Shahid Afridi,WD Parnell,1,0,,,,,,"",""
+ball,2,19.4,Paktia Panthers,Shahid Afridi,Tahir Khan,WD Parnell,4,0,,,,,,"",""

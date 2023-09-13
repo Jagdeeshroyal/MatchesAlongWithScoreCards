@@ -1,0 +1,306 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Balkh Legends
+info,team,Nangarhar Leopards
+info,gender,male
+info,season,2018/19
+info,date,2018/10/17
+info,event,Afghanistan Premier League
+info,match_number,17
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Balkh Legends
+info,toss_decision,bat
+info,player_of_match,ADS Fletcher
+info,umpire,Ahmed Shah Pakteen
+info,umpire,Bismillah Shinwari
+info,reserve_umpire,Farooq Khan
+info,tv_umpire,Ahmed Shah Durrani
+info,match_referee,DT Jukes
+info,winner,Nangarhar Leopards
+info,winner_wickets,6
+info,player,Balkh Legends,EMDY Munaweera
+info,player,Balkh Legends,C Munro
+info,player,Balkh Legends,Darwish Rasooli
+info,player,Balkh Legends,RN ten Doeschate
+info,player,Balkh Legends,RS Bopara
+info,player,Balkh Legends,Mohammad Nabi
+info,player,Balkh Legends,Ikram Alikhil
+info,player,Balkh Legends,Gulbadin Naib
+info,player,Balkh Legends,Mirwais Ashraf
+info,player,Balkh Legends,Aftab Alam
+info,player,Balkh Legends,Qais Ahmad
+info,player,Nangarhar Leopards,ADS Fletcher
+info,player,Nangarhar Leopards,AP Devcich
+info,player,Nangarhar Leopards,J Charles
+info,player,Nangarhar Leopards,Rahmat Shah
+info,player,Nangarhar Leopards,Hashmatullah Shahidi
+info,player,Nangarhar Leopards,Shafiqullah
+info,player,Nangarhar Leopards,BCJ Cutting
+info,player,Nangarhar Leopards,Naveen-ul-Haq
+info,player,Nangarhar Leopards,Mujeeb Ur Rahman
+info,player,Nangarhar Leopards,Zahir Khan
+info,player,Nangarhar Leopards,Fazal Niazai
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,Aftab Alam,2a3a3786
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,C Munro,af2c687b
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,Darwish Rasooli,3b2114a5
+info,registry,people,EMDY Munaweera,5a22d91c
+info,registry,people,Farooq Khan,c1d0caa5
+info,registry,people,Fazal Niazai,0dd86d5f
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ikram Alikhil,f67c958d
+info,registry,people,J Charles,09a9d073
+info,registry,people,Mirwais Ashraf,bdd985f2
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RN ten Doeschate,4ec07775
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Shafiqullah,ba4d600a
+info,registry,people,Zahir Khan,786b7fe8
+ball,1,0.1,Balkh Legends,EMDY Munaweera,C Munro,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,0.2,Balkh Legends,EMDY Munaweera,C Munro,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,0.3,Balkh Legends,EMDY Munaweera,C Munro,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,0.4,Balkh Legends,EMDY Munaweera,C Munro,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,0.5,Balkh Legends,C Munro,EMDY Munaweera,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,0.6,Balkh Legends,C Munro,EMDY Munaweera,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,1.1,Balkh Legends,C Munro,EMDY Munaweera,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,1.2,Balkh Legends,C Munro,EMDY Munaweera,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,1.3,Balkh Legends,EMDY Munaweera,C Munro,Naveen-ul-Haq,0,0,,,,,,bowled,EMDY Munaweera
+ball,1,1.4,Balkh Legends,Darwish Rasooli,C Munro,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,1,1.5,Balkh Legends,Darwish Rasooli,C Munro,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,1.6,Balkh Legends,Darwish Rasooli,C Munro,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,2.1,Balkh Legends,Darwish Rasooli,C Munro,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,2.2,Balkh Legends,Darwish Rasooli,C Munro,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,2.3,Balkh Legends,Darwish Rasooli,C Munro,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,2.4,Balkh Legends,Darwish Rasooli,C Munro,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,2.5,Balkh Legends,Darwish Rasooli,C Munro,Mujeeb Ur Rahman,4,0,,,,,,"",""
+ball,1,2.6,Balkh Legends,Darwish Rasooli,C Munro,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,3.1,Balkh Legends,C Munro,Darwish Rasooli,Fazal Niazai,0,1,1,,,,,"",""
+ball,1,3.2,Balkh Legends,C Munro,Darwish Rasooli,Fazal Niazai,1,0,,,,,,"",""
+ball,1,3.3,Balkh Legends,Darwish Rasooli,C Munro,Fazal Niazai,0,0,,,,,,"",""
+ball,1,3.4,Balkh Legends,Darwish Rasooli,C Munro,Fazal Niazai,2,0,,,,,,"",""
+ball,1,3.5,Balkh Legends,Darwish Rasooli,C Munro,Fazal Niazai,4,0,,,,,,"",""
+ball,1,3.6,Balkh Legends,Darwish Rasooli,C Munro,Fazal Niazai,0,0,,,,,,"",""
+ball,1,3.7,Balkh Legends,Darwish Rasooli,C Munro,Fazal Niazai,0,5,5,,,,,"",""
+ball,1,3.8,Balkh Legends,Darwish Rasooli,C Munro,Fazal Niazai,0,0,,,,,,"",""
+ball,1,4.1,Balkh Legends,C Munro,Darwish Rasooli,BCJ Cutting,1,0,,,,,,"",""
+ball,1,4.2,Balkh Legends,Darwish Rasooli,C Munro,BCJ Cutting,0,0,,,,,,"",""
+ball,1,4.3,Balkh Legends,Darwish Rasooli,C Munro,BCJ Cutting,4,0,,,,,,"",""
+ball,1,4.4,Balkh Legends,Darwish Rasooli,C Munro,BCJ Cutting,4,0,,,,,,"",""
+ball,1,4.5,Balkh Legends,Darwish Rasooli,C Munro,BCJ Cutting,0,1,1,,,,,"",""
+ball,1,4.6,Balkh Legends,Darwish Rasooli,C Munro,BCJ Cutting,1,0,,,,,,"",""
+ball,1,4.7,Balkh Legends,C Munro,Darwish Rasooli,BCJ Cutting,4,0,,,,,,"",""
+ball,1,5.1,Balkh Legends,Darwish Rasooli,C Munro,Zahir Khan,0,0,,,,,,"",""
+ball,1,5.2,Balkh Legends,Darwish Rasooli,C Munro,Zahir Khan,0,0,,,,,,"",""
+ball,1,5.3,Balkh Legends,Darwish Rasooli,C Munro,Zahir Khan,0,2,2,,,,,"",""
+ball,1,5.4,Balkh Legends,C Munro,Darwish Rasooli,Zahir Khan,1,0,,,,,,"",""
+ball,1,5.5,Balkh Legends,Darwish Rasooli,C Munro,Zahir Khan,1,0,,,,,,"",""
+ball,1,5.6,Balkh Legends,C Munro,Darwish Rasooli,Zahir Khan,0,0,,,,,,bowled,C Munro
+ball,1,5.7,Balkh Legends,RN ten Doeschate,Darwish Rasooli,Zahir Khan,0,0,,,,,,"",""
+ball,1,6.1,Balkh Legends,Darwish Rasooli,RN ten Doeschate,Rahmat Shah,0,0,,,,,,caught,Darwish Rasooli
+ball,1,6.2,Balkh Legends,RN ten Doeschate,RS Bopara,Rahmat Shah,0,0,,,,,,"",""
+ball,1,6.3,Balkh Legends,RN ten Doeschate,RS Bopara,Rahmat Shah,4,0,,,,,,"",""
+ball,1,6.4,Balkh Legends,RN ten Doeschate,RS Bopara,Rahmat Shah,0,0,,,,,,"",""
+ball,1,6.5,Balkh Legends,RN ten Doeschate,RS Bopara,Rahmat Shah,1,0,,,,,,"",""
+ball,1,6.6,Balkh Legends,RS Bopara,RN ten Doeschate,Rahmat Shah,1,0,,,,,,"",""
+ball,1,7.1,Balkh Legends,RS Bopara,RN ten Doeschate,Zahir Khan,2,0,,,,,,"",""
+ball,1,7.2,Balkh Legends,RS Bopara,RN ten Doeschate,Zahir Khan,4,0,,,,,,"",""
+ball,1,7.3,Balkh Legends,RS Bopara,RN ten Doeschate,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.4,Balkh Legends,RN ten Doeschate,RS Bopara,Zahir Khan,0,0,,,,,,"",""
+ball,1,7.5,Balkh Legends,RN ten Doeschate,RS Bopara,Zahir Khan,1,0,,,,,,"",""
+ball,1,7.6,Balkh Legends,RS Bopara,RN ten Doeschate,Zahir Khan,0,0,,,,,,"",""
+ball,1,8.1,Balkh Legends,RN ten Doeschate,RS Bopara,Rahmat Shah,1,0,,,,,,"",""
+ball,1,8.2,Balkh Legends,RS Bopara,RN ten Doeschate,Rahmat Shah,1,0,,,,,,"",""
+ball,1,8.3,Balkh Legends,RN ten Doeschate,RS Bopara,Rahmat Shah,1,0,,,,,,"",""
+ball,1,8.4,Balkh Legends,RS Bopara,RN ten Doeschate,Rahmat Shah,0,0,,,,,,"",""
+ball,1,8.5,Balkh Legends,RS Bopara,RN ten Doeschate,Rahmat Shah,0,0,,,,,,"",""
+ball,1,8.6,Balkh Legends,RS Bopara,RN ten Doeschate,Rahmat Shah,1,0,,,,,,"",""
+ball,1,9.1,Balkh Legends,RS Bopara,RN ten Doeschate,Fazal Niazai,1,0,,,,,,"",""
+ball,1,9.2,Balkh Legends,RN ten Doeschate,RS Bopara,Fazal Niazai,0,0,,,,,,"",""
+ball,1,9.3,Balkh Legends,RN ten Doeschate,RS Bopara,Fazal Niazai,0,0,,,,,,"",""
+ball,1,9.4,Balkh Legends,RN ten Doeschate,RS Bopara,Fazal Niazai,1,0,,,,,,"",""
+ball,1,9.5,Balkh Legends,RS Bopara,RN ten Doeschate,Fazal Niazai,1,0,,,,,,"",""
+ball,1,9.6,Balkh Legends,RN ten Doeschate,RS Bopara,Fazal Niazai,1,0,,,,,,"",""
+ball,1,10.1,Balkh Legends,RN ten Doeschate,RS Bopara,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,10.2,Balkh Legends,RN ten Doeschate,RS Bopara,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,10.3,Balkh Legends,RS Bopara,RN ten Doeschate,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,10.4,Balkh Legends,RS Bopara,RN ten Doeschate,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,10.5,Balkh Legends,RN ten Doeschate,RS Bopara,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,10.6,Balkh Legends,RS Bopara,RN ten Doeschate,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,11.1,Balkh Legends,RS Bopara,RN ten Doeschate,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,11.2,Balkh Legends,RS Bopara,RN ten Doeschate,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,11.3,Balkh Legends,RN ten Doeschate,RS Bopara,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,11.4,Balkh Legends,RN ten Doeschate,RS Bopara,Mujeeb Ur Rahman,2,0,,,,,,"",""
+ball,1,11.5,Balkh Legends,RN ten Doeschate,RS Bopara,Mujeeb Ur Rahman,1,0,,,,,,"",""
+ball,1,11.6,Balkh Legends,RS Bopara,RN ten Doeschate,Mujeeb Ur Rahman,0,0,,,,,,"",""
+ball,1,12.1,Balkh Legends,RN ten Doeschate,RS Bopara,BCJ Cutting,1,0,,,,,,"",""
+ball,1,12.2,Balkh Legends,RS Bopara,RN ten Doeschate,BCJ Cutting,0,0,,,,,,"",""
+ball,1,12.3,Balkh Legends,RS Bopara,RN ten Doeschate,BCJ Cutting,1,0,,,,,,"",""
+ball,1,12.4,Balkh Legends,RN ten Doeschate,RS Bopara,BCJ Cutting,1,0,,,,,,"",""
+ball,1,12.5,Balkh Legends,RS Bopara,RN ten Doeschate,BCJ Cutting,1,0,,,,,,"",""
+ball,1,12.6,Balkh Legends,RN ten Doeschate,RS Bopara,BCJ Cutting,2,0,,,,,,"",""
+ball,1,13.1,Balkh Legends,RS Bopara,RN ten Doeschate,Zahir Khan,4,0,,,,,,"",""
+ball,1,13.2,Balkh Legends,RS Bopara,RN ten Doeschate,Zahir Khan,0,0,,,,,,"",""
+ball,1,13.3,Balkh Legends,RS Bopara,RN ten Doeschate,Zahir Khan,1,0,,,,,,"",""
+ball,1,13.4,Balkh Legends,RN ten Doeschate,RS Bopara,Zahir Khan,0,0,,,,,,"",""
+ball,1,13.5,Balkh Legends,RN ten Doeschate,RS Bopara,Zahir Khan,0,0,,,,,,"",""
+ball,1,13.6,Balkh Legends,RN ten Doeschate,RS Bopara,Zahir Khan,4,0,,,,,,"",""
+ball,1,14.1,Balkh Legends,RS Bopara,RN ten Doeschate,Fazal Niazai,0,0,,,,,,"",""
+ball,1,14.2,Balkh Legends,RS Bopara,RN ten Doeschate,Fazal Niazai,1,0,,,,,,"",""
+ball,1,14.3,Balkh Legends,RN ten Doeschate,RS Bopara,Fazal Niazai,0,0,,,,,,caught,RN ten Doeschate
+ball,1,14.4,Balkh Legends,RS Bopara,Mohammad Nabi,Fazal Niazai,2,0,,,,,,"",""
+ball,1,14.5,Balkh Legends,RS Bopara,Mohammad Nabi,Fazal Niazai,1,0,,,,,,"",""
+ball,1,14.6,Balkh Legends,Mohammad Nabi,RS Bopara,Fazal Niazai,1,0,,,,,,"",""
+ball,1,15.1,Balkh Legends,Mohammad Nabi,RS Bopara,Zahir Khan,0,0,,,,,,"",""
+ball,1,15.2,Balkh Legends,Mohammad Nabi,RS Bopara,Zahir Khan,0,0,,,,,,bowled,Mohammad Nabi
+ball,1,15.3,Balkh Legends,Ikram Alikhil,RS Bopara,Zahir Khan,1,0,,,,,,"",""
+ball,1,15.4,Balkh Legends,RS Bopara,Ikram Alikhil,Zahir Khan,0,1,,,,1,,"",""
+ball,1,15.5,Balkh Legends,Ikram Alikhil,RS Bopara,Zahir Khan,1,0,,,,,,"",""
+ball,1,15.6,Balkh Legends,RS Bopara,Ikram Alikhil,Zahir Khan,1,0,,,,,,"",""
+ball,1,16.1,Balkh Legends,RS Bopara,Ikram Alikhil,Fazal Niazai,6,0,,,,,,"",""
+ball,1,16.2,Balkh Legends,RS Bopara,Ikram Alikhil,Fazal Niazai,0,0,,,,,,"",""
+ball,1,16.3,Balkh Legends,RS Bopara,Ikram Alikhil,Fazal Niazai,0,0,,,,,,caught,RS Bopara
+ball,1,16.4,Balkh Legends,Gulbadin Naib,Ikram Alikhil,Fazal Niazai,0,0,,,,,,"",""
+ball,1,16.5,Balkh Legends,Gulbadin Naib,Ikram Alikhil,Fazal Niazai,1,0,,,,,,"",""
+ball,1,16.6,Balkh Legends,Ikram Alikhil,Gulbadin Naib,Fazal Niazai,0,1,1,,,,,"",""
+ball,1,16.7,Balkh Legends,Ikram Alikhil,Gulbadin Naib,Fazal Niazai,2,0,,,,,,"",""
+ball,1,17.1,Balkh Legends,Gulbadin Naib,Ikram Alikhil,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,17.2,Balkh Legends,Ikram Alikhil,Gulbadin Naib,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,17.3,Balkh Legends,Gulbadin Naib,Ikram Alikhil,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,17.4,Balkh Legends,Gulbadin Naib,Ikram Alikhil,Naveen-ul-Haq,0,0,,,,,,caught,Gulbadin Naib
+ball,1,17.5,Balkh Legends,Ikram Alikhil,Mirwais Ashraf,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,17.6,Balkh Legends,Ikram Alikhil,Mirwais Ashraf,Naveen-ul-Haq,1,0,,,,,,"",""
+ball,1,18.1,Balkh Legends,Ikram Alikhil,Mirwais Ashraf,BCJ Cutting,1,0,,,,,,"",""
+ball,1,18.2,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,BCJ Cutting,0,0,,,,,,"",""
+ball,1,18.3,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,BCJ Cutting,0,0,,,,,,"",""
+ball,1,18.4,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,BCJ Cutting,6,0,,,,,,"",""
+ball,1,18.5,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,BCJ Cutting,0,0,,,,,,"",""
+ball,1,18.6,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,BCJ Cutting,1,0,,,,,,"",""
+ball,1,19.1,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,19.2,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,19.3,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,Naveen-ul-Haq,0,0,,,,,,"",""
+ball,1,19.4,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,19.5,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,Naveen-ul-Haq,4,0,,,,,,"",""
+ball,1,19.6,Balkh Legends,Mirwais Ashraf,Ikram Alikhil,Naveen-ul-Haq,2,0,,,,,,"",""
+ball,2,0.1,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,0.2,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,0.3,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,0.4,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,0.5,Nangarhar Leopards,AP Devcich,ADS Fletcher,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,0.6,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,1.1,Nangarhar Leopards,AP Devcich,ADS Fletcher,Aftab Alam,0,0,,,,,,"",""
+ball,2,1.2,Nangarhar Leopards,AP Devcich,ADS Fletcher,Aftab Alam,0,1,1,,,,,"",""
+ball,2,1.3,Nangarhar Leopards,AP Devcich,ADS Fletcher,Aftab Alam,0,0,,,,,,"",""
+ball,2,1.4,Nangarhar Leopards,AP Devcich,ADS Fletcher,Aftab Alam,0,0,,,,,,"",""
+ball,2,1.5,Nangarhar Leopards,AP Devcich,ADS Fletcher,Aftab Alam,0,0,,,,,,"",""
+ball,2,1.6,Nangarhar Leopards,AP Devcich,ADS Fletcher,Aftab Alam,1,0,,,,,,"",""
+ball,2,1.7,Nangarhar Leopards,ADS Fletcher,AP Devcich,Aftab Alam,0,0,,,,,,"",""
+ball,2,2.1,Nangarhar Leopards,AP Devcich,ADS Fletcher,Mohammad Nabi,2,0,,,,,,"",""
+ball,2,2.2,Nangarhar Leopards,AP Devcich,ADS Fletcher,Mohammad Nabi,0,0,,,,,,"",""
+ball,2,2.3,Nangarhar Leopards,AP Devcich,ADS Fletcher,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,2.4,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,2.5,Nangarhar Leopards,AP Devcich,ADS Fletcher,Mohammad Nabi,2,0,,,,,,"",""
+ball,2,2.6,Nangarhar Leopards,AP Devcich,ADS Fletcher,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,3.1,Nangarhar Leopards,AP Devcich,ADS Fletcher,Aftab Alam,1,0,,,,,,"",""
+ball,2,3.2,Nangarhar Leopards,ADS Fletcher,AP Devcich,Aftab Alam,0,0,,,,,,"",""
+ball,2,3.3,Nangarhar Leopards,ADS Fletcher,AP Devcich,Aftab Alam,1,0,,,,,,"",""
+ball,2,3.4,Nangarhar Leopards,AP Devcich,ADS Fletcher,Aftab Alam,1,0,,,,,,"",""
+ball,2,3.5,Nangarhar Leopards,ADS Fletcher,AP Devcich,Aftab Alam,0,0,,,,,,"",""
+ball,2,3.6,Nangarhar Leopards,ADS Fletcher,AP Devcich,Aftab Alam,0,0,,,,,,"",""
+ball,2,4.1,Nangarhar Leopards,AP Devcich,ADS Fletcher,Mohammad Nabi,1,0,,,,,,"",""
+ball,2,4.2,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,4,0,,,,,,"",""
+ball,2,4.3,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,4.4,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,4,0,,,,,,"",""
+ball,2,4.5,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,4.6,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mohammad Nabi,6,0,,,,,,"",""
+ball,2,5.1,Nangarhar Leopards,AP Devcich,ADS Fletcher,Mirwais Ashraf,1,0,,,,,,"",""
+ball,2,5.2,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mirwais Ashraf,0,0,,,,,,"",""
+ball,2,5.3,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mirwais Ashraf,6,0,,,,,,"",""
+ball,2,5.4,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mirwais Ashraf,6,0,,,,,,"",""
+ball,2,5.5,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mirwais Ashraf,0,0,,,,,,"",""
+ball,2,5.6,Nangarhar Leopards,ADS Fletcher,AP Devcich,Mirwais Ashraf,1,0,,,,,,"",""
+ball,2,6.1,Nangarhar Leopards,ADS Fletcher,AP Devcich,Gulbadin Naib,0,0,,,,,,caught,ADS Fletcher
+ball,2,6.2,Nangarhar Leopards,AP Devcich,J Charles,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,6.3,Nangarhar Leopards,J Charles,AP Devcich,Gulbadin Naib,4,0,,,,,,"",""
+ball,2,6.4,Nangarhar Leopards,J Charles,AP Devcich,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,6.5,Nangarhar Leopards,AP Devcich,J Charles,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,6.6,Nangarhar Leopards,J Charles,AP Devcich,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,7.1,Nangarhar Leopards,J Charles,AP Devcich,Qais Ahmad,1,0,,,,,,"",""
+ball,2,7.2,Nangarhar Leopards,AP Devcich,J Charles,Qais Ahmad,0,1,1,,,,,"",""
+ball,2,7.3,Nangarhar Leopards,AP Devcich,J Charles,Qais Ahmad,0,0,,,,,,"",""
+ball,2,7.4,Nangarhar Leopards,AP Devcich,J Charles,Qais Ahmad,0,1,1,,,,,stumped,AP Devcich
+ball,2,7.5,Nangarhar Leopards,Rahmat Shah,J Charles,Qais Ahmad,0,0,,,,,,"",""
+ball,2,7.6,Nangarhar Leopards,Rahmat Shah,J Charles,Qais Ahmad,1,0,,,,,,"",""
+ball,2,7.7,Nangarhar Leopards,J Charles,Rahmat Shah,Qais Ahmad,0,0,,,,,,caught,J Charles
+ball,2,7.8,Nangarhar Leopards,Rahmat Shah,Hashmatullah Shahidi,Qais Ahmad,0,0,,,,,,"",""
+ball,2,8.1,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,EMDY Munaweera,0,0,,,,,,"",""
+ball,2,8.2,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,EMDY Munaweera,0,0,,,,,,"",""
+ball,2,8.3,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,EMDY Munaweera,0,0,,,,,,"",""
+ball,2,8.4,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,EMDY Munaweera,1,0,,,,,,"",""
+ball,2,8.5,Nangarhar Leopards,Rahmat Shah,Hashmatullah Shahidi,EMDY Munaweera,1,0,,,,,,"",""
+ball,2,8.6,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,EMDY Munaweera,1,0,,,,,,"",""
+ball,2,9.1,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,Qais Ahmad,2,0,,,,,,"",""
+ball,2,9.2,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,Qais Ahmad,0,0,,,,,,"",""
+ball,2,9.3,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,Qais Ahmad,1,0,,,,,,"",""
+ball,2,9.4,Nangarhar Leopards,Rahmat Shah,Hashmatullah Shahidi,Qais Ahmad,1,0,,,,,,"",""
+ball,2,9.5,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,Qais Ahmad,1,0,,,,,,"",""
+ball,2,9.6,Nangarhar Leopards,Rahmat Shah,Hashmatullah Shahidi,Qais Ahmad,0,0,,,,,,"",""
+ball,2,10.1,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,RS Bopara,0,0,,,,,,"",""
+ball,2,10.2,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,RS Bopara,0,0,,,,,,"",""
+ball,2,10.3,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,RS Bopara,1,0,,,,,,"",""
+ball,2,10.4,Nangarhar Leopards,Rahmat Shah,Hashmatullah Shahidi,RS Bopara,0,0,,,,,,"",""
+ball,2,10.5,Nangarhar Leopards,Rahmat Shah,Hashmatullah Shahidi,RS Bopara,1,0,,,,,,"",""
+ball,2,10.6,Nangarhar Leopards,Hashmatullah Shahidi,Rahmat Shah,RS Bopara,0,0,,,,,,"",""
+ball,2,11.1,Nangarhar Leopards,Rahmat Shah,Hashmatullah Shahidi,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.2,Nangarhar Leopards,Rahmat Shah,Hashmatullah Shahidi,Qais Ahmad,0,0,,,,,,"",""
+ball,2,11.3,Nangarhar Leopards,Rahmat Shah,Hashmatullah Shahidi,Qais Ahmad,0,0,,,,,,stumped,Rahmat Shah
+ball,2,11.4,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Qais Ahmad,4,0,,,,,,"",""
+ball,2,11.5,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Qais Ahmad,1,0,,,,,,"",""
+ball,2,11.6,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Qais Ahmad,1,0,,,,,,"",""
+ball,2,12.1,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,0,0,,,,,,"",""
+ball,2,12.2,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,0,0,,,,,,"",""
+ball,2,12.3,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,0,0,,,,,,"",""
+ball,2,12.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,1,0,,,,,,"",""
+ball,2,12.5,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,RS Bopara,1,0,,,,,,"",""
+ball,2,12.6,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,0,0,,,,,,"",""
+ball,2,13.1,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Qais Ahmad,0,0,,,,,,"",""
+ball,2,13.2,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Qais Ahmad,0,0,,,,,,"",""
+ball,2,13.3,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Qais Ahmad,1,0,,,,,,"",""
+ball,2,13.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Qais Ahmad,1,0,,,,,,"",""
+ball,2,13.5,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Qais Ahmad,2,0,,,,,,"",""
+ball,2,13.6,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Qais Ahmad,0,0,,,,,,"",""
+ball,2,14.1,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,0,0,,,,,,"",""
+ball,2,14.2,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,1,0,,,,,,"",""
+ball,2,14.3,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,RS Bopara,1,0,,,,,,"",""
+ball,2,14.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,0,0,,,,,,"",""
+ball,2,14.5,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,4,0,,,,,,"",""
+ball,2,14.6,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,RS Bopara,1,0,,,,,,"",""
+ball,2,15.1,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,15.2,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Gulbadin Naib,4,0,,,,,,"",""
+ball,2,15.3,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,15.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Gulbadin Naib,2,0,,,,,,"",""
+ball,2,15.5,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,15.6,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,16.1,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Aftab Alam,2,0,,,,,,"",""
+ball,2,16.2,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Aftab Alam,0,0,,,,,,"",""
+ball,2,16.3,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Aftab Alam,0,0,,,,,,"",""
+ball,2,16.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Aftab Alam,2,0,,,,,,"",""
+ball,2,16.5,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Aftab Alam,2,0,,,,,,"",""
+ball,2,16.6,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Aftab Alam,4,0,,,,,,"",""
+ball,2,17.1,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Gulbadin Naib,0,0,,,,,,"",""
+ball,2,17.2,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Gulbadin Naib,6,0,,,,,,"",""
+ball,2,17.3,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,17.4,Nangarhar Leopards,Hashmatullah Shahidi,Shafiqullah,Gulbadin Naib,1,0,,,,,,"",""
+ball,2,17.5,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Gulbadin Naib,4,0,,,,,,"",""
+ball,2,17.6,Nangarhar Leopards,Shafiqullah,Hashmatullah Shahidi,Gulbadin Naib,1,0,,,,,,"",""
